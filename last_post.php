@@ -1,44 +1,48 @@
 <div class="card">
     <div class="card-header">
-        <h3>12.&nbsp;stycznia 2020&nbsp;r.</h3>
-        <h3>Niedziela<br />
-            Święto Chrztu Pańskiego</h3>
+        <h3>19.&nbsp;stycznia 2020&nbsp;r.</h3>
+        <h3>II Niedziela Zwykła - Rok A</h3>
     </div>
     <div class="col">
-        <p>1. Zakończyliśmy w&nbsp;tym tygodniu wizytę duszpasterską. Bardzo
-            dziękuję księżom profesorom Piotrowi i&nbsp;Adamowi za&nbsp;pomoc
-            w&nbsp;sprawnym przeprowadzeniu wizyty duszpasterskiej. <em>Bóg
-            zapłać</em> wszystkim, którzy nas podwozili, <em>Bóg zapłać</em>
-            za&nbsp;Waszą życzliwość, gościnność, złożone ofiary
-            i&nbsp;wszelkie dobro, którego doznaliśmy w&nbsp;czasie
-            tegorocznych spotkań z&nbsp;Wami podczas wizyty duszpasterskiej.
-            Mamy serdeczną prośbę do&nbsp;wszystkich Parafian,
-            a&nbsp;szczególnie młodego pokolenia – nie odchodźcie
-            od&nbsp;Chrystusa, pozostańcie w&nbsp;łączności z&nbsp;Jezusem
-            i&nbsp;w&nbsp;łączności z&nbsp;Jezusem wychowujcie swoje dzieci!
-            Niech Rok Eucharystyczny, który obecnie przeżywamy pomoże nam
-            w&nbsp;umacnianiu naszej więzi z&nbsp;Jezusem, który nas kocha
-            i&nbsp;chce naszego prawdziwego dobra.</p>
-        <p>2. <em>Bóg zapłać</em> 1&nbsp;rodzinie za&nbsp;sprzątanie
-            kościoła, dary stołu i&nbsp;wszelką życzliwość.<br />
+        <p>1. Kandydatów do&nbsp;sakramentu bierzmowania z&nbsp;klas
+            8&nbsp;zapraszamy na&nbsp;spotkanie formacyjne we&nbsp;wtorek -
+            21&nbsp;stycznia. Grupa 1&nbsp;godz.&nbsp;17.00, grupa
+            2&nbsp;godzina 18.30.</p>
+        <p>2. W&nbsp;minionym tygodniu odwołał Pan Bóg do&nbsp;wieczności
+            Kazimierza Tenderendę i&nbsp;Zdzisława Bernasia. Polećmy ich
+            Bożemu Miłosierdziu odmawiając: <em>Wieczny odpoczynek...</em></p>
+        <p>3. <em>Bóg zapłać</em> za&nbsp;sprzątanie kościoła, złożoną
+            ofiarę, dary stołu i&nbsp;wszelką życzliwość.<br />
             <strong>Do&nbsp;sprzątania prosimy w&nbsp;sobotę na&nbsp;godzinę
-                7.00</strong> Rodziny z&nbsp;bloku Maciejowskiego 8 od&nbsp;31
-            do&nbsp;40 włącznie. <em>Bóg zapłać</em> Panom Wacławowi,
-            Tadeuszowi i&nbsp;Ryszardowi za&nbsp;pracę dla dobra Parafii.</p>
-        <p>3. Zbliżają się imieniny księdza Sebastiana. Msza Święta
-            w&nbsp;jego intencji, zamówiona przez Rodziny z&nbsp;Domowego
-            Kościoła i&nbsp;Legion Maryi, będzie odprawiona w&nbsp;niedzielę
-            o&nbsp;godzinie 11.15. Zapraszamy do&nbsp;wspólnej modlitwy
-            w&nbsp;intencjach Solenizanta.</p>
+            7.00</strong> Rodziny z&nbsp;bloku Maciejowskiego 7, numery
+            od&nbsp;1 do&nbsp;10 włącznie.</p>
         <p>4. Na&nbsp;stoliku pod chórem czasopisma Niedziela i&nbsp;Gość
             Niedzielny – cena po&nbsp;6&nbsp;złotych.</p>
-        <p>5. W&nbsp;dniach 3-12&nbsp;lipca 2020 roku organizowana jest
-            pielgrzymko-wycieczka do&nbsp;Medjugorie oraz innych miejsc
-            w&nbsp;Bośni i&nbsp;Hercegowinie, Chorwacji, Węgrzech. Bliższe
-            informacje na&nbsp;plakacie w&nbsp;gablocie przy wejściu
-            do&nbsp;kościoła.</p>
+        <p>5. W&nbsp;piątek 24&nbsp;stycznia o&nbsp;godz.&nbsp;18.15
+            w&nbsp;Bazylice Katedralnej w&nbsp;Sandomierzu podczas Tygodnia
+            Modlitw o&nbsp;Jedność Chrześcijan odbędzie się koncert
+            Kameralnego Chóru Męskiego kościoła prawosławnego parafii
+            św.&nbsp;Jana Klimaka z&nbsp;Warszawy. Zapraszamy serdecznie
+            do&nbsp;wysłuchania koncertu oraz modlitwy o&nbsp;jedność
+            Chrześcijan.</p>
+        <p>6. W&nbsp;sobotę 25&nbsp;stycznia w&nbsp;Wyższym Seminarium
+            Duchownym uroczystość ku&nbsp;czci świętego Tomasza
+            z&nbsp;Akwinu. Msza Święta koncelebrowana pod przewodnictwem
+            Księdza Biskupa Krzysztofa Nitkiewicza w&nbsp;kościele
+            seminaryjnym o&nbsp;godz.&nbsp;10.00. Serdecznie zapraszamy.</p>
+        <p>7. Trwają zapisy na&nbsp;pielgrzymkę do&nbsp;Medjugorie oraz
+            innych miejsc w&nbsp;Bośni i&nbsp;Hercegowinie, Chorwacji,
+            Węgrzech. Bliższe informacje na&nbsp;plakacie w&nbsp;gablocie
+            przy wejściu do&nbsp;kościoła oraz w&nbsp;zakrystii.</p>
+        <p>8. Wszystkim, którzy w&nbsp;tym tygodniu obchodzą swoje imieniny,
+            urodziny, jakiekolwiek rocznice, gościom, uczestnikom liturgii,
+            jak również ludziom starszym, schorowanym, którzy już osobiście
+            nie mogą uczestniczyć z&nbsp;nami w&nbsp;kościele
+            we&nbsp;Mszy&nbsp;św., składamy najlepsze życzenia
+            i&nbsp;zapewniamy o&nbsp;naszej modlitwie w&nbsp;waszych
+            intencjach.</p>
         <p>
-            <span style="float: left;">Sandomierz, 12.&nbsp;stycznia 2020&nbsp;r.</span>
+            <span style="float: left;">Sandomierz, 19.&nbsp;stycznia 2020&nbsp;r.</span>
             <span style="float: right; text-align: right;">ks. proboszcz Józef Śmigiel</span>
         </p>
     </div>
