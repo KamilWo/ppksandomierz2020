@@ -1,16 +1,16 @@
 <!DOCTYPE html>
 <html lang="pl-PL">
 <?php
-include 'head.php'
+include 'head.php';
 ?>
 <body>
 <?php
-include 'facebook.php'
+include 'facebook.php';
 ?>
 <div id="outer">
     <main role="main">
         <?php
-        include 'menu.php'
+        include 'menu.php';
         ?>
         <div class="container-fluid">
             <div class="row">

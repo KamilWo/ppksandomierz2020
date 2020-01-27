@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 <html lang="pl-PL">
 <?php
-include 'head_gallery.php'
+include 'head_gallery.php';
 ?>
 <body>
 <main role="main">
     <?php
-    include 'menu.php'
+    include 'menu.php';
     ?>
     <div class="container-fluid">
         <div class="row">
