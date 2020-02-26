@@ -1,5 +1,66 @@
 <div class="card">
     <div class="card-header">
+        <h3>Rekolekcje Wielkopostne<br/>
+            w&nbsp;Parafii Podwyższenia Krzyża Świętego<br/>
+            w&nbsp;Sandomierzu w&nbsp;roku 2020</h3>
+    </div>
+    <div class="col">
+        <p class="text-underline"><strong>Środa Popielcowa, 26&nbsp;lutego</strong></p>
+        <ul>
+            <li>9.00 – Msza&nbsp;św. z&nbsp;nauką dla wszystkich i&nbsp;posypanie głów popiołem</li>
+            <li>16.00 – Msza&nbsp;św. z&nbsp;nauką dla dzieci szkolnych i&nbsp;posypanie głów popiołem</li>
+            <li>17.30 – Różaniec w intencji parafian</li>
+            <li>18.00 – Msza&nbsp;św. z&nbsp;nauką dla wszystkich i&nbsp;posypanie głów popiołem</li>
+        </ul>
+
+        <p class="text-underline"><strong>Czwartek, 27&nbsp;lutego</strong></p>
+        <ul>
+            <li>9.00 – Msza&nbsp;św. z&nbsp;nauką dla wszystkich</li>
+            <li>17.30 – Różaniec w&nbsp;intencji parafian</li>
+            <li>18.00 – Msza&nbsp;św. z&nbsp;nauką dla wszystkich</li>
+        </ul>
+
+        <p class="text-underline"><strong>Piątek, 28&nbsp;lutego – DZIEŃ SPOWIEDZI</strong></p>
+        <p class="text-indent"><strong>(w&nbsp;godzinach: 8.30 - 10.00 i&nbsp;od&nbsp;16.30 – 17.30)</strong></p>
+        <ul>
+            <li>9.00 – Msza&nbsp;św. z&nbsp;nauką dla wszystkich – spowiadamy od&nbsp;godz.&nbsp;8.30</li>
+            <li>17.00 – Droga Krzyżowa dla wszystkich parafian (dzieci, młodzież, dorośli)</li>
+            <li>18:00 – Msza&nbsp;św. z&nbsp;nauką dla wszystkich</li>
+        </ul>
+
+        <p class="text-underline"><strong>Sobota, 29&nbsp;lutego – DZIEŃ ADORACJI NAJŚW. SAKRAMENTU</strong></p>
+        <ul>
+            <li>6.30 – Msza&nbsp;św. i&nbsp;wystawienie Najświętszego Sakramentu</li>
+            <li>9.00 – Msza&nbsp;św. z&nbsp;nauką dla wszystkich</li>
+            <li>11.00 – Msza&nbsp;św. z&nbsp;nauką dla chorych, emerytów, rencistów (udzielamy sakramentu chorych),
+                błogosławieństwo lourdzkie
+            </li>
+            <li>17.30 – Różaniec w intencji parafian i&nbsp;zakończenie adoracji Najświętszego Sakramentu</li>
+            <li>18.00 – Msza&nbsp;św. z&nbsp;nauką dla wszystkich</li>
+        </ul>
+
+        <p class="text-underline"><strong>Niedziela, 1&nbsp;marca 2020 - I&nbsp;WIELKIEGO POSTU</strong></p>
+        <ul>
+            <li>7.30, 9.30, 11.15, 12.30, 16.30, 19.30 – Msza&nbsp;św. z&nbsp;nauką rekolekcyjną</li>
+            <li>15.30 – Gorzkie Żale z&nbsp;kazaniem pasyjnym</li>
+        </ul>
+
+        <p style="float: right; text-align: right;">
+            <strong>Rekolekcje prowadzi ks.&nbsp;dr&nbsp;Adam Kopeć</strong><br/>
+            Dyrektor Wydziału Katechetyki przy Kurii Diecezjalnej.
+        </p>
+        <p class="clear"></p>
+        <p>
+            <span style="float: left;">Sandomierz, 23.&nbsp;lutego 2020&nbsp;r.</span>
+            <span style="float: right; text-align: right;">ks. proboszcz Józef Śmigiel</span>
+        </p>
+    </div>
+</div>
+<br/>
+
+
+<div class="card">
+    <div class="card-header">
         <h3>23.&nbsp;lutego 2020&nbsp;r.</h3>
         <h3>VII Niedziela Zwykła - Rok A</h3>
     </div>
@@ -47,14 +108,14 @@
         <p>7. W&nbsp;minionym tygodniu odwołał Pan Bóg z&nbsp;naszej parafii
             do&nbsp;wieczności Stanisława Kołodzieja. Polećmy
             go&nbsp;Miłosierdziu Bożemu odmawiając: <em>Wieczny
-                odpoczynek...</em></p>
+            odpoczynek...</em></p>
         <p>8. <em>Bóg zapłać</em> za&nbsp;sprzątanie kościoła, złożoną
             ofiarę przez sprzątających, dary stołu i&nbsp;wszelką
-            życzliwość.<br />
+            życzliwość.<br/>
             <strong>Do&nbsp;sprzątania prosimy w&nbsp;sobotę
-                na&nbsp;godz.&nbsp;7.00</strong> Rodziny z&nbsp;bloku
+            na&nbsp;godz.&nbsp;7.00</strong> Rodziny z&nbsp;bloku
             Maciejowskiego 4 od&nbsp;1 do&nbsp;10 włącznie. <em>Bóg
-                zapłać</em> Panu Ryszardowi i&nbsp;Tadeuszowi za&nbsp;pracę dla
+            zapłać</em> Panu Ryszardowi i&nbsp;Tadeuszowi za&nbsp;pracę dla
             dobra Parafii.</p>
         <p>9. Spotkanie dla kandydatów do&nbsp;Sakramentu Bierzmowania
             z&nbsp;kl.&nbsp;8 we&nbsp;wtorek o&nbsp;godzinie 17.00.</p>
