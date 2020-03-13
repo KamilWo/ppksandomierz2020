@@ -1,5 +1,20 @@
 <div class="card">
     <div class="card-header">
+        <h3>12.&nbsp;marca 2020&nbsp;r.</h3>
+        <h3>Komunikat dla Diecezji Sandomierskiej</h3>
+    </div>
+    <div class="col">
+        <p><img src="/static/download/FB_IMG_1584126347055.jpg"/></p>
+        <p>
+            <span style="float: left;">Sandomierz, 12.&nbsp;marca 2020&nbsp;r.</span>
+            <span style="float: right; text-align: right;">ks. proboszcz Józef Śmigiel</span>
+        </p>
+    </div>
+</div>
+<br />
+
+<div class="card">
+    <div class="card-header">
         <h3>8.&nbsp;marca 2020&nbsp;r.</h3>
         <h3>II NIEDZIELA WIELKIEGO POSTU - Rok A</h3>
     </div>
