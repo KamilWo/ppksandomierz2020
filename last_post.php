@@ -15,53 +15,53 @@
 
 <div class="card">
     <div class="card-header">
-        <h3>8.&nbsp;marca 2020&nbsp;r.</h3>
-        <h3>II NIEDZIELA WIELKIEGO POSTU - Rok A</h3>
+        <h3>15.&nbsp;marca 2020&nbsp;r.</h3>
+        <h3>III NIEDZIELA WIELKIEGO POSTU - Rok A</h3>
     </div>
     <div class="col">
-        <p>1. Dzisiaj o&nbsp;15.30 Gorzkie Żale z&nbsp;kazaniem pasyjnym,
+        <p>1. Młodzieży bierzmowanej w&nbsp;poniedziałek składam
+            podziękowanie za&nbsp;piękną postawę podczas liturgii. Rodzicom
+            <em>Bóg zapłać</em> za&nbsp;wystrój kościoła
+            na&nbsp;tę&nbsp;uroczystość, sprzątanie i&nbsp;złożoną ofiarę
+            jako dar ofiarny na&nbsp;kościół.</p>
+        <p>2. Dzisiaj o&nbsp;15.30 Gorzkie Żale z&nbsp;kazaniem pasyjnym,
             następnie Msza Święta.</p>
-        <p>2. Droga Krzyżowa w&nbsp;piątek dla dzieci o&nbsp;16.30, dla
-            dorosłych, 17.30 i&nbsp;dla młodzieży o&nbsp;19.00. Zapraszamy
-            do&nbsp;licznego udziału. Stacyjna Droga Krzyżowa będzie
-            w&nbsp;piątek o&nbsp;godzinie 17.00 w&nbsp;kościele Chrystusa
-            Króla.</p>
-        <p>3. <strong>Katechizacja przygotowująca do&nbsp;Sakramentu
+        <p>3. W&nbsp;piątek 19&nbsp;marca uroczystość Świętego Józefa, męża
+            Maryi, Opiekuna Jezusa i&nbsp;Kościoła Świętego. Msza Święta
+            o&nbsp;Św.&nbsp;Józefie we&nbsp;czwartek o&nbsp;godzinie 18.00.
+            <strong>Z&nbsp;racji stanu zagrożenia epidemicznego nie będzie
+            możliwości składania życzeń księdzu Proboszczowi
+            i&nbsp;osobistych spotkań. Bardzo dziękuję Wam Kochani
+            za&nbsp;pamięć, ofiarność i&nbsp;życzliwość. Aby nie stało się
+            coś złego Komuś, proszę tylko o&nbsp;modlitwę. <em>Bóg
+            zapłać</em>.</strong></p>
+        <p>4. Droga Krzyżowa w&nbsp;piątek dla dzieci o&nbsp;16.30, dla
+            dorosłych 17.30, dla młodzieży o&nbsp;19.00. Stacyjna Droga
+            Krzyżowa o&nbsp;godzinie 17.00 w&nbsp;kościele Św.&nbsp;Pawła.</p>
+        <p>5. <strong>Katechizacja przygotowująca do&nbsp;Sakramentu
             małżeństwa trwa w&nbsp;Parafii katedralnej.</strong></p>
-        <p>4. W&nbsp;minionym tygodniu odwołał Pan Bóg z&nbsp;naszej parafii
-            do&nbsp;wieczności Lucynę Krzystanek-Słyk i&nbsp;Zenona
-            Królikowskiego. Polećmy ich Miłosierdziu Bożemu odmawiając:
-            <em>Wieczny odpoczynek...</em></p>
-        <p>5. <em>Bóg zapłać</em> za&nbsp;sprzątanie kościoła, złożoną
-            ofiarę Rodzicom młodzieży, która jutro przystąpi
-            do&nbsp;Sakramentu Bierzmowania, którego szafarzem
-            <strong>będzie Pasterz diecezji, ks.&nbsp;biskup Krzysztof
-            Nitkiewicz</strong>. <em>Bóg zapłać</em> Panu Wacławowi,
-            Ryszardowi i&nbsp;Tadeuszowi za&nbsp;pracę dla dobra Parafii.</p>
-        <p>6. <strong>Do&nbsp;sprzątania prosimy w&nbsp;sobotę
+        <p>6. <em>Bóg zapłać</em> za&nbsp;sprzątanie kościoła Pani Dorocie
+            i&nbsp;Panu Jackowi. <em>Bóg zapłać</em> Panu  Ryszardowi
+            i&nbsp;Tadeuszowi za&nbsp;pracę dla dobra Parafii.</p>
+        <p>7. <strong>Do&nbsp;sprzątania prosimy w&nbsp;sobotę
             na&nbsp;godzinę 7.00</strong> Rodziny z&nbsp;bloku
-            Maciejowskiego 6 od&nbsp;1 do&nbsp;10 włącznie.</p>
-        <p>7. Spotkanie grupy Odnowy w&nbsp;Duchu Świętym we&nbsp;wtorek
+            Maciejowskiego 6 od&nbsp;11 do&nbsp;20 włącznie.</p>
+        <p>8. Spotkanie grupy Odnowy w&nbsp;Duchu Świętym we&nbsp;wtorek
             po&nbsp;Mszy&nbsp;św. o&nbsp;godz.&nbsp;18.00.</p>
-        <p>8. Na&nbsp;stoliku pod chórem jest najnowsza prasa katolicka.
-            Zachęcamy do&nbsp;nabywania i&nbsp;czytania prasy
-            katolickiej.</p>
-        <p>9. Dzisiaj wychodząc z&nbsp;kościoła możemy złożyć ofiarę
-            do&nbsp;puszek na&nbsp;rzecz dzieła pomocy misjonarzom
-            "Ad&nbsp;gentes".</p>
+        <p>9. Na&nbsp;stoliku pod chórem jest najnowsza prasa katolicka.
+            Zachęcamy do&nbsp;nabywania i&nbsp;czytania prasy katolickiej.
+            Zachęcamy do&nbsp;nabywania baranków wielkanocnych – Akcja
+            Caritas.</p>
         <p>10. Trwają zapisy na&nbsp;pielgrzymkę do&nbsp;Medjugorie oraz
             innych miejsc w&nbsp;Bośni i&nbsp;Hercegowinie, Chorwacji,
             Węgrzech. Bliższe informacje na&nbsp;plakacie w&nbsp;gablocie
             przy wejściu do&nbsp;kościoła oraz w&nbsp;zakrystii.</p>
-        <p>11. Wszystkim, którzy w&nbsp;tym tygodniu obchodzą swoje
-            imieniny, urodziny, jakiekolwiek rocznice, gościom, uczestnikom
-            liturgii, jak również ludziom starszym, schorowanym, którzy już
-            osobiście nie mogą uczestniczyć z&nbsp;nami w&nbsp;kościele
-            we&nbsp;Mszy&nbsp;św., składamy najlepsze życzenia
-            i&nbsp;zapewniamy o&nbsp;naszej modlitwie w&nbsp;waszych
-            intencjach.</p>
+        <p>11. Wszystkim, którzy w&nbsp;tym tygodniu obchodzą swoje imieniny,
+            urodziny, jakiekolwiek rocznice, gościom, uczestnikom liturgii,
+            składamy najlepsze życzenia i&nbsp;zapewniamy o&nbsp;naszej
+            modlitwie w&nbsp;waszych intencjach.</p>
         <p>
-            <span style="float: left;">Sandomierz, 8.&nbsp;marca 2020&nbsp;r.</span>
+            <span style="float: left;">Sandomierz, 15.&nbsp;marca 2020&nbsp;r.</span>
             <span style="float: right; text-align: right;">ks. proboszcz Józef Śmigiel</span>
         </p>
     </div>
