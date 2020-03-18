@@ -1,10 +1,28 @@
 <div class="card">
     <div class="card-header">
+        <h3>15.&nbsp;marca 2020&nbsp;r.</h3>
+        <h3>Nowe zarządzenie</h3>
+    </div>
+    <div class="col">
+        <p>Nowe zarządzenie z dnia 13 marca 2020 r.</p>
+        <p><a href="/static/download/Nowe_zarzadzenie_13_marca_2020.pdf">Zarządzenie - plik do pobrania</a></p>
+        <p>
+            <span style="float: left;">Sandomierz, 15.&nbsp;marca 2020&nbsp;r.</span>
+            <span style="float: right; text-align: right;">ks. proboszcz Józef Śmigiel</span>
+        </p>
+    </div>
+</div>
+<br />
+
+<div class="card">
+    <div class="card-header">
         <h3>12.&nbsp;marca 2020&nbsp;r.</h3>
         <h3>Komunikat dla Diecezji Sandomierskiej</h3>
     </div>
     <div class="col">
+        <p>Dekret Biskupa Sandomierskiego z dnia 12 marca 2020 r.</p>
         <p><img src="/static/download/FB_IMG_1584126347055.jpg"/></p>
+        <p><a href="/static/download/Dekret_003_12_marca_2020.pdf">Dekret - plik do pobrania</a></p>
         <p>
             <span style="float: left;">Sandomierz, 12.&nbsp;marca 2020&nbsp;r.</span>
             <span style="float: right; text-align: right;">ks. proboszcz Józef Śmigiel</span>
