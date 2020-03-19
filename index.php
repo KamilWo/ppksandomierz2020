@@ -19,6 +19,11 @@ include 'facebook.php';
 
                     <h2 class="first-content-header text-center">Witamy na oficjalnej stronie Parafii!</h2>
 
+                    <h3 style="color: red;">Zgodnie z&nbsp;zaleceniem Biskupa Sandomierskiego Krzysztofa Nitkiewicza z&nbsp;dnia
+                    19&nbsp;marca&nbsp;2020&nbsp;r. informujemy, że&nbsp;"nabożeństwa Drogi Krzyżowej
+                    i&nbsp;Gorzkich Żalów, a&nbsp;także spowiedź wielkopostna dla całych parafii w&nbsp;konkretnym
+                    dniu" zostają odwołane.</h3>
+
                     <img class="swiatynia rounded mx-auto d-block" src="static/src/images/swiatynia.jpg"
                          alt="swiatynia.jpg" title="Kościół parafialny"/><br/>
                     <p class="text-center">Zdjęcie: Kościół parafialny</p><br/>

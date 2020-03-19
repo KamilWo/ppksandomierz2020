@@ -1,5 +1,23 @@
 <div class="card">
     <div class="card-header">
+        <h3>19.&nbsp;marca 2020&nbsp;r.</h3>
+        <h3>Komunikat</h3>
+    </div>
+    <div class="col">
+        <h4 style="color: red;">Zgodnie z&nbsp;zaleceniem Biskupa Sandomierskiego Krzysztofa
+        Nitkiewicza z&nbsp;dnia 19&nbsp;marca&nbsp;2020&nbsp;r. informujemy, że:<br />
+        "nabożeństwa Drogi Krzyżowej i&nbsp;Gorzkich Żalów, a&nbsp;także spowiedź wielkopostna
+        dla całych parafii w&nbsp;konkretnym dniu" zostają odwołane.</h4>
+        <p>
+            <span style="float: left;">Sandomierz, 19.&nbsp;marca 2020&nbsp;r.</span>
+            <span style="float: right; text-align: right;">ks. proboszcz Józef Śmigiel</span>
+        </p>
+    </div>
+</div>
+<br />
+
+<div class="card">
+    <div class="card-header">
         <h3>15.&nbsp;marca 2020&nbsp;r.</h3>
         <h3>Nowe zarządzenie</h3>
     </div>
