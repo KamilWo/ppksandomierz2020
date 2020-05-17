@@ -1,19 +1,19 @@
 <div class="card">
     <div class="card-header">
-        <h3>10.&nbsp;maja 2020&nbsp;r.</h3>
-        <h3>V NIEDZIELA WIELKANOCNA - Rok A</h3>
+        <h3>17.&nbsp;maja 2020&nbsp;r.</h3>
+        <h3>VI NIEDZIELA WIELKANOCNA - Rok A</h3>
     </div>
     <div class="col">
-        <p>1. <strong>Jak wiemy od&nbsp;poniedziałku 20&nbsp;kwietnia
+        <p>1. <strong>Jak wiemy, od&nbsp;dzisiaj - 17&nbsp;maja -
         w&nbsp;kościele może być na&nbsp;Mszy Świętej więcej osób.</strong>
-        1&nbsp;osoba na&nbsp;15 m<sup>2</sup>. U&nbsp;nas w&nbsp;kościele
-        może uczestniczyć 47&nbsp;osób – oczywiście w&nbsp;rozproszeniu
-        po&nbsp;całym kościele. <strong>Zapraszamy zatem korzystajcie
-        z&nbsp;tej możliwości.</strong> Gdyby było już więcej osób,
-        pozostańmy na&nbsp;zewnątrz kościoła w&nbsp;odstępach od&nbsp;siebie
-        – ok.&nbsp;2&nbsp;m. Będzie włączone nagłośnienie, aby uczestnicy
-        wszystko słyszeli; z&nbsp;komunią Świętą kapłan będzie stał
-        na&nbsp;podeście przy drzwiach głównych.</p>
+        1&nbsp;osoba na&nbsp;10&nbsp;m<sup>2</sup>. U&nbsp;nas
+        w&nbsp;kościele może uczestniczyć <strong>72&nbsp;osoby</strong>
+        – oczywiście w&nbsp;rozproszeniu po&nbsp;całym kościele.
+        <strong>Zapraszamy zatem korzystajcie z&nbsp;tej możliwości.</strong>
+        Gdyby było już więcej osób, pozostańmy na&nbsp;zewnątrz kościoła
+        w&nbsp;odstępach od&nbsp;siebie – ok.&nbsp;2&nbsp;m. Będzie włączone
+        nagłośnienie, aby uczestnicy wszystko słyszeli; z&nbsp;komunią Świętą
+        kapłan będzie stał na&nbsp;podeście przy drzwiach głównych.</p>
         <p>2. W&nbsp;dni powszednie Msza Święta jest odprawiana o&nbsp;6.30
         i&nbsp;18.00. Kto zamawiał intencje do&nbsp;odprawienia w&nbsp;tym
         okresie niech sprawdza w&nbsp;gablocie na&nbsp;wywieszce.</p>
@@ -27,35 +27,40 @@
         epidemii.</p>
         <p>5. Nabożeństwo majowe w&nbsp;dni powszednie odprawiamy
         o&nbsp;godzinie 17.30.</p>
-        <p>6. W&nbsp;minionym tygodniu odwołał Pan Bóg do&nbsp;wieczności
-        Łucję Czarnecką, Zdzisławę Żak i&nbsp;Mariannę Teterling, której
-        pogrzeb będzie we&nbsp;wtorek o&nbsp;godzinie 14.00. <em>Wieczny
-        odpoczynek...</em></p>
-        <p>7. Katechizacja przygotowująca do&nbsp;Sakramentu małżeństwa dla
-        tych, którzy planują brać ślub do&nbsp;września jest prowadzona przez
-        Internet. Katechezy są&nbsp;we&nbsp;wtorek i&nbsp;piątek
+        <p>6. Katechizacja przygotowująca do&nbsp;Sakramentu małżeństwa dla
+        tych, którzy planują brać ślub do&nbsp;września jest prowadzona
+        przez Internet. Katechezy są&nbsp;we&nbsp;wtorek i&nbsp;piątek
         o&nbsp;godzinie 20.00. Informacja szczegółowa dla zainteresowanych
         jest w&nbsp;gablocie.</p>
-        <p>8. <em>Bóg zapłać</em> za&nbsp;pracę dla dobra parafii Panom:
-        Ryszardowi i&nbsp;Tadeuszowi. <em>Bóg zapłać</em> za&nbsp;ofiary dla
+        <p>7. <em>Bóg zapłać</em> za&nbsp;złożoną ofiarę na&nbsp;sprzątanie
+        Pani Ani i&nbsp;za&nbsp;pracę dla dobra parafii Panom: Adamowi,
+        Ryszardowii Tadeuszowi. <em>Bóg zapłać</em> za&nbsp;ofiary dla
         Parafii, które przesyłacie na&nbsp;konto bankowe lub składacie
         w&nbsp;zakrystii.</p>
-        <p>9. Bardzo prosimy poruszających się po&nbsp;placu kościelnym
+        <p>8. Informujemy, że&nbsp;Jadłodajnia Romana od&nbsp;jutra -
+        18&nbsp;maja - będzie pracować jak dawniej, tzn. z&nbsp;możliwością
+        konsumpcji posiłków na&nbsp;miejscu. Jeżeli będzie taka potrzeba,
+        będzie możliwość spożywania posiłków na&nbsp;dużej sali, aby zachować
+        odpowiednie odległości między stolikami. Zapraszamy.</p>
+        <p>9. Pielgrzymka do&nbsp;Medjugorie została odwołana z&nbsp;racji
+        koronawirusa. Ks.&nbsp;Krzysztof będzie się kontaktował telefonicznie
+        z&nbsp;zapisanymi osobami.</p>
+        <p>10. Bardzo prosimy poruszających się po&nbsp;placu kościelnym
         samochodami, aby nie wjeżdżać na&nbsp;rabatki kwiatowe i&nbsp;nie
         niszczyć kwiatów. Pomyśl sobie, że&nbsp;Ciebie ktoś przejeżdża
         samochodem, jak byś się czuł - podobnie cierpią kwiaty przejechane
         przez kierowcę.</p>
-        <p>10. <strong>Do&nbsp;sprzątania prosimy w&nbsp;sobotę
+        <p>11. <strong>Do&nbsp;sprzątania prosimy w&nbsp;sobotę
         na&nbsp;godzinę 7.00</strong> Rodziny z&nbsp;bloku Maciejowskiego 6
-        od&nbsp;60 do&nbsp;65 włącznie.</p>
-        <p>11. Na&nbsp;stoliku pod chórem jest najnowsza prasa katolicka.
+        od&nbsp;66 do&nbsp;70 włącznie.</p>
+        <p>12. Na&nbsp;stoliku pod chórem jest najnowsza prasa katolicka.
         Zachęcamy do&nbsp;nabywania i&nbsp;czytania prasy katolickiej.</p>
-        <p>12. Wszystkim, którzy w&nbsp;tym tygodniu obchodzą swoje imieniny,
+        <p>13. Wszystkim, którzy w&nbsp;tym tygodniu obchodzą swoje imieniny,
         urodziny, jakiekolwiek rocznice, gościom, uczestnikom liturgii,
         składamy najlepsze życzenia i&nbsp;zapewniamy o&nbsp;naszej modlitwie
         w&nbsp;waszych intencjach.</p>
         <p>
-            <span style="float: left;">Sandomierz, 10.&nbsp;maja 2020&nbsp;r.</span>
+            <span style="float: left;">Sandomierz, 17.&nbsp;maja 2020&nbsp;r.</span>
             <span style="float: right; text-align: right;">ks. proboszcz Józef Śmigiel</span>
         </p>
     </div>
@@ -72,10 +77,10 @@
         <h4>
             Informujemy, że&nbsp;zgodnie z&nbsp;nowymi przepisami
             na&nbsp;Mszach św. w&nbsp;naszym kościele może uczestniczyć
-            maksymalnie <strong>47&nbsp;osób.</strong>
+            maksymalnie <strong>72&nbsp;osoby.</strong>
         </h4>
         <p>
-            <span style="float: left;">Sandomierz, 19.&nbsp;kwietnia 2020&nbsp;r.</span>
+            <span style="float: left;">Sandomierz, 17.&nbsp;maja 2020&nbsp;r.</span>
             <span style="float: right; text-align: right;">ks. proboszcz Józef Śmigiel</span>
         </p>
     </div>
