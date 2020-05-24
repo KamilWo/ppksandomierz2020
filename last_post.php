@@ -35,7 +35,7 @@
         jest w&nbsp;gablocie.</p>
         <p>7. W&nbsp;minionym tygodniu odwołał Pan Bóg z&nbsp;naszej
         wspólnoty do&nbsp;wieczności Teresę Świątańską. Polećmy
-        ją&nbsp;Bożemu miłosierdziu odmawiając: <em>ieczny odpoczynek...</em></p>
+        ją&nbsp;Bożemu miłosierdziu odmawiając: <em>Wieczny odpoczynek...</em></p>
         <p>8. <em>Bóg zapłać</em> za&nbsp;sprzątanie kościoła i&nbsp;złożoną
         ofiarę na&nbsp;sprzątanie oraz na&nbsp;kwiaty, za&nbsp;pracę dla
         dobra parafii Panom: Tadeuszowi i&nbsp;Ryszardowi, za&nbsp;podlewanie
