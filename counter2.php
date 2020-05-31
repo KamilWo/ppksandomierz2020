@@ -1,4 +1,6 @@
-
+<?php
+require_once "config/connection.php";
+?>
 <p style="text-align: right;"><br/>Od 31. marca 2012 r.<br/>stronę odwiedziło osób:<br/><br/>
 <span>
 <?php
