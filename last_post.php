@@ -1,5 +1,82 @@
 <div class="card">
     <div class="card-header">
+        <h3>7.&nbsp;czerwca 2020&nbsp;r.</h3>
+        <h3>X NIEDZIELA ZWYKŁA - Rok A</h3>
+        <h3>Uroczystość Trójcy Przenajświętszej</h3>
+    </div>
+    <div class="col">
+        <p>1. <strong>Jak wiemy, od&nbsp;30&nbsp;maja nie ma&nbsp;ograniczeń
+        co&nbsp;do&nbsp;liczby uczestników we&nbsp;Mszy Świętej
+        w&nbsp;kościele. Pamiętajmy zatem, że&nbsp;Pan Bóg
+        w&nbsp;3&nbsp;przykazaniu mówi nam: "Pamiętaj, abyś dzień święty
+        święcił". Zapraszamy do&nbsp;udziału we&nbsp;Mszy Świętej
+        w&nbsp;każdą niedzielę i&nbsp;święto nakazane wszystkich parafian:
+        dzieci, młodzież i&nbsp;dorosłych. Ks.&nbsp;biskup Ordynariusz
+        w&nbsp;wydanym ostatnio dekrecie informuje...</strong></p>
+        <p>2. <strong>W&nbsp;czwartek 11&nbsp;czerwca Uroczystość Bożego
+        Ciała. U&nbsp;nas porządek Mszy Świętych jest następujący: 7.30,
+        9.30, 11.15 z&nbsp;procesją dookoła kościoła ze&nbsp;śpiewem
+        Ewangelii przy przygotowanych 4&nbsp;ołtarzach. Nie będzie Mszy
+        Świętej o&nbsp;godzinie 12.30. Kolejna Msza święta będzie
+        o&nbsp;godzinie 16.00 i&nbsp;20.30.</strong></p>
+        <p>3. W&nbsp;dzisiejszą niedzielę – Niedzielę Trójcy Świętej -
+        kończy się okres spowiedzi wielkanocnej. Przypominamy,
+        że&nbsp;przykazanie kościelne uczy nas: <strong>przynajmniej raz
+        w&nbsp;roku spowiadać się i&nbsp;w&nbsp;czasie wielkanocnym komunię
+        świętą przyjmować</strong>. Kto nie był jeszcze w&nbsp;tym roku
+        u&nbsp;spowiedzi Świętej wielkanocnej, niech to&nbsp;uczyni
+        w&nbsp;najbliższym czasie. Spowiadamy codziennie przed Mszą świętą
+        rano i&nbsp;wieczorem.</p>
+        <p>4. W&nbsp;dni powszednie Msza Święta jest odprawiana o&nbsp;6.30
+        i&nbsp;18.00. Kto zamawiał intencje do&nbsp;odprawienia, niech
+        sprawdza w&nbsp;gablocie na&nbsp;wywieszce.</p>
+        <p>5. Nabożeństwo do&nbsp;Serca Pana Jezusa od&nbsp;piątku, przez
+        cały czas oktawy Bożego Ciała, będziemy odprawiać o&nbsp;17.30.</p>
+        <p>6. Bardzo dziękujemy, że&nbsp;Panie zgłosiły się i&nbsp;chętnie
+        przygotują ołtarze na&nbsp;Boże Ciało - <strong>Koło Gospodyń
+        Chwałowianki I&nbsp;ołtarz, Kobierzanki – II, Koło Gospodyń Wiejskich
+        Milczany – III, a&nbsp;Zespół, który co&nbsp;roku przygotowywał
+        ołtarz IV ołtarz – na podeście przy wejściu do kościoła</strong>
+        i&nbsp;tutaj będzie zakończenie procesji. Prosimy o&nbsp;odnowienie
+        paramentów procesyjnych – chorągwi, feretronów, poduszeczki, różańca
+        i&nbsp;wzięcie ich na&nbsp;procesję.</p>
+        <p>7. Kościół jest otwarty przez cały dzień, zachęcamy
+        do&nbsp;modlitwy przed Najświętszym Sakramentem o&nbsp;ustanie
+        epidemii.</p>
+        <p>8. <em>Bóg zapłać</em> za&nbsp;sprzątanie kościoła, kwiaty,
+        Panom: Tadeuszowi i&nbsp;Ryszardowi za&nbsp;pracę dla dobra Parafii,
+        Panu Januszowi za&nbsp;ufundowanie bezprzewodowego sprzętu
+        nagłaśniającego dla Parafii, za&nbsp;podlewanie kwiatów
+        na&nbsp;rabatkach Rodzinie Daniela i&nbsp;Agaty wraz z&nbsp;dziećmi:
+        Gabrysiem i&nbsp;Antosiem, Państwu Ani i&nbsp;Stanisławowi
+        za&nbsp;kwiaty przy figurze Świętego Józefa i&nbsp;Matki Bożej,
+        za&nbsp;ofiary dla Parafii, które przesyłacie na&nbsp;konto bankowe
+        lub składacie w&nbsp;zakrystii.</p>
+        <p>9. <strong>Do&nbsp;sprzątania prosimy w&nbsp;sobotę
+        na&nbsp;godzinę 7.00</strong> rodziny z&nbsp;bloku Maciejowskiego 5
+        od&nbsp;21 do&nbsp;30.</p>
+        <p>10. Informujemy, że&nbsp;Jadłodajnia Romana już pracuje, jak
+        dawniej, tzn. z&nbsp;możliwością konsumpcji posiłków
+        na&nbsp;miejscu.</p>
+        <p>11. Na&nbsp;stoliku pod chórem jest najnowsza prasa katolicka.
+        Zachęcamy do&nbsp;nabywania i&nbsp;czytania prasy katolickiej.</p>
+        <p>12. Wszystkim, którzy w&nbsp;tym tygodniu obchodzą swoje imieniny,
+        urodziny, jakiekolwiek rocznice, gościom, uczestnikom liturgii,
+        składamy najlepsze życzenia i&nbsp;zapewniamy o&nbsp;naszej modlitwie
+        w&nbsp;waszych intencjach.</p>
+
+        <h4>13 czerwca godz.&nbsp;9.00 – rajd papieski w&nbsp;nowej
+        formule.</h4>
+        <p>
+            <span style="float: left;">Sandomierz, 7.&nbsp;czerwca 2020&nbsp;r.</span>
+            <span style="float: right; text-align: right;">ks. proboszcz Józef Śmigiel</span>
+        </p>
+    </div>
+</div>
+<br />
+
+<div class="card">
+    <div class="card-header">
         <h3>
             Dekret o&nbsp;obowiązku uczestnictwa we&nbsp;Mszy Świętej
         </h3>
@@ -67,83 +144,4 @@
 </div>
 <br />
 
-<div class="card">
-    <div class="card-header">
-        <h3>31.&nbsp;maja 2020&nbsp;r.</h3>
-        <h3>NIEDZIELA Zesłania Ducha Świętego - Rok A</h3>
-    </div>
-    <div class="col">
-        <p>1. <strong>Jak wiemy, od&nbsp;dzisiejszego dnia nie ma&nbsp;ograniczeń
-        co&nbsp;do&nbsp;liczby uczestników we&nbsp;Mszy Świętej
-        w&nbsp;kościele. Pamiętajmy zatem, że&nbsp;Pan Bóg
-        w&nbsp;3&nbsp;przykazaniu mówi nam: "Pamiętaj abyś dzień święty
-        święcił". Zapraszamy do&nbsp;udziału we&nbsp;Mszy Świętej
-        w&nbsp;każdą niedzielę i&nbsp;święto nakazane wszystkich parafian:
-        dzieci, młodzież i&nbsp;dorosłych. Ks.&nbsp;biskup Ordynariusz
-        w&nbsp;wydanym ostatnio dekrecie informuje...</strong></p>
-        <p>2. <strong>Jutro Święto Matki Kościoła. U&nbsp;nas Msza Święta
-        o&nbsp;godzinie 6.30, 9.00 i&nbsp;18.00. Czcicieli Matki Bożej
-        zapraszamy do&nbsp;udziału we&nbsp;Mszy Świętej.</strong></p>
-        <p>3. W&nbsp;najbliższą niedzielę – Niedzielę Trójcy Świętej – kończy
-        się okres spowiedzi wielkanocnej. Przypominamy, że&nbsp;przykazanie
-        kościelne uczy nas: <strong>przynajmniej raz w&nbsp;roku spowiadać
-        się i&nbsp;w&nbsp;czasie wielkanocnym komunię świętą
-        przyjmować</strong>. Kto nie był jeszcze w&nbsp;tym roku
-        u&nbsp;spowiedzi Świętej wielkanocnej, niech to&nbsp;uczyni
-        w&nbsp;tym tygodniu. Spowiadamy codziennie przed Mszą świętą rano
-        i&nbsp;wieczorem.</p>
-        <p>4. W&nbsp;dni powszednie Msza Święta jest odprawiana o&nbsp;6.30
-        i&nbsp;18.00. Kto zamawiał intencje do&nbsp;odprawienia, niech
-        sprawdza w&nbsp;gablocie na&nbsp;wywieszce.</p>
-        <p>5. W&nbsp;tym tygodniu wypada pierwszy czwartek, piątek
-        i&nbsp;sobota miesiąca. Spowiedź św.&nbsp;w&nbsp;pierwszy piątek
-        od&nbsp;godz.&nbsp;17.00, nabożeństwo I&nbsp;sobotnie o&nbsp;godzinie
-        17.00. Z&nbsp;posługą do&nbsp;chorych pójdziemy w&nbsp;tym
-        tygodniu.</p>
-        <p>6. Nabożeństwo do&nbsp;Serca Pana Jezusa przez cały czerwiec
-        będziemy odprawiać o&nbsp;17.40.</p>
-        <p>7. W&nbsp;Boże Ciało procesje będą przy kościołach. Prosimy Koło
-        Gospodyń <strong>Chwałowianki o&nbsp;przygotowanie I-go ołtarza,
-        Kobierzanki – II-go, Koło Gospodyń Wiejskich Milczany – III,
-        a&nbsp;Zespół, który co&nbsp;roku przygotowywał ołtarz IV –
-        ołtarza na&nbsp;podeście przy wejściu do&nbsp;kościoła</strong>
-        i&nbsp;tutaj będzie zakończenie procesji. Zainteresowani ołtarzami
-        kontaktują się z&nbsp;Księdzem Krzysztofem.</p>
-        <p>8. Kościół jest otwarty przez cały dzień, zachęcamy
-        do&nbsp;modlitwy przed Najświętszym Sakramentem o&nbsp;ustanie
-        epidemii.</p>
-        <p>9. W&nbsp;minionym tygodniu odwołał Pan Bóg z&nbsp;naszej
-        wspólnoty do&nbsp;wieczności Pawła Grzesiaka. Polećmy go&nbsp;Bożemu
-        miłosierdziu odmawiając: <em>wieczny odpoczynek...</em></p>
-        <p>10. <em>Bóg zapłać</em> za&nbsp;sprzątanie kościoła i&nbsp;świeże
-        kwiaty, za&nbsp;pracę dla dobra parafii Panom: Tadeuszowi
-        i&nbsp;Ryszardowi, za&nbsp;podlewanie kwiatów na&nbsp;rabatkach
-        Rodzinie Daniela i&nbsp;Agaty wraz z&nbsp;dziećmi: Gabrysiem
-        i&nbsp;Antosiem. <em>Bóg zapłać</em> za&nbsp;ofiary dla Parafii,
-        które przesyłacie na&nbsp;konto bankowe lub składacie
-        w&nbsp;zakrystii.</p>
-        <p>11. <strong>Do&nbsp;sprzątania prosimy w&nbsp;sobotę
-        na&nbsp;godzinę 7.00</strong> rodziny z&nbsp;bloku Maciejowskiego 5
-        od&nbsp;11 do&nbsp;20.</p>
-        <p>12. Informujemy, że&nbsp;Jadłodajnia Romana już pracuje, jak
-        dawniej, tzn. z&nbsp;możliwością konsumpcji posiłków
-        na&nbsp;miejscu.</p>
-        <p>13. Na&nbsp;stoliku pod chórem jest najnowsza prasa katolicka.
-        Zachęcamy do&nbsp;nabywania i&nbsp;czytania prasy katolickiej.</p>
-        <p>14. Wszystkim, którzy w&nbsp;tym tygodniu obchodzą swoje imieniny,
-        urodziny, jakiekolwiek rocznice, gościom, uczestnikom liturgii,
-        składamy najlepsze życzenia i&nbsp;zapewniamy o&nbsp;naszej modlitwie
-        w&nbsp;waszych intencjach.</p>
-        <p>15. Pierwsza Komunia Święta - zgodnie z&nbsp;wolą rodziców
-        przewidywana jest 23&nbsp;sierpnia. W&nbsp;związku z&nbsp;tym
-        zapraszamy dzieci wraz z&nbsp;rodzicem (rodzicami) na&nbsp;spotkanie
-        przygotowujące do&nbsp;przyjęcia Jezusa Chrystusa w&nbsp;Eucharystii.
-        Spotkanie będzie w&nbsp;piątek 5&nbsp;czerwca,
-        o&nbsp;godz.&nbsp;16.00.</p>
-        <p>
-            <span style="float: left;">Sandomierz, 31.&nbsp;maja 2020&nbsp;r.</span>
-            <span style="float: right; text-align: right;">ks. proboszcz Józef Śmigiel</span>
-        </p>
-    </div>
-</div>
-<br />
+
