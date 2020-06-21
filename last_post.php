@@ -1,10 +1,7 @@
-
-
-
 <div class="card">
     <div class="card-header">
-        <h3>14.&nbsp;czerwca 2020&nbsp;r.</h3>
-        <h3>XI NIEDZIELA ZWYKŁA - Rok A</h3>
+        <h3>21.&nbsp;czerwca 2020&nbsp;r.</h3>
+        <h3>XII NIEDZIELA ZWYKŁA - Rok A</h3>
     </div>
     <div class="col">
         <p>1. <strong>Jak wiemy, od&nbsp;30&nbsp;maja nie ma&nbsp;ograniczeń
@@ -14,48 +11,40 @@
         święcił". Zapraszamy do&nbsp;udziału we&nbsp;Mszy Świętej
         w&nbsp;każdą niedzielę i&nbsp;święto nakazane wszystkich parafian:
         dzieci, młodzież i&nbsp;dorosłych.</strong></p>
-        <p>2. Z&nbsp;racji oktawy Bożego Ciała dzisiaj nabożeństwo
-        eucharystyczne z&nbsp;procesją o&nbsp;godzinie 15.30 i&nbsp;Msza
-        Święta o&nbsp;16.00.</p>
-        <p>3. <strong>W&nbsp;środę 17&nbsp;czerwca obchodzimy wspomnienie
-        Świętego Brata Alberta. W&nbsp;naszej Parafii odpust. Msza Święta
-        będzie odprawiona o&nbsp;godzinie 6.30, 9.00 – z&nbsp;kazaniem
-        i&nbsp;o&nbsp;godzinie 18.00 – z&nbsp;kazaniem
-        odpustowym.</strong></p>
-        <p>4. We&nbsp;czwartek zakończenie oktawy Bożego Ciała. Poświęcenie
-        wianków na&nbsp;zakończenie nabożeństwa eucharystycznego.</p>
-        <p>5. W&nbsp;dni powszednie Msza Święta jest odprawiana o&nbsp;6.30
+        <p>2. W&nbsp;dni powszednie Msza Święta jest odprawiana o&nbsp;6.30
         i&nbsp;18.00. Kto zamawiał intencje do&nbsp;odprawienia, niech
-        sprawdza w&nbsp;gablocie na&nbsp;wywieszce.</p>
-        <p>6. Nabożeństwo do&nbsp;Serca Pana Jezusa od&nbsp;piątku, przez
-        cały czerwiec o&nbsp;godzinie 17.40.</p>
-        <p>7. W&nbsp;piątek, ponieważ jest liturgiczna Uroczystość
-        Najświętszego Serca Pana Jezusa, nie obowiązuje wstrzemięźliwość
-        od&nbsp;pokarmów mięsnych.</p>
-        <p>8. Kościół jest otwarty przez cały dzień, zachęcamy
+        sprawdza w&nbsp;gablocie na&nbsp;wywieszce .</p>
+        <p>3. Nabożeństwo do&nbsp;Serca Pana Jezusa jest odprawiane
+        w&nbsp;dni powszednie o&nbsp;godzinie 17.40. dzisiaj po&nbsp;Mszy
+        Świętej o&nbsp;16.00.</p>
+        <p>4. Kościół jest otwarty przez cały dzień, zachęcamy
         do&nbsp;modlitwy przed Najświętszym Sakramentem o&nbsp;ustanie
         epidemii.</p>
-        <p>9. <em>Bóg zapłać</em> za&nbsp;sprzątanie kościoła, kwiaty,
-        Paniom za&nbsp;ostatnie nasadzenia kwiatów na&nbsp;rabatkach przy
-        kościele, za&nbsp;podlewanie kwiatów na&nbsp;rabatkach Rodzinie
-        Daniela i&nbsp;Agaty wraz z&nbsp;dziećmi: Gabrysiem i&nbsp;Antosiem,
-        Panom Tadeuszowi i&nbsp;Ryszardowi za&nbsp;prace dla dobra Parafii,
-        Parafianom za&nbsp;ofiary dla Parafii, które przesyłacie
-        na&nbsp;konto bankowe lub składacie w&nbsp;zakrystii.</p>
-        <p>10. <strong>Do&nbsp;sprzątania prosimy w&nbsp;sobotę
-        na&nbsp;godzinę 7.00</strong> rodziny z&nbsp;bloku Maciejowskiego 5
-        od&nbsp;31 do&nbsp;40.</p>
-        <p>11. Informujemy, że&nbsp;Jadłodajnia Romana już pracuje jak
+        <p>5. W&nbsp;minionym tygodniu odwołał Pan Bóg z&nbsp;naszej Parafii
+        do&nbsp;wieczności Zofię Pytlak. <em>Wieczny odpoczynek racz
+        jej dać...</em></p>
+        <p>6. <em>Bóg zapłać</em> Paniom za&nbsp;sprzątanie kościoła
+        w&nbsp;czwartek po&nbsp;oktawie Bożego Ciała, 2&nbsp;rodzinom, które
+        złożyły ofiarę na&nbsp;wczorajsze sprzątanie, Rodzinie Daniela
+        i&nbsp;Agaty wraz z&nbsp;dziećmi: Gabrysiem i&nbsp;Antosiem
+        za&nbsp;pielęgnację kwiatów, Panom Tadeuszowi i&nbsp;Ryszardowi
+        za&nbsp;prace dla dobra Parafii, Parafianom za&nbsp;ofiary, które
+        przesyłacie na&nbsp;konto bankowe lub składacie w&nbsp;zakrystii.</p>
+        <p>7. <strong>Do&nbsp;sprzątania prosimy w&nbsp;sobotę
+        na&nbsp;godzinę 7.00</strong> rodziny z&nbsp;bloku Maciejowskiego 4
+        od&nbsp;11 do&nbsp;20.</p>
+        <p>8. Informujemy, że&nbsp;Jadłodajnia Romana już pracuje, jak
         dawniej, tzn. z&nbsp;możliwością konsumpcji posiłków
         na&nbsp;miejscu.</p>
-        <p>12. Na&nbsp;stoliku pod chórem jest najnowsza prasa katolicka.
-        Zachęcamy do&nbsp;nabywania i&nbsp;czytania prasy katolickiej.</p>
-        <p>13. Wszystkim, którzy w&nbsp;tym tygodniu obchodzą swoje
+        <p>9. Na&nbsp;stoliku pod chórem jest najnowsza prasa katolicka.
+        Zachęcamy do&nbsp;nabywania i&nbsp;czytania prasy katolickiej. Jest
+        nowe Miłujcie się i&nbsp;Mały Gość Niedzielny.</p>
+        <p>10. Wszystkim, którzy w&nbsp;tym tygodniu obchodzą swoje
         imieniny, urodziny, jakiekolwiek rocznice, gościom, uczestnikom
         liturgii, składamy najlepsze życzenia i&nbsp;zapewniamy
         o&nbsp;naszej modlitwie w&nbsp;waszych intencjach.</p>
         <p>
-            <span style="float: left;">Sandomierz, 14.&nbsp;czerwca 2020&nbsp;r.</span>
+            <span style="float: left;">Sandomierz, 21.&nbsp;czerwca 2020&nbsp;r.</span>
             <span style="float: right; text-align: right;">ks. proboszcz Józef Śmigiel</span>
         </p>
     </div>

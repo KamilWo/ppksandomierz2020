@@ -13,7 +13,68 @@ include 'head.php';
             <!-- treść główna -->
             <div class="col">
                 <h2 class="first-content-header">Archiwum wiadomości 2020 rok</h2>
-                <h2>Okres 1.&nbsp;stycznia 2020 - 7.&nbsp;czerwca 2020 r.</h2>
+                <h2>Okres 1.&nbsp;stycznia 2020 - 14.&nbsp;czerwca 2020 r.</h2>
+<div class="card">
+    <div class="card-header">
+        <h3>14.&nbsp;czerwca 2020&nbsp;r.</h3>
+        <h3>XI NIEDZIELA ZWYKŁA - Rok A</h3>
+    </div>
+    <div class="col">
+        <p>1. <strong>Jak wiemy, od&nbsp;30&nbsp;maja nie ma&nbsp;ograniczeń
+        co&nbsp;do&nbsp;liczby uczestników we&nbsp;Mszy Świętej
+        w&nbsp;kościele. Pamiętajmy zatem, że&nbsp;Pan Bóg
+        w&nbsp;3&nbsp;przykazaniu mówi nam: "Pamiętaj, abyś dzień święty
+        święcił". Zapraszamy do&nbsp;udziału we&nbsp;Mszy Świętej
+        w&nbsp;każdą niedzielę i&nbsp;święto nakazane wszystkich parafian:
+        dzieci, młodzież i&nbsp;dorosłych.</strong></p>
+        <p>2. Z&nbsp;racji oktawy Bożego Ciała dzisiaj nabożeństwo
+        eucharystyczne z&nbsp;procesją o&nbsp;godzinie 15.30 i&nbsp;Msza
+        Święta o&nbsp;16.00.</p>
+        <p>3. <strong>W&nbsp;środę 17&nbsp;czerwca obchodzimy wspomnienie
+        Świętego Brata Alberta. W&nbsp;naszej Parafii odpust. Msza Święta
+        będzie odprawiona o&nbsp;godzinie 6.30, 9.00 – z&nbsp;kazaniem
+        i&nbsp;o&nbsp;godzinie 18.00 – z&nbsp;kazaniem
+        odpustowym.</strong></p>
+        <p>4. We&nbsp;czwartek zakończenie oktawy Bożego Ciała. Poświęcenie
+        wianków na&nbsp;zakończenie nabożeństwa eucharystycznego.</p>
+        <p>5. W&nbsp;dni powszednie Msza Święta jest odprawiana o&nbsp;6.30
+        i&nbsp;18.00. Kto zamawiał intencje do&nbsp;odprawienia, niech
+        sprawdza w&nbsp;gablocie na&nbsp;wywieszce.</p>
+        <p>6. Nabożeństwo do&nbsp;Serca Pana Jezusa od&nbsp;piątku, przez
+        cały czerwiec o&nbsp;godzinie 17.40.</p>
+        <p>7. W&nbsp;piątek, ponieważ jest liturgiczna Uroczystość
+        Najświętszego Serca Pana Jezusa, nie obowiązuje wstrzemięźliwość
+        od&nbsp;pokarmów mięsnych.</p>
+        <p>8. Kościół jest otwarty przez cały dzień, zachęcamy
+        do&nbsp;modlitwy przed Najświętszym Sakramentem o&nbsp;ustanie
+        epidemii.</p>
+        <p>9. <em>Bóg zapłać</em> za&nbsp;sprzątanie kościoła, kwiaty,
+        Paniom za&nbsp;ostatnie nasadzenia kwiatów na&nbsp;rabatkach przy
+        kościele, za&nbsp;podlewanie kwiatów na&nbsp;rabatkach Rodzinie
+        Daniela i&nbsp;Agaty wraz z&nbsp;dziećmi: Gabrysiem i&nbsp;Antosiem,
+        Panom Tadeuszowi i&nbsp;Ryszardowi za&nbsp;prace dla dobra Parafii,
+        Parafianom za&nbsp;ofiary dla Parafii, które przesyłacie
+        na&nbsp;konto bankowe lub składacie w&nbsp;zakrystii.</p>
+        <p>10. <strong>Do&nbsp;sprzątania prosimy w&nbsp;sobotę
+        na&nbsp;godzinę 7.00</strong> rodziny z&nbsp;bloku Maciejowskiego 5
+        od&nbsp;31 do&nbsp;40.</p>
+        <p>11. Informujemy, że&nbsp;Jadłodajnia Romana już pracuje jak
+        dawniej, tzn. z&nbsp;możliwością konsumpcji posiłków
+        na&nbsp;miejscu.</p>
+        <p>12. Na&nbsp;stoliku pod chórem jest najnowsza prasa katolicka.
+        Zachęcamy do&nbsp;nabywania i&nbsp;czytania prasy katolickiej.</p>
+        <p>13. Wszystkim, którzy w&nbsp;tym tygodniu obchodzą swoje
+        imieniny, urodziny, jakiekolwiek rocznice, gościom, uczestnikom
+        liturgii, składamy najlepsze życzenia i&nbsp;zapewniamy
+        o&nbsp;naszej modlitwie w&nbsp;waszych intencjach.</p>
+        <p>
+            <span style="float: left;">Sandomierz, 14.&nbsp;czerwca 2020&nbsp;r.</span>
+            <span style="float: right; text-align: right;">ks. proboszcz Józef Śmigiel</span>
+        </p>
+    </div>
+</div>
+<br />
+
 <div class="card">
     <div class="card-header">
         <h3>7.&nbsp;czerwca 2020&nbsp;r.</h3>
