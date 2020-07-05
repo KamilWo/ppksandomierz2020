@@ -1,11 +1,10 @@
 <div class="card">
     <div class="card-header">
-        <h3>28.&nbsp;czerwca 2020&nbsp;r.</h3>
-        <h3>XIII NIEDZIELA ZWYKŁA - Rok A</h3>
+        <h3>5.&nbsp;lipca 2020&nbsp;r.</h3>
+        <h3>XIV NIEDZIELA ZWYKŁA - Rok A</h3>
     </div>
     <div class="col">
-        <h3>W&nbsp;lipcu i&nbsp;sierpniu nie będzie Mszy Świętej
-        o&nbsp;godzinie 12.30.</h3>
+        <h3>W lipcu i sierpniu nie będzie Mszy Świętej o godzinie 12.30.</h3>
 
         <p>1. <strong>Jak wiemy, od&nbsp;30&nbsp;maja nie ma&nbsp;ograniczeń
         co&nbsp;do&nbsp;liczby uczestników we&nbsp;Mszy Świętej
@@ -14,49 +13,36 @@
         święcił". Zapraszamy do&nbsp;udziału we&nbsp;Mszy Świętej
         w&nbsp;każdą niedzielę i&nbsp;święto nakazane wszystkich parafian:
         dzieci, młodzież i&nbsp;dorosłych.</strong></p>
-        <p>2. <strong>Jutro Uroczystość Św.&nbsp;Apostołów Piotra
-        i&nbsp;Pawła.</strong> Msza Święta będzie odprawiona o&nbsp;godzinie
-        6.30, 9.00 i&nbsp;18.00. <em>Bóg zapłać</em> za&nbsp;zamówione
-        intencje mszalne, za&nbsp;naszych Solenizantów – księży Piotrów,
-        które będą odprawione o&nbsp;godzinie 18.00. Zapraszamy
-        do&nbsp;wspólnej modlitwy. Zbiórka na&nbsp;Stolicę Apostolską
-        z&nbsp;dnia dzisiejszego, została przeniesiona przez Władze
-        Kościelne na&nbsp;niedzielę 4&nbsp;października tego roku.</p>
-        <p>3. W&nbsp;tym tygodniu wypada I&nbsp;czwartek, piątek
-        i&nbsp;sobota miesiąca lipca. Pójdziemy z&nbsp;posługą
-        sakramentalną do&nbsp;chorych.</p>
-        <p>4. W&nbsp;dni powszednie Msza Święta jest odprawiana o&nbsp;6.30
+        <p>2. Dzisiaj o&nbsp;godzinie 15.30 nabożeństwo różańcowe
+        i&nbsp;zmiana tajemnic różańcowych.</p>
+        <p>3. W&nbsp;dni powszednie Msza Święta jest odprawiana o&nbsp;6.30
         i&nbsp;18.00. Kto zamawiał intencje do&nbsp;odprawienia, niech
-        sprawdza w&nbsp;gablocie na&nbsp;wywieszce .</p>
-        <p>5. Kościół jest otwarty przez cały dzień, zachęcamy
+        sprawdza w&nbsp;gablocie n&nbsp; wywieszce .</p>
+        <p>4. Kościół jest otwarty przez cały dzień, zachęcamy
         do&nbsp;modlitwy przed Najświętszym Sakramentem o&nbsp;ustanie
         epidemii.</p>
-        <p>6. W&nbsp;minionym tygodniu odwołał Pan Bóg z&nbsp;naszej Parafii
-        do&nbsp;wieczności Annę Wójcik. <em>Wieczny odpoczynek racz
+        <p>5. W&nbsp;minionym tygodniu odwołał Pan Bóg z&nbsp;naszej Parafii
+        do&nbsp;wieczności Mariannę Nowak. <em>Wieczny odpoczynek racz
         jej...</em></p>
-        <p>7. <em>Bóg zapłać</em> za&nbsp;sprzątanie kościoła, kwiaty,
-        złożoną ofiarę, dary stołu i&nbsp;wszelkie dobro. Rodzinie Daniela
+        <p>6. <em>Bóg zapłać</em> za&nbsp;sprzątanie kościoła, złożoną
+        ofiarę, dary stołu i&nbsp;wszelkie dobro. Rodzinie Daniela
         i&nbsp;Agaty wraz z&nbsp;dziećmi: Gabrysiem i&nbsp;Antosiem
-        za&nbsp;pielęgnację kwiatów, Panu Ryszardowi za&nbsp;prace dla
-        dobra Parafii, Parafianom za&nbsp;ofiary, które przesyłacie
-        na&nbsp;konto bankowe lub składacie w&nbsp;zakrystii.</p>
-        <p>8. <strong>Do&nbsp;sprzątania prosimy w&nbsp;sobotę
+        za&nbsp;pielęgnację kwiatów, <strong>Panu Wacławowi za&nbsp;prace
+        dla dobra Parafii</strong>, Parafianom za&nbsp;ofiary, które
+        przesyłacie na&nbsp;konto bankowe lub składacie na&nbsp;tace
+        i&nbsp;w&nbsp;zakrystii.</p>
+        <p>7. <strong>Do&nbsp;sprzątania prosimy w&nbsp;sobotę
         na&nbsp;godzinę 7.00</strong> rodziny z&nbsp;bloku Maciejowskiego 4
-        od&nbsp;21 do&nbsp;30.</p>
-        <p>9. Na&nbsp;stoliku pod chórem jest najnowsza prasa katolicka.
+        od&nbsp;31 do&nbsp;40.</p>
+        <p>8. Na&nbsp;stoliku pod chórem jest najnowsza prasa katolicka.
         Zachęcamy do&nbsp;nabywania i&nbsp;czytania prasy katolickiej. Jest
         nowe Miłujcie się i&nbsp;Mały Gość Niedzielny.</p>
-        <p>10. Wszystkim, którzy w&nbsp;tym tygodniu obchodzą swoje
-        imieniny, urodziny, jakiekolwiek rocznice, gościom, uczestnikom
-        liturgii, składamy najlepsze życzenia i&nbsp;zapewniamy
-        o&nbsp;naszej modlitwie w&nbsp;waszych intencjach.</p>
-
-        <h3>Dzisiaj wybieramy Prezydenta Rzeczypospolitej Polskiej.
-        Ojczyznę naszą, sprawę wyborów, rządzących i&nbsp;cały Naród,
-        polećmy opiece Maryi Królowej Polski: <em>Pod Twoją
-        obronę...</em></h3>
+        <p>9. Wszystkim, którzy w&nbsp;tym tygodniu obchodzą swoje imieniny,
+        urodziny, jakiekolwiek rocznice, gościom, uczestnikom liturgii,
+        składamy najlepsze życzenia i&nbsp;zapewniamy o&nbsp;naszej modlitwie
+        w&nbsp;waszych intencjach.</p>
         <p>
-            <span style="float: left;">Sandomierz, 28.&nbsp;czerwca 2020&nbsp;r.</span>
+            <span style="float: left;">Sandomierz, 5.&nbsp;lipca 2020&nbsp;r.</span>
             <span style="float: right; text-align: right;">ks. proboszcz Józef Śmigiel</span>
         </p>
     </div>

@@ -17,8 +17,13 @@ include 'facebook.php';
                 <!-- treść główna -->
                 <div class="col-xs-12 col-md-8">
 
-                    <h2 class="first-content-header text-center">Witamy na oficjalnej stronie Parafii!</h2>
-
+                    <h2 class="first-content-header text-center">Witamy na&nbsp;oficjalnej stronie Parafii!</h2>
+                    <br/>
+                    <h3 class="text-center" style="font-weight: bold; color: #F00;">
+                        Przypominamy, że&nbsp;w&nbsp;lipcu i&nbsp;sierpniu nie będzie
+                        Mszy Świętej o&nbsp;godzinie 12.30.
+                    </h3>
+                    <br/>
                     <img class="swiatynia rounded mx-auto d-block" src="static/src/images/swiatynia.jpg"
                          alt="swiatynia.jpg" title="Kościół parafialny"/><br/>
                     <p class="text-center">Zdjęcie: Kościół parafialny</p><br/>
