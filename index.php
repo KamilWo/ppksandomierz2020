@@ -21,7 +21,7 @@ include 'facebook.php';
                     <br/>
                     <h3 class="text-center" style="font-weight: bold; color: #F00;">
                         Przypominamy, że&nbsp;w&nbsp;lipcu i&nbsp;sierpniu nie będzie
-                        Mszy Świętej o&nbsp;godzinie 12.30.
+                        Mszy Świętej o&nbsp;godzinie 12:30.
                     </h3>
                     <br/>
                     <img class="swiatynia rounded mx-auto d-block" src="static/src/images/swiatynia.jpg"
