@@ -1,13 +1,13 @@
 <div class="card">
     <div class="card-header">
-        <h3>12.&nbsp;lipca 2020&nbsp;r.</h3>
-        <h3>XV NIEDZIELA ZWYKŁA - Rok A</h3>
+        <h3>19.&nbsp;lipca 2020&nbsp;r.</h3>
+        <h3>XVI NIEDZIELA ZWYKŁA - Rok A</h3>
     </div>
     <div class="col">
         <h3>W&nbsp;lipcu i&nbsp;sierpniu nie będzie Mszy Świętej
         o&nbsp;godzinie 12:30.</h3>
 
-        <p>1. <strong>Jak wiemy, od&nbsp;30&nbsp;maja nie ma&nbsp;ograniczeń
+        <p>1. <strong>Jak wiemy, od&nbsp;30 maja nie ma&nbsp;ograniczeń
         co&nbsp;do&nbsp;liczby uczestników we&nbsp;Mszy Świętej
         w&nbsp;kościele. Pamiętajmy zatem, że&nbsp;Pan Bóg
         w&nbsp;3&nbsp;przykazaniu mówi nam: "Pamiętaj, abyś dzień święty
@@ -22,35 +22,32 @@
         <p>3. Kościół jest otwarty przez cały dzień, zachęcamy
         do&nbsp;modlitwy przed Najświętszym Sakramentem o&nbsp;ustanie
         epidemii.</p>
-        <p>4. 16&nbsp;lipca, we&nbsp;czwartek jest liturgiczne wspomnienie
-        NMP z&nbsp;Góry Karmel – na&nbsp;Mszy&nbsp;św. o&nbsp;godzinie 18.00
-        będzie możliwość przyjęcia Szkaplerza. Panie z&nbsp;Legionu Maryi
-        mają kilka szkaplerzy, które chętnym ofiarują.</p>
+        <p>4. W&nbsp;tym tygodniu 25&nbsp;lipca – w&nbsp;sobotę, wypada
+        liturgiczne wspomnienie Św.&nbsp;Jakuba Apostoła i&nbsp;Krzysztofa
+        - Patrona kierowców. Poświęcenie pojazdów mechanicznych po&nbsp;Mszy
+        Świętej odprawianej o&nbsp;godzinie 18.00. Wśród Solenizantów tego
+        dnia są&nbsp;ks.&nbsp;biskup Krzysztof Nitkiewicz i&nbsp;nasz ksiądz
+        Krzysztof. Zachęcamy do&nbsp;modlitwy w&nbsp;intencjach Solenizantów.
+        W&nbsp;intencji ks.&nbsp;Krzysztofa odprawimy Mszę Świętą
+        o&nbsp;godzinie 18.00. Zapraszamy do&nbsp;wspólnej modlitwy.</p>
         <p>5. W&nbsp;minionym tygodniu odwołał Pan Bóg z&nbsp;naszej Parafii
-        do&nbsp;wieczności Zofię Kucwaj i&nbsp;Marię Dulczewską.
-        <em>Wieczny odpoczynek racz im&nbsp;dać Panie...</em></p>
-        <p>6. <em>Bóg zapłać</em> za&nbsp;sprzątanie kościoła Państwu Adamowi
-        i&nbsp;Kazimierze oraz złożoną ofiarę, dary stołu i&nbsp;wszelkie
-        dobro. Rodzinie Daniela i&nbsp;Agaty wraz z&nbsp;dziećmi: Gabrysiem
-        i&nbsp;Antosiem za&nbsp;pielęgnację kwiatów, Parafianom
-        za&nbsp;ofiary, które składacie na&nbsp;tacę, czy przesyłacie
-        na&nbsp;konto bankowe lub składacie w&nbsp;zakrystii.</p>
+        do&nbsp;wieczności Zofię Wiatrowską i &nbsp;Lucję Warych, której
+        pogrzeb będzie we&nbsp;wtorek o&nbsp;godzinie 13.00. <em>Wieczny
+        odpoczynek racz im&nbsp;dać Panie...</em></p>
+        <p>6. <em>Bóg zapłać</em> za&nbsp;sprzątanie kościoła, kwiaty, dary
+        stołu i&nbsp;wszelkie dobro. Rodzinie Daniela i&nbsp;Agaty wraz
+        z&nbsp;dziećmi: Gabrysiem i&nbsp;Antosiem za&nbsp;pielęgnację
+        kwiatów, Parafianom za&nbsp;ofiary, które składacie na&nbsp;tacę,
+        przesyłacie na&nbsp;konto bankowe lub składacie w&nbsp;zakrystii.</p>
         <p>7. <strong>Do&nbsp;sprzątania prosimy w&nbsp;sobotę
         na&nbsp;godzinę 7.00</strong> rodziny z&nbsp;bloku Maciejowskiego 4
-        od&nbsp;41 do&nbsp;50.</p>
+        od&nbsp;51 do&nbsp;60.</p>
         <p>8. Na&nbsp;stoliku pod chórem jest najnowsza prasa katolicka.
-        Zachęcamy do&nbsp;nabywania i&nbsp;czytania prasy katolickiej. Jest
-        nowe Miłujcie się i&nbsp;Mały Gość Niedzielny.</p>
+        Zachęcamy do&nbsp;nabywania i&nbsp;czytania prasy katolickiej.</p>
         <p>9. Wszystkim, którzy w&nbsp;tym tygodniu obchodzą swoje imieniny,
         urodziny, jakiekolwiek rocznice, gościom, uczestnikom liturgii,
         składamy najlepsze życzenia i&nbsp;zapewniamy o&nbsp;naszej modlitwie
         w&nbsp;waszych intencjach.</p>
-
-        <h3>Dzisiaj w&nbsp;Polsce II&nbsp;tura wyborów na&nbsp;Prezydenta
-        Rzeczypospolitej Polskiej. Pomódlmy się o&nbsp;dar rozumu, mądrości
-        i&nbsp;roztropności dla wyborców, i&nbsp;umiejętność rządzenia dla
-        rządzących, słowami modlitwy ks.&nbsp;Piotra Skargi i&nbsp;odśpiewamy
-        Boże coś Polskę.</h3>
         <p>
             <span style="float: left;">Sandomierz, 12.&nbsp;lipca 2020&nbsp;r.</span>
             <span style="float: right; text-align: right;">ks. proboszcz Józef Śmigiel</span>
