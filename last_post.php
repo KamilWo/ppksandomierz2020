@@ -1,7 +1,7 @@
 <div class="card">
     <div class="card-header">
-        <h3>2.&nbsp;sierpnia 2020&nbsp;r.</h3>
-        <h3>XVIII NIEDZIELA ZWYKŁA - Rok A</h3>
+        <h3>9.&nbsp;sierpnia 2020&nbsp;r.</h3>
+        <h3>XIX NIEDZIELA ZWYKŁA - Rok A</h3>
     </div>
     <div class="col">
         <h3>W&nbsp;lipcu i&nbsp;sierpniu nie będzie Mszy Świętej
@@ -22,24 +22,30 @@
         <p>3. Kościół jest otwarty przez cały dzień, zachęcamy
         do&nbsp;modlitwy przed Najświętszym Sakramentem o&nbsp;ustanie
         epidemii.</p>
-        <p>4. Dzisiaj o&nbsp;15.30 nabożeństwo różańcowe i&nbsp;zmiana
-        tajemnic dla członków KŻR.</p>
-        <p>5. W&nbsp;czwartek 6&nbsp;sierpnia jest liturgiczne święto
-        Przemienienia Pańskiego. Zapraszamy na&nbsp;Mszę Świętą o&nbsp;6.30
-        i&nbsp;18.00.</p>
-        <p>6. W&nbsp;tym tygodniu wypada I&nbsp;czwartek i&nbsp;I&nbsp;piątek
-        miesiąca sierpnia. Sposobność do&nbsp;spowiedzi codziennie przed
-        Mszą Świętą zarówno rano, jak i&nbsp;wieczorem.</p>
+        <p>4. Pasterz Diecezji ks.&nbsp;bp&nbsp;Krzysztof Nitkiewicz
+        informuje, że&nbsp;w&nbsp;środę 12&nbsp;sierpnia podejmuje post
+        w&nbsp;intencji o&nbsp;powołania do&nbsp;kapłaństwa i&nbsp;modlitwę
+        przed Najświętszym Sakramentem między godziną 12 a&nbsp;13. Prosi
+        również kapłanów i&nbsp;wiernych świeckich do&nbsp;podjęcia tej
+        ofiary w&nbsp;intencjach powołań.</p>
+        <p>5. <strong>W&nbsp;sobotę 15&nbsp;sierpnia jest Uroczystość
+        Wniebowzięcia NMP.</strong> Porządek Mszy Świętych, jak w&nbsp;każdą
+        niedzielę. Poświęcenie ziół i&nbsp;kwiatów na&nbsp;każdej Mszy
+        Świętej.</p>
+        <p>6. W&nbsp;minionym odwołał Pan Bóg z&nbsp;naszej Parafii
+        do&nbsp;wieczności Marię Włoch. <em>Wieczny odpoczynek racz jej dać
+        Panie...</em></p>
         <p>7. <em>Bóg zapłać</em> za&nbsp;sprzątanie kościoła, ofiarę, dary
         stołu i&nbsp;wszelkie dobro. Rodzinie Daniela i&nbsp;Agaty wraz
         z&nbsp;dziećmi: Gabrysiem i&nbsp;Antosiem za&nbsp;pielęgnację
-        kwiatów, <strong><em>Bóg zapłać</em> Panu Zygmuntowi</strong>,
-        za&nbsp;styczniki i&nbsp;prace dla dobra Parafii. Wam Kochani
-        za&nbsp;ofiary, które składacie na&nbsp;tacę, przesyłacie
-        na&nbsp;konto bankowe lub składacie w&nbsp;zakrystii.</p>
-        <p>8. <strong>Do&nbsp;sprzątania prosimy w&nbsp;sobotę
-        na&nbsp;godzinę 7.00</strong> rodziny z&nbsp;bloku Maciejowskiego 2
-        od&nbsp;1 do&nbsp;10.</p>
+        kwiatów, <strong><em>Bóg zapłać</em> Panu Leszkowi i&nbsp;Wacławowi
+        za&nbsp;konserwację wszystkich drzwi wejściowych
+        do&nbsp;kościoła.</strong> Wam <strong>Kochani</strong> bardzo
+        dziękuję za&nbsp;ofiary, które składacie na&nbsp;tacę, przesyłacie
+        na&nbsp;konto bankowe lub przekazujecie w&nbsp;zakrystii.</p>
+        <p>8. <strong>Do&nbsp;sprzątania prosimy w&nbsp;piątek
+        na&nbsp;godzinę 18.30</strong> rodziny z&nbsp;bloku Maciejowskiego 2
+        od&nbsp;11 do&nbsp;20.</p>
         <p>9. Na&nbsp;stoliku pod chórem jest najnowsza prasa katolicka.
         Zachęcamy do&nbsp;nabywania i&nbsp;czytania prasy katolickiej.</p>
         <p>10. Wszystkim, którzy w&nbsp;tym tygodniu obchodzą swoje imieniny,
@@ -53,7 +59,7 @@
         Świętą o&nbsp;tej godzinie, aby tego dnia przyszli na&nbsp;inną
         godzinę.</h3>
         <p>
-            <span style="float: left;">Sandomierz, 2.&nbsp;sierpnia 2020&nbsp;r.</span>
+            <span style="float: left;">Sandomierz, 9.&nbsp;sierpnia 2020&nbsp;r.</span>
             <span style="float: right; text-align: right;">ks. proboszcz Józef Śmigiel</span>
         </p>
     </div>
