@@ -1,7 +1,7 @@
 <div class="card">
     <div class="card-header">
-        <h3>9.&nbsp;sierpnia 2020&nbsp;r.</h3>
-        <h3>XIX NIEDZIELA ZWYKŁA - Rok A</h3>
+        <h3>16.&nbsp;sierpnia 2020&nbsp;r.</h3>
+        <h3>XX NIEDZIELA ZWYKŁA - Rok A</h3>
     </div>
     <div class="col">
         <h3>W&nbsp;lipcu i&nbsp;sierpniu nie będzie Mszy Świętej
@@ -22,44 +22,38 @@
         <p>3. Kościół jest otwarty przez cały dzień, zachęcamy
         do&nbsp;modlitwy przed Najświętszym Sakramentem o&nbsp;ustanie
         epidemii.</p>
-        <p>4. Pasterz Diecezji ks.&nbsp;bp&nbsp;Krzysztof Nitkiewicz
-        informuje, że&nbsp;w&nbsp;środę 12&nbsp;sierpnia podejmuje post
-        w&nbsp;intencji o&nbsp;powołania do&nbsp;kapłaństwa i&nbsp;modlitwę
-        przed Najświętszym Sakramentem między godziną 12 a&nbsp;13. Prosi
-        również kapłanów i&nbsp;wiernych świeckich do&nbsp;podjęcia tej
-        ofiary w&nbsp;intencjach powołań.</p>
-        <p>5. <strong>W&nbsp;sobotę 15&nbsp;sierpnia jest Uroczystość
-        Wniebowzięcia NMP.</strong> Porządek Mszy Świętych, jak w&nbsp;każdą
-        niedzielę. Poświęcenie ziół i&nbsp;kwiatów na&nbsp;każdej Mszy
-        Świętej.</p>
-        <p>6. W&nbsp;minionym odwołał Pan Bóg z&nbsp;naszej Parafii
-        do&nbsp;wieczności Marię Włoch. <em>Wieczny odpoczynek racz jej dać
-        Panie...</em></p>
-        <p>7. <em>Bóg zapłać</em> za&nbsp;sprzątanie kościoła, ofiarę, dary
+        <p>4. W&nbsp;minionym tygodniu odwołał Pan Bóg z&nbsp;naszej Parafii
+        do&nbsp;wieczności Eugeniusza Łukaszewskiego. <em>Wieczny odpoczynek
+        racz mu&nbsp;dać Panie...</em></p>
+        <p>5. <em>Bóg zapłać</em> za&nbsp;sprzątanie kościoła, ofiarę, dary
         stołu i&nbsp;wszelkie dobro. Rodzinie Daniela i&nbsp;Agaty wraz
         z&nbsp;dziećmi: Gabrysiem i&nbsp;Antosiem za&nbsp;pielęgnację
-        kwiatów, <strong><em>Bóg zapłać</em> Panu Leszkowi i&nbsp;Wacławowi
-        za&nbsp;konserwację wszystkich drzwi wejściowych
-        do&nbsp;kościoła.</strong> Wam <strong>Kochani</strong> bardzo
-        dziękuję za&nbsp;ofiary, które składacie na&nbsp;tacę, przesyłacie
+        kwiatów, <strong><em>Bóg zapłać</em> Panu Leszkowi, Rafałowi,
+        Ryszardowi i&nbsp;Tadeuszowi za&nbsp;pracę dla dobra
+        Parafii.</strong> Wam <strong>Kochani</strong> bardzo dziękuję
+        za&nbsp;ofiary, które składacie na&nbsp;tacę, przesyłacie
         na&nbsp;konto bankowe lub przekazujecie w&nbsp;zakrystii.</p>
-        <p>8. <strong>Do&nbsp;sprzątania prosimy w&nbsp;piątek
-        na&nbsp;godzinę 18.30</strong> rodziny z&nbsp;bloku Maciejowskiego 2
-        od&nbsp;11 do&nbsp;20.</p>
-        <p>9. Na&nbsp;stoliku pod chórem jest najnowsza prasa katolicka.
+        <p>6. <strong>Do&nbsp;sprzątania prosimy w&nbsp;tym tygodniu
+        Rodziców dzieci, które przystępują w&nbsp;niedzielę do&nbsp;I–szej
+        Komunii Świętej.</strong></p>
+        <p>7. Dzieci z&nbsp;Rodzicami i&nbsp;członkami Rodzin przychodzą
+        do&nbsp;spowiedzi w&nbsp;piątek od&nbsp;godziny 16 do&nbsp;18.
+        Zachęcamy do&nbsp;korzystania ze&nbsp;spowiedzi codziennie
+        od&nbsp;17.30 do&nbsp;18.</p>
+        <p>8. Na&nbsp;stoliku pod chórem jest najnowsza prasa katolicka.
         Zachęcamy do&nbsp;nabywania i&nbsp;czytania prasy katolickiej.</p>
-        <p>10. Wszystkim, którzy w&nbsp;tym tygodniu obchodzą swoje imieniny,
+        <p>9. Wszystkim, którzy w&nbsp;tym tygodniu obchodzą swoje imieniny,
         urodziny, jakiekolwiek rocznice, gościom, uczestnikom liturgii,
-        składamy najlepsze życzenia i&nbsp;zapewniamy o&nbsp;naszej modlitwie
-        w&nbsp;waszych intencjach.</p>
+        składamy najlepsze życzenia i&nbsp;zapewniamy o&nbsp;naszej
+        modlitwie w&nbsp;waszych intencjach.</p>
 
         <h3>Pierwsza Komunia Święta w&nbsp;naszej Parafii, zgodnie
-        z&nbsp;wolą Rodziców będzie 23&nbsp;sierpnia o&nbsp;godzinie 11.15.
-        Prośba do&nbsp;tych wiernych, którzy lubią chodzić na&nbsp;Mszę
-        Świętą o&nbsp;tej godzinie, aby tego dnia przyszli na&nbsp;inną
-        godzinę.</h3>
+        z&nbsp;wolą Rodziców będzie 23&nbsp;sierpnia o&nbsp;godzinie
+        11.15. Prośba do&nbsp;tych wiernych, którzy lubią chodzić
+        na&nbsp;Mszę Świętą o&nbsp;tej godzinie, aby tego dnia
+        przyszli na&nbsp;inną godzinę.</h3>
         <p>
-            <span style="float: left;">Sandomierz, 9.&nbsp;sierpnia 2020&nbsp;r.</span>
+            <span style="float: left;">Sandomierz, 16.&nbsp;sierpnia 2020&nbsp;r.</span>
             <span style="float: right; text-align: right;">ks. proboszcz Józef Śmigiel</span>
         </p>
     </div>
