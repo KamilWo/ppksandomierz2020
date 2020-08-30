@@ -17,7 +17,19 @@ include 'head.php';
 
                 <div class="card">
                     <div class="card-header">
-                        Zapraszamy do obejrzenia galerii
+                        Najnowsze galerie
+                    </div>
+                    <ol class="list-group">
+                        <li class="list-group-item">
+                            <a href="galeria13.php"><i class="fa fa-images"></i> I Komunia Święta 2020</a>
+                        </li>
+                    </ol>
+                </div>
+                <hr/>
+
+                <div class="card">
+                    <div class="card-header">
+                        Galerie o świątyni
                     </div>
                     <ol class="list-group">
                         <li class="list-group-item">

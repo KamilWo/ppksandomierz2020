@@ -1,6 +1,13 @@
 <!-- prawy panel -->
 <div class="col-md-4 rightPanel">
     <h3>
+        Galeria I&nbsp;Komunii Świętej 2020
+    </h3>
+    <p>
+        W&nbsp;Galerii znajdują się zdjęcia z&nbsp;uroczystości
+        I&nbsp;Komunii Świętej.
+    </p>
+    <h3>
         Brak ograniczeń co do liczby uczestników we Mszy Świętej
     </h3>
     <p>
@@ -10,7 +17,7 @@
         w&nbsp;3&nbsp;przykazaniu mówi nam: "Pamiętaj, abyś dzień święty
         święcił". Zapraszamy do&nbsp;udziału we&nbsp;Mszy Świętej
         w&nbsp;każdą niedzielę i&nbsp;święto nakazane wszystkich parafian:
-        dzieci, młodzież i&nbsp;dorosłych.</strong>
+        dzieci, młodzież i&nbsp;dorosłych.
     </p>
     <h3>
         Dekret o&nbsp;obowiązku uczestnictwa we&nbsp;Mszy Świętej
