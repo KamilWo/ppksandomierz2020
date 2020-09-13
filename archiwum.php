@@ -19,7 +19,7 @@ include 'head.php';
                     <div class="col-md-6 col-lg-4">
                         <div class="card">
                             <div class="card-header">
-                                1. stycznia 2020 - 30.&nbsp;sierpnia 2020 r.
+                                1. stycznia 2020 - 6.&nbsp;września 2020 r.
                             </div>
                             <div class="col">
                                 <p><a href="archiwum9.php" title="Archiwum 2020 roku"><i class="fa fa-archive"></i> Archiwum 2020 roku</a>.</p>
