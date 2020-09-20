@@ -1,7 +1,7 @@
 <div class="card">
     <div class="card-header">
-        <h3>13.&nbsp;września 2020&nbsp;r.</h3>
-        <h3>XXIV NIEDZIELA ZWYKŁA - Rok A</h3>
+        <h3>20.&nbsp;września 2020&nbsp;r.</h3>
+        <h3>XXV NIEDZIELA ZWYKŁA - Rok A</h3>
     </div>
     <div class="col">
         <h3>W&nbsp;związku z&nbsp;obowiązującym w&nbsp;naszej diecezji prawem
@@ -33,60 +33,45 @@
         <p>2. W&nbsp;dni powszednie Msza Święta jest odprawiana o&nbsp;6.30
         i&nbsp;18.00. Kto zamawiał intencje do&nbsp;odprawienia, niech
         sprawdza w&nbsp;gablocie na&nbsp;wywieszce. Sposobność
-        do&nbsp;spowiedzi przed Mszą&nbsp;Św. zarówno rano, jak
+        do&nbsp;spowiedzi przed Mszą Św. zarówno rano, jak
         i&nbsp;wieczorem.</p>
         <p>3. Kościół jest otwarty codziennie przez cały dzień. Zachęcamy
         do&nbsp;modlitwy przed Najświętszym Sakramentem o&nbsp;ustanie
-        epidemii i&nbsp;potrzebne łaski dla ducha, i&nbsp;dla ciała.</p>
-        <p>4. Po&nbsp;wakacyjnej przerwie odprawiamy o&nbsp;12.30 Mszę Świętą
-        dla dzieci z&nbsp;rodzicami. Zapraszamy do&nbsp;licznego udziału.</p>
-        <p>5. Kuria Diecezjalna przysłała nam przypomnienie,
-        że&nbsp;dzisiejsza zbiórka jest przeznaczona na&nbsp;Ziemię
-        Świętą.</p>
-        <p>6. <strong><em>Jutro w&nbsp;naszej Parafii</em> odpust tytułu kościoła
-        Podwyższenia Krzyża Świętego. Msza Święta z&nbsp;kazaniem odpustowym
-        o&nbsp;godzinie 9.00 i&nbsp;18.00. Zaplanujcie sobie tak dzień, aby
-        jak w&nbsp;dawnych latach uczestniczyć w&nbsp;Eucharystii
-        i&nbsp;zyskać odpust zupełny.</strong> Będzie również Msza Święta
-        o&nbsp;godzinie 6.30.</p>
-        <p>7. Rodziców z&nbsp;dziećmi, które w&nbsp;roku 2021 chcą
-        przystąpić do&nbsp;I&nbsp;Komunii Świętej oraz młodzież z&nbsp;klas
-        6, 7&nbsp;i&nbsp;8 Szkół Podstawowych przygotowujących się
-        do&nbsp;przyjęcia sakramentu Bierzmowania zapraszamy w&nbsp;piątek
-        18&nbsp;września w&nbsp;święto św.&nbsp;Stanisława Kostki
-        na&nbsp;Mszę Świętą o&nbsp;18.00. Po&nbsp;Mszy Świętej zapisy dzieci
-        do&nbsp;I&nbsp;Komunii Świętej.</p>
-        <p>8. <strong>We&nbsp;wtorek 15&nbsp;września mija 29&nbsp;lat
-        od&nbsp;rozpoczęcia funkcjonowania Rady Parafialnej
-        we&nbsp;współpracy ze&nbsp;mną. Ze&nbsp;względu na&nbsp;koronawirusa
-        Covid&nbsp;19, nie będzie grupowego spotkania, na&nbsp;którym
-        mógłbym podziękować Radnym Parafialnym, Liderom blokowym, Paniom
-        wspomagającym Radę za&nbsp;trud pracy i&nbsp;poświęcenie dla dobra
-        Parafii. Proszę przyjąć moje podziękowanie za&nbsp;Waszą modlitwę,
-        pracę, poświęcenie, wszelkie wysiłki, aby zrealizować to, czym
-        możemy i&nbsp;my&nbsp;obecnie, i&nbsp;następne pokolenia cieszyć się,
-        że&nbsp;mogliśmy na&nbsp;chwałę Bożą i&nbsp;pożytek ludziom wybudować
-        kościół, plebanię, dom parafialny i&nbsp;pięknie zagospodarować
-        tę&nbsp;działkę, którą ofiarował śp.&nbsp;Bolesław Woźniak.</strong><br />
-        <em>Bóg zapłać</em> za&nbsp;pracę w&nbsp;minionym tygodniu Panom
-        Ryszardowi i&nbsp;Tadeuszowi. Wam <strong>Kochani</strong> bardzo
-        dziękuję za&nbsp;ofiary, które składacie na&nbsp;tacę, przesyłacie
-        na&nbsp;konto bankowe lub przekazujecie w&nbsp;zakrystii.</strong></p>
-        <p>9. <strong>Do&nbsp;sprzątania prosimy w&nbsp;sobotę
-        na&nbsp;godzinę 7.00</strong> Rodziny z&nbsp;bloku Maciejowskiego 2
-        od&nbsp;51 do&nbsp;60 włącznie.</p>
-        <p>10. W&nbsp;minionym tygodniu odwołał Pan Bóg z&nbsp;naszej Parafii
-        Henryka Wójcika i&nbsp;Mariana Włodarczyka, którego pogrzeb będzie
-        jutro o&nbsp;13.00. <em>Wieczny odpoczynek racz im&nbsp;dać
+        epidemii i&nbsp;potrzebne łaski dla ducha i&nbsp;dla ciała.</p>
+        <p>4. Po&nbsp;wakacyjnej przerwie odprawiamy o&nbsp;12.30 Mszę
+        Świętą dla dzieci z&nbsp;rodzicami. Zapraszamy do&nbsp;licznego
+        udziału.</p>
+        <p>5. Jeśli są&nbsp;tacy Rodzice, którzy nie zapisali jeszcze swoich
+        dzieci do&nbsp;I–Komunii Świętej, mogą to&nbsp;uczynić dzisiaj lub
+        w&nbsp;ciągu tygodnia w&nbsp;zakrystii czy kancelarii parafialnej.</p>
+        <p>6. <em>Bóg zapłać</em> za&nbsp;sprzątanie kościoła, kwiaty, ofiarę
+        na&nbsp;Mszę Świętą za&nbsp;sprzątających, która będzie odprawiona
+        dzisiaj o&nbsp;godzinie 16.00, <em>Bóg zapłać</em>
+        za&nbsp;wyciągnięcie nieczystości z&nbsp;parafialnego szaletu,
+        za&nbsp;zakup krzewów, które po&nbsp;kontroli Urzędu Miejskiego mamy
+        jeszcze dosadzić w&nbsp;związku z&nbsp;wyciętym drzewem, które
+        rozwalało nam szalet. Wam <strong>Kochani</strong> bardzo dziękuję
+        za&nbsp;ofiary, które składacie na&nbsp;tacę, przesyłacie
+        na&nbsp;konto bankowe lub przekazujecie w&nbsp;zakrystii.</p>
+        <p>7. <strong>Do&nbsp;sprzątania prosimy w&nbsp;sobotę
+        na&nbsp;godzinę 7.00</strong> Rodziny z&nbsp;bloku Mickiewicza 43
+        od&nbsp;1 do&nbsp;27 – mieszkańców z&nbsp;klatki 1, 2 i&nbsp;3.</p>
+        <p>8. W&nbsp;minionym tygodniu odwołał Pan Bóg z&nbsp;naszej Parafii
+        Andrzeja Łukaszka. <em>Wieczny odpoczynek racz mu&nbsp;dać
         Panie...</em></p>
-        <p>11. Na&nbsp;stoliku pod chórem jest najnowsza prasa katolicka.
+        <p>9. Taca w&nbsp;przyszłą niedzielę zgodnie z&nbsp;dekretem
+        o&nbsp;zobowiązaniach finansowych Parafii jest przeznaczona
+        na&nbsp;remont Katedry w&nbsp;Sandomierzu.</p>
+        <p>10. Na&nbsp;stoliku pod chórem jest najnowsza prasa katolicka.
         Zachęcamy do&nbsp;nabywania i&nbsp;czytania prasy katolickiej.</p>
-        <p>12. Wszystkim, którzy w&nbsp;tym tygodniu obchodzą swoje imieniny,
+        <p>11. Wszystkim, którzy w&nbsp;tym tygodniu obchodzą swoje imieniny,
         urodziny, jakiekolwiek rocznice, gościom, uczestnikom liturgii,
         składamy najlepsze życzenia i&nbsp;zapewniamy o&nbsp;naszej modlitwie
         w&nbsp;waszych intencjach.</p>
+        <p>12. Informacja Pana Burmistrza Miasta Sandomierza i&nbsp;Pana
+        Wójta Gminy Obrazów o&nbsp;spisie rolnym...</p>
         <p>
-            <span style="float: left;">Sandomierz, 13.&nbsp;września 2020&nbsp;r.</span>
+            <span style="float: left;">Sandomierz, 20.&nbsp;września 2020&nbsp;r.</span>
             <span style="float: right; text-align: right;">ks. administrator Józef Śmigiel</span>
         </p>
     </div>
