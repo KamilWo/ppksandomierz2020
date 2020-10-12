@@ -20,7 +20,7 @@ include 'head.php';
                         Księża
                     </div>
                     <ol class="list-group">
-                        <li class="list-group-item">Ks. proboszcz kanonik mgr Józef Śmigiel (od 1991 roku)</li>
+                        <li class="list-group-item">Ks. proboszcz kanonik mgr Stanisław Chmielewski (od 2020 roku)</li>
                         <li class="list-group-item">Ks. mgr lic. Damian Dziuba (od 2017 roku)</li>
                         <li class="list-group-item">Ks. mgr Sebastian Mroczkowski (od 2018 roku)</li>
                     </ol>
@@ -41,19 +41,16 @@ include 'head.php';
                         Obszar Parafii stanowią:
                     </div>
                     <div class="col">
-                        <p><strong>Ulice:</strong> 15&nbsp;Sierpnia, Batalionów Chłopskich, Chwałecka, Cieśli,
-                            Czachowskiego,
-                            Dąbrowskiego, Grodzisko, Harcerska, Kochanowskiego, Kwiatkowskiego, Kwiatowa,
-                            Kubeszewskiego,
-                            Maciejowskiego, Mickiewicza (43-), Młodożeńca, Modrzewskiego, Morelowa, Obrońców
-                            Westerplatte,
-                            Orzechowa, Orzeszkowej, Ożarowska, Polna, Polskiej Organizacji Wojskowej, Przytulna, Reja,
-                            Rolnicza,
-                            Różana, Sadownicza, Skłodowskiej, Sucharzewska, Szczęśliwa, Warzywna, Wąska, Wiejska,
-                            Wiosenna,
-                            Wiśniowa, Zielna, Żółkiewskiego.</p>
-                        <p><strong>Wioski:</strong> Chwałki (2,5&nbsp;km), Kobierniki (1,5&nbsp;km), Milczany (2,5&nbsp;km),
-                            Sucharzów (3&nbsp;km).</p><br/>
+                        <p><strong>Ulice:</strong> 15&nbsp;Sierpnia, Batalionów Chłopskich,
+                            Chwałecka, Cieśli, Czachowskiego, Dąbrowskiego, Grodzisko,
+                            Harcerska, Kochanowskiego, Kwiatkowskiego, Kwiatowa, Kubeszewskiego,
+                            Maciejowskiego, Mickiewicza (43-), Młodożeńca, Modrzewskiego,
+                            Morelowa, Obrońców Westerplatte, Orzechowa, Orzeszkowej, Ożarowska,
+                            Polna, Polskiej Organizacji Wojskowej, Przytulna, Reja, Rolnicza,
+                            Różana, Sadownicza, Skłodowskiej, Sucharzewska, Szczęśliwa,
+                            Warzywna, Wąska, Wiejska, Wiosenna, Wiśniowa, Zielna, Żółkiewskiego.</p>
+                        <p><strong>Wioski:</strong> Chwałki (2,5&nbsp;km), Kobierniki (1,5&nbsp;km),
+                            Milczany (2,5&nbsp;km), Sucharzów (3&nbsp;km).</p><br/>
                     </div>
                 </div>
                 <hr/>
