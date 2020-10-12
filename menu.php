@@ -21,8 +21,8 @@
             case '/parafia.php':
                 $active = 'parafia';
                 break;
-            case '/aktualnosci.php':
-                $active = 'aktualnosci';
+            case '/intencje_mszalne.php':
+                $active = 'intencje_mszalne';
                 break;
             case '/liturgia.php':
                 $active = 'liturgia';
@@ -81,9 +81,9 @@
                     <i class="fa fa-church"></i> O&nbsp;Parafii</a>
             </li>
             <li class="nav-item">
-                <a href="aktualnosci.php" class="nav-link<?php if ($active == 'aktualnosci') {echo ' active';} ?>"
-                    accesskey="3" title="Najnowsze informacje o życiu w Parafii">
-                    <i class="fa fa-newspaper"></i> Aktualności</a>
+                <a href="intencje_mszalne.php" class="nav-link<?php if ($active == 'intencje_mszalne') {echo ' active';} ?>"
+                    accesskey="3" title="Intencje mszalne">
+                    <i class="fa fa-newspaper"></i> Intencje mszalne</a>
             </li>
             <li class="nav-item">
                 <a href="liturgia.php" class="nav-link<?php if ($active == 'liturgia') {echo ' active';} ?>"
