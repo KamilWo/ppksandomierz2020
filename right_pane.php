@@ -1,34 +1,22 @@
 <!-- prawy panel -->
 <div class="col-md-4 rightPanel">
     <h3>
+        Dekret<br />
+        Zasady obowiązujące w związku z nową falą pandemii koronawirusa
+    </h3>
+    <p>
+        17&nbsp;października 2020&nbsp;r. Biskup Sandomierski Krzysztof
+        Nitkiewicz wydał <strong>ważny dekret</strong>
+        w&nbsp;związku z&nbsp;nową falą pandemii koronawirusa.<br />
+        Jest on&nbsp;dostępny pod adresem internetowym Diecezji Sandomierskiej:
+        <a href="https://diecezjasandomierska.pl/zasady-obowiazujace-w-zwiazku-z-nowa-fala-pandemii-koronawirusa/"   title="Dekret w związku z nową falą pandemii">link do dekretu</a>
+    </p>
+    <h3>
         Galeria I&nbsp;Komunii Świętej 2020
     </h3>
     <p>
         W&nbsp;Galerii znajdują się zdjęcia z&nbsp;uroczystości
         I&nbsp;Komunii Świętej.
-    </p>
-    <h3>
-        Brak ograniczeń co do liczby uczestników we Mszy Świętej
-    </h3>
-    <p>
-        Jak wiemy, od&nbsp;30&nbsp;maja nie ma&nbsp;ograniczeń
-        co&nbsp;do&nbsp;liczby uczestników we&nbsp;Mszy Świętej
-        w&nbsp;kościele. Pamiętajmy zatem, że&nbsp;Pan Bóg
-        w&nbsp;3&nbsp;przykazaniu mówi nam: "Pamiętaj, abyś dzień święty
-        święcił". Zapraszamy do&nbsp;udziału we&nbsp;Mszy Świętej
-        w&nbsp;każdą niedzielę i&nbsp;święto nakazane wszystkich parafian:
-        dzieci, młodzież i&nbsp;dorosłych.
-    </p>
-    <h3>
-        Dekret o&nbsp;obowiązku uczestnictwa we&nbsp;Mszy Świętej
-    </h3>
-    <p>
-        29&nbsp;maja 2020&nbsp;r. Biskup Sandomierski Krzysztof
-        Nitkiewicz wydał dekret o&nbsp;tym, że&nbsp;dyspensa
-        od&nbsp;obowiązku uczestnictwa we&nbsp;Mszy&nbsp;św.
-        w&nbsp;niedziele i&nbsp;dni nakazane, udzielona 12&nbsp;marca
-        br. i&nbsp;przedłużona 21&nbsp;marca, obowiązuje jedynie
-        <strong>do&nbsp;dnia 31&nbsp;maja br. włącznie</strong>.
     </p>
     <p>
         <a href="https://diecezjasandomierska.pl/dekret-o-obowiazku-uczestnictwa-we-mszy-sw/">

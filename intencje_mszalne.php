@@ -19,15 +19,9 @@ include 'head.php';
 
                 <div class="row">
                     <div class="col-md-12">
-                        <div class="card">
-                            <div class="card-header">
-                                <h3>2020-10-12 - 2020-10-18</h3>
-                            </div>
-                            <div class="col">
-                                <p>W przygotowaniu.</p>
-                            </div>
-                        </div>
-                        <br/>
+                        <?php
+                            include 'last_intentions.php';
+                        ?>
                     </div>
                 </div>
             </div>

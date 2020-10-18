@@ -84,7 +84,12 @@ div.card div.col li {
 div.card div.col p:first-child,
 div.card div.col h3:first-child,
 div.card div.col h4:first-child {
-    margin-top: 15px;
+  margin-top: 15px;
+}
+
+p.intentions_date{
+  font-weight: bold;
+  text-decoration: underline;
 }
 
 td.hour {
