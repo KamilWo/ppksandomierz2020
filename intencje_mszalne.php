@@ -22,6 +22,10 @@ include 'head.php';
                         <?php
                             include 'last_intentions.php';
                         ?>
+                        <h4 class="mt-2">Poprzednie intencje przeniesiono do <a href="archiwum.php">archiwum</a>.</h4>
+                        <?php
+                        include 'counter.php';
+                        ?>
                     </div>
                 </div>
             </div>

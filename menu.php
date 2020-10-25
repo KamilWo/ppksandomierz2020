@@ -21,6 +21,9 @@
             case '/parafia.php':
                 $active = 'parafia';
                 break;
+            case '/aktualnosci.php':
+                $active = 'aktualnosci';
+                break;
             case '/intencje_mszalne.php':
                 $active = 'intencje_mszalne';
                 break;
@@ -81,33 +84,38 @@
                     <i class="fa fa-church"></i> O&nbsp;Parafii</a>
             </li>
             <li class="nav-item">
+                <a href="aktualnosci.php" class="nav-link<?php if ($active == 'aktualnosci') {echo ' active';} ?>"
+                    accesskey="3" title="Aktualności">
+                    <i class="fa fa-newspaper"></i> Aktualności</a>
+            </li>
+            <li class="nav-item">
                 <a href="intencje_mszalne.php" class="nav-link<?php if ($active == 'intencje_mszalne') {echo ' active';} ?>"
-                    accesskey="3" title="Intencje mszalne">
+                    accesskey="4" title="Intencje mszalne">
                     <i class="fa fa-newspaper"></i> Intencje mszalne</a>
             </li>
             <li class="nav-item">
                 <a href="liturgia.php" class="nav-link<?php if ($active == 'liturgia') {echo ' active';} ?>"
-                    accesskey="4" title="Msze święte">
+                    accesskey="5" title="Msze święte">
                     <i class="fa fa-book-reader"></i> Liturgia</a>
             </li>
             <li class="nav-item">
                 <a href="galeria.php" class="nav-link<?php if ($active == 'galeria') {echo ' active';} ?>"
-                    accesskey="5" title="Galeria zdjęć">
+                    accesskey="6" title="Galeria zdjęć">
                     <i class="fa fa-images"></i> Galeria</a>
             </li>
             <li class="nav-item">
                 <a href="grupy.php" class="nav-link<?php if ($active == 'grupy') {echo ' active';} ?>"
-                    accesskey="6" title="Grupy parafialne">
+                    accesskey="7" title="Grupy parafialne">
                     <i class="fa fa-users"></i> Grupy parafialne</a>
             </li>
             <li class="nav-item">
                 <a href="kontakt.php" class="nav-link<?php if ($active == 'kontakt') {echo ' active';} ?>"
-                    accesskey="7" title="Strona kontaktowa">
+                    accesskey="8" title="Strona kontaktowa">
                     <i class="fa fa-address-book"></i> Kontakt</a>
             </li>
             <li class="nav-item">
                 <a href="archiwum.php" class="nav-link<?php if ($active == 'archiwum') {echo ' active';} ?>"
-                    accesskey="8" title="Archiwalne wpisy">
+                    accesskey="9" title="Archiwalne wpisy">
                     <i class="fa fa-archive"></i> Archiwum</a>
             </li>
         </ul>
