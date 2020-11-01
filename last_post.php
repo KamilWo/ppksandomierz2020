@@ -1,58 +1,50 @@
 <div class="card">
     <div class="card-header">
-        <h3>25.&nbsp;października 2020&nbsp;r.</h3>
-        <h3>XXX NIEDZIELA ZWYKŁA, Rok A</h3>
+        <h3>1.&nbsp;listopada 2020&nbsp;r.</h3>
+        <h3>UROCZYSTOŚĆ WSZYSTKICH ŚWIĘTYCH, Rok A</h3>
     </div>
     <div class="col">
-        <p>1. Dziękujemy za&nbsp;sprzątanie kościoła parafianom: Iwonie
-        i&nbsp;Jakubowi Barańskim, i&nbsp;Alicji Majewskiej. <em>Bóg
-        zapłać</em>. <strong>W&nbsp;najbliższą sobotę, do&nbsp;sprzątania świątyni
-        parafialnej prosimy</strong> parafian mieszkających przy
-        ul.&nbsp;Mickiewicza, blok 47, mieszkania od&nbsp;1
-        do&nbsp;10.</p>
-        <p>2. Nabożeństwo różańcowe o&nbsp;godzinie 17.30 w&nbsp;dni
-        powszednie.</p>
-        <p>3. Zmiana tajemnic różańcowych w&nbsp;najbliższą niedzielę
-        po&nbsp;Mszy&nbsp;św. o&nbsp;godz.&nbsp;11.15.</p>
-        <p>4. Przyjmujemy na&nbsp;wypominki i&nbsp;Msze Święte
-        za&nbsp;zmarłych. Przypominamy o&nbsp;możliwości zyskania odpustu
-        zupełnego i&nbsp;ofiarowania go&nbsp;za&nbsp;zmarłych. <strong>Dekret
-        Penitencjarii Apostolskiej</strong>.</p>
-        <p>5. W&nbsp;niedzielę 1&nbsp;listopada Uroczystość Wszystkich
-        Świętych. W&nbsp;naszym parafialnym kościele Msza&nbsp;św. będzie
-        o&nbsp;godz.&nbsp;7.30, 9.30, 11.15, 12.30. i&nbsp;o&nbsp;18.00.
-        Na&nbsp;cmentarzu katedralnym, komunalnym i&nbsp;świętopawelskim nie
-        będzie corocznych Mszy&nbsp;św.</p>
-        <p>6. W&nbsp;dzień zaduszny 2&nbsp;listopada Msza&nbsp;św. u&nbsp;nas
-        w&nbsp;kościele będzie odprawiana o&nbsp;godz.&nbsp;6.30,
-        o&nbsp;godz.&nbsp;9.00 Msza&nbsp;św. za&nbsp;zmarłych polecanych
+        <p>1. Dziękujemy parafianom, którzy sprzątali kościół, <em>Bóg
+        zapłać</em>. <strong>W&nbsp;najbliższą sobotę do&nbsp;sprzątania
+        świątyni parafialnej prosimy</strong> parafian mieszkających przy
+        ul.&nbsp;Mickiewicza, blok 47, mieszkania od&nbsp;11 do&nbsp;20.</p>
+        <p>2. W&nbsp;tym tygodniu Pierwszy Piątek Miesiąca, spowiedź
+        w&nbsp;tym dniu od&nbsp;godz.&nbsp;17.00.</p>
+        <p>3. W&nbsp;ramach przygotowania młodzieży do&nbsp;godnego przyjęcia
+        Sakramentu Bierzmowania – młodzież z&nbsp;klasy szóstej z&nbsp;naszej
+        parafii ma&nbsp;spotkanie w&nbsp;parafialnym kościele
+        w&nbsp;najbliższy wtorek o&nbsp;godz.&nbsp;17.00, a&nbsp;po&nbsp;nim
+        spowiedź św.&nbsp;W&nbsp;środę klasy siódme o&nbsp;godz.&nbsp;17.00
+        i&nbsp;w&nbsp;czwartek klasy ósme o&nbsp;tej samej godzinie.</p>
+        <p>4. W&nbsp;przyszłą niedziele Dzień Solidarności z&nbsp;Kościołem
+        prześladowanym – zbiórka do&nbsp;puszek na&nbsp;organizację „Kościół
+        w&nbsp;potrzebie”.</p>
+        <p>5. W&nbsp;dzień zaduszny, 2&nbsp;listopada, Msza&nbsp;św.
+        u&nbsp;nas w&nbsp;kościele będzie odprawiana o&nbsp;godz.&nbsp;6.30,
+        o&nbsp;godz.&nbsp;9.00 – Msza&nbsp;św. za&nbsp;zmarłych polecanych
         w&nbsp;wypominkach z&nbsp;procesją po&nbsp;kościele i&nbsp;modlitwami
-        za&nbsp;zmarłych. O&nbsp;godz.&nbsp;17.30. Koronka do&nbsp;Bożego
+        za&nbsp;zmarłych. O&nbsp;godz.&nbsp;17.30 Koronka do&nbsp;Bożego
         Miłosierdzia połączona z&nbsp;wypominkami i&nbsp;ostatnia
         Msza&nbsp;św. o&nbsp;godz.&nbsp;18.00.</p>
-        <p>7. W&nbsp;dniach od&nbsp;1 do&nbsp;8&nbsp;listopada
-        godz.&nbsp;17.30 Koronka do&nbsp;Bożego Miłosierdzia
-        z&nbsp;wypominkami za zmarłych.</p>
-        <p>8. 2&nbsp;listopada wypada kolejna rocznica śmierci Sługi Bożego
-        Biskupa Piotra Gołębiowskiego - modlić się będziemy o&nbsp;jego
-        beatyfikację.</p>
-        <p>9. Zachęcamy do&nbsp;nabycia i&nbsp;czytania prasy katolickiej:
-        „Gość Niedzielny”, „Niedziela” i&nbsp;„Miłujcie się” -
-        to&nbsp;dwutygodnik dla młodzieży. Nowa prasa znajduje się
-        na&nbsp;stoliku pod chórem w&nbsp;kościele.</p>
-        <p>10. Od&nbsp;1&nbsp;listopada br. Msza&nbsp;św. wieczorem
-        w&nbsp;niedziele o&nbsp;godz.&nbsp;18.00. Nie będzie Mszy&nbsp;św.
-        o&nbsp;16.00 i&nbsp;20.30. Intencje z&nbsp;tych Mszy&nbsp;św. zostaną
-        przesunięte do&nbsp;koncelebry na&nbsp;Mszy&nbsp;św.
-        o&nbsp;godz.&nbsp;18.00.</p>
-        <p>11. <em>Bóg zapłać</em> dwom osobom za&nbsp;złożone ofiary
-        na&nbsp;konto parafialne, na&nbsp;potrzeby parafii.</p>
-        <p>12. Wszystkim, którzy w&nbsp;tym tygodniu obchodzą swoje imieniny,
+        <p>6. Dziękujemy za&nbsp;uszczelnienie dachu kościoła. W&nbsp;paru
+        miejscach w&nbsp;czasie deszczu sączyła się woda, nawet
+        tu&nbsp;w&nbsp;prezbiterium, niedaleko tabernakulum pojawiała się
+        kałuża. Wyrażamy także wdzięczność za &nbsp;ofiarowane kwiaty, które
+        zdobią kościół. Niech Pan Jezus hojnie błogosławi dobrym ludziom.</p>
+        <p>7. Zachęcamy do&nbsp;nabycia i&nbsp;czytania prasy katolickiej:
+        „Gość Niedzielny”, „Niedziela” i&nbsp;„Miłujcie się” – dwutygodnik
+        dla młodzieży. Nowa prasa znajduje się na&nbsp;stoliku pod chórem
+        w&nbsp;kościele.</p>
+        <p>8. W&nbsp;dniach od&nbsp;1 do&nbsp;8&nbsp;listopada 
+        godz.&nbsp;17.30 - Koronka do&nbsp;Bożego Miłosierdzia
+        z&nbsp;wypominkami za&nbsp;zmarłych. Zapraszamy do&nbsp;wspólnej
+        modlitwy.</p>
+        <p>9. Wszystkim, którzy w&nbsp;tym tygodniu obchodzą swoje imieniny,
         urodziny, jakiekolwiek rocznice składamy najlepsze życzenia
         z&nbsp;kapłańskim błogosławieństwem. Wszystkim uczestniczącym
         we&nbsp;Mszy&nbsp;św. życzymy błogosławionej niedzieli.</p>
         <p>
-            <span style="float: left;">Sandomierz, 25.&nbsp;października 2020&nbsp;r.</span>
+            <span style="float: left;">Sandomierz, 1.&nbsp;listopada 2020&nbsp;r.</span>
             <span style="float: right; text-align: right;">ks. proboszcz Stanisław Chmielewski</span>
         </p>
     </div>
