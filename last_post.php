@@ -1,44 +1,46 @@
 <div class="card">
     <div class="card-header">
-        <h3>1.&nbsp;listopada 2020&nbsp;r.</h3>
-        <h3>XXXI NIEDZIELA ZWYKŁA, Rok A</h3>
+        <h3>8.&nbsp;listopada 2020&nbsp;r.</h3>
+        <h3>XXXIII NIEDZIELA ZWYKŁA, Rok A</h3>
     </div>
     <div class="col">
-        <p>1. Dziękujemy parafianom, którzy sprzątali kościół, <em>Bóg
-        zapłać</em>. <strong>W&nbsp;najbliższą sobotę, do&nbsp;sprzątania
-        świątyni parafialnej prosimy parafian</strong> mieszkających przy
-        ul. Mickiewicza, blok 47, mieszkania od&nbsp;11 do&nbsp;20.</p>
-        <p>2. W&nbsp;tym tygodniu Pierwszy Piątek Miesiąca, spowiedź
-        w&nbsp;tym dniu od&nbsp;godz.&nbsp;17.00.</p>
-        <p>3. W&nbsp;przyszłą niedziele Dzień Solidarności z&nbsp;Kościołem
-        prześladowanym – zbiórka do&nbsp;puszek na&nbsp;organizację „Kościół
-        w&nbsp;potrzebie”.</p>
-        <p>4. W&nbsp;dzień zaduszny 2&nbsp;listopada Msza&nbsp;św. u&nbsp;nas
-        w&nbsp;kościele będzie odprawiana o&nbsp;godz.&nbsp;6.30,
-        o&nbsp;godz.&nbsp;9.00 Msza&nbsp;św. za&nbsp;zmarłych polecanych
-        w&nbsp;wypominkach z&nbsp;procesją po&nbsp;kościele i&nbsp;modlitwami
-        za&nbsp;zmarłych. O&nbsp;godz.&nbsp;17.30. Koronka do&nbsp;Bożego
-        Miłosierdzia połączona z&nbsp;wypominkami i&nbsp;ostatnia
-        Msza&nbsp;św. o&nbsp;godz.&nbsp;18.00.</p>
-        <p>5. Dziękujemy za&nbsp;uszczelnienie dachu kościoła. W&nbsp;paru
-        miejscach w&nbsp;czasie deszczu sączyła się woda, nawet
-        tu&nbsp;w&nbsp;prezbiterium, niedaleko tabernaculum pojawiała się
-        kałuża. Wyrażamy także wdzięczność za&nbsp;ofiarowane kwiaty, które
-        zdobią kościół. Niech Pan Jezus hojnie błogosławi dobrym ludziom.</p>
-        <p>6. Zachęcamy do&nbsp;nabycia i&nbsp;czytania prasy katolickiej:
-        „Gość Niedzielny”, „Niedziela” i&nbsp;„Miłujcie się
-        to&nbsp;dwutygodnik dla młodzieży. Nowa prasa znajduje się
-        na&nbsp;stoliku pod chórem w&nbsp;kościele.</p>
-        <p>7. W&nbsp;dniach od&nbsp;1 do&nbsp;8&nbsp;listopada 
-        godz.&nbsp;17.30 - Koronka do&nbsp;Bożego Miłosierdzia
-        z&nbsp;wypominkami za&nbsp;zmarłych. Zapraszamy do&nbsp;wspólnej
-        modlitwy.</p>
-        <p>8. Wszystkim, którzy w&nbsp;tym tygodniu obchodzą swoje imieniny,
-        urodziny, jakiekolwiek rocznice składamy najlepsze życzenia
+        <p>1. Wczoraj parafialny kościół sprzątały Panie Maria Bienięda
+        z&nbsp;córką. Ofiarowały na&nbsp;potrzeby parafii 100&nbsp;zł.
+        <em>Bóg zapłać</em> za&nbsp;wszystko.
+        <strong>W&nbsp;najbliższą sobotę, do&nbsp;sprzątania świątyni
+        parafialnej, prosimy parafian</strong> mieszkających przy
+        ul.&nbsp;Mickiewicza, blok 47, mieszkania od&nbsp;21
+        do&nbsp;30.</p>
+        <p>2. We&nbsp;wtorek po&nbsp;Mszy&nbsp;św. Koronka
+        do&nbsp;Miłosierdzia Bożego.</p>
+        <p>3. W&nbsp;najbliższą środę, tj.&nbsp;11&nbsp;listopada – Narodowe
+        Święto Niepodległości. W&nbsp;tym dniu o&nbsp;godz.&nbsp;17.30 –
+        Modlitwa Różańcowa w&nbsp;intencji Polski i&nbsp;Polaków,
+        a&nbsp;także o&nbsp;ustanie epidemii, po&nbsp;niej Msza&nbsp;św.
+        w&nbsp;intencji Ojczyzny. Pamiętajmy o&nbsp;wywieszeniu narodowej
+        flagi.</p>
+        <p>4. W&nbsp;czwartek o&nbsp;17.30 wystawienie Najśw. Sakramentu –
+        okazja do&nbsp;osobistej adoracji i&nbsp;powierzenia Panu Jezusowi
+        osobistych spraw.</p>
+        <p>5. Dziękujemy rodzicom młodzieży z&nbsp;klas szóstych, siódmych
+        i&nbsp;ósmych, i&nbsp;samej młodzieży za&nbsp;przystąpienie
+        do&nbsp;Sakramentu Pokuty, we&nbsp;wtorek, w&nbsp;środę
+        i&nbsp;czwartek. Było w&nbsp;poszczególne dni około 15&nbsp;osób.</p>
+        <p>6. W&nbsp;przyszłą niedzielę o&nbsp;godz.&nbsp;17.30 Nieszpory.
+        Zapraszamy do&nbsp;udziału w&nbsp;tym nabożeństwie.</p>
+        <p>7. Dziś w&nbsp;Powszechnym Kościele przeżywamy „Dzień Solidarności
+        z&nbsp;Kościołem prześladowanym” –  po&nbsp;Mszach&nbsp;św. zbiórka
+        do&nbsp;puszek na&nbsp;organizację „Kościół w&nbsp;potrzebie”.
+        Ofiarodawcom niech Pan hojnie błogosławi.</p>
+        <p>8. Zachęcamy do&nbsp;nabycia i&nbsp;czytania prasy katolickiej:
+        „Gość Niedzielny”, „Niedziela” i&nbsp;„Miłujcie się”,
+        to&nbsp;dwutygodnik dla młodzieży.</p>
+        <p>9. Wszystkim, którzy w&nbsp;tym tygodniu obchodzą swoje imieniny,
+        urodziny, jakiekolwiek rocznice  składamy najlepsze życzenia
         z&nbsp;kapłańskim błogosławieństwem. Wszystkim uczestniczącym
         we&nbsp;Mszy&nbsp;św. życzymy błogosławionej niedzieli.</p>
         <p>
-            <span style="float: left;">Sandomierz, 1.&nbsp;listopada 2020&nbsp;r.</span>
+            <span style="float: left;">Sandomierz, 8.&nbsp;listopada 2020&nbsp;r.</span>
             <span style="float: right; text-align: right;">ks. proboszcz Stanisław Chmielewski</span>
         </p>
     </div>
