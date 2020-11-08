@@ -13,8 +13,140 @@ include 'head.php';
             <!-- treść główna -->
             <div class="col">
                 <h2 class="first-content-header">Archiwum wiadomości 2020 rok</h2>
-                <h2>Okres 1.&nbsp;stycznia 2020 - 25.&nbsp;października 2020 r.</h2>
+                <h2>Okres 1.&nbsp;stycznia 2020 - 1.&nbsp;listopada 2020 r.</h2>
 
+<div class="card">
+    <div class="card-header">
+        <h3>1.&nbsp;listopada 2020&nbsp;r.</h3>
+        <h3>UROCZYSTOŚĆ WSZYSTKICH ŚWIĘTYCH, Rok A</h3>
+    </div>
+    <div class="col">
+        <p>1. Dziękujemy parafianom, którzy sprzątali kościół, <em>Bóg
+        zapłać</em>. <strong>W&nbsp;najbliższą sobotę do&nbsp;sprzątania
+        świątyni parafialnej prosimy</strong> parafian mieszkających przy
+        ul.&nbsp;Mickiewicza, blok 47, mieszkania od&nbsp;11 do&nbsp;20.</p>
+        <p>2. W&nbsp;tym tygodniu Pierwszy Piątek Miesiąca, spowiedź
+        w&nbsp;tym dniu od&nbsp;godz.&nbsp;17.00.</p>
+        <p>3. W&nbsp;ramach przygotowania młodzieży do&nbsp;godnego przyjęcia
+        Sakramentu Bierzmowania – młodzież z&nbsp;klasy szóstej z&nbsp;naszej
+        parafii ma&nbsp;spotkanie w&nbsp;parafialnym kościele
+        w&nbsp;najbliższy wtorek o&nbsp;godz.&nbsp;17.00, a&nbsp;po&nbsp;nim
+        spowiedź św.&nbsp;W&nbsp;środę klasy siódme o&nbsp;godz.&nbsp;17.00
+        i&nbsp;w&nbsp;czwartek klasy ósme o&nbsp;tej samej godzinie.</p>
+        <p>4. W&nbsp;przyszłą niedziele Dzień Solidarności z&nbsp;Kościołem
+        prześladowanym – zbiórka do&nbsp;puszek na&nbsp;organizację „Kościół
+        w&nbsp;potrzebie”.</p>
+        <p>5. W&nbsp;dzień zaduszny, 2&nbsp;listopada, Msza&nbsp;św.
+        u&nbsp;nas w&nbsp;kościele będzie odprawiana o&nbsp;godz.&nbsp;6.30,
+        o&nbsp;godz.&nbsp;9.00 – Msza&nbsp;św. za&nbsp;zmarłych polecanych
+        w&nbsp;wypominkach z&nbsp;procesją po&nbsp;kościele i&nbsp;modlitwami
+        za&nbsp;zmarłych. O&nbsp;godz.&nbsp;17.30 Koronka do&nbsp;Bożego
+        Miłosierdzia połączona z&nbsp;wypominkami i&nbsp;ostatnia
+        Msza&nbsp;św. o&nbsp;godz.&nbsp;18.00.</p>
+        <p>6. Dziękujemy za&nbsp;uszczelnienie dachu kościoła. W&nbsp;paru
+        miejscach w&nbsp;czasie deszczu sączyła się woda, nawet
+        tu&nbsp;w&nbsp;prezbiterium, niedaleko tabernakulum pojawiała się
+        kałuża. Wyrażamy także wdzięczność za &nbsp;ofiarowane kwiaty, które
+        zdobią kościół. Niech Pan Jezus hojnie błogosławi dobrym ludziom.</p>
+        <p>7. Zachęcamy do&nbsp;nabycia i&nbsp;czytania prasy katolickiej:
+        „Gość Niedzielny”, „Niedziela” i&nbsp;„Miłujcie się” – dwutygodnik
+        dla młodzieży. Nowa prasa znajduje się na&nbsp;stoliku pod chórem
+        w&nbsp;kościele.</p>
+        <p>8. W&nbsp;dniach od&nbsp;1 do&nbsp;8&nbsp;listopada 
+        godz.&nbsp;17.30 - Koronka do&nbsp;Bożego Miłosierdzia
+        z&nbsp;wypominkami za&nbsp;zmarłych. Zapraszamy do&nbsp;wspólnej
+        modlitwy.</p>
+        <p>9. Wszystkim, którzy w&nbsp;tym tygodniu obchodzą swoje imieniny,
+        urodziny, jakiekolwiek rocznice składamy najlepsze życzenia
+        z&nbsp;kapłańskim błogosławieństwem. Wszystkim uczestniczącym
+        we&nbsp;Mszy&nbsp;św. życzymy błogosławionej niedzieli.</p>
+        <p>
+            <span style="float: left;">Sandomierz, 1.&nbsp;listopada 2020&nbsp;r.</span>
+            <span style="float: right; text-align: right;">ks. proboszcz Stanisław Chmielewski</span>
+        </p>
+    </div>
+</div>
+<br />
+
+<div class="card">
+    <div class="card-header">
+        <h3>INTENCJE MSZALNE<br />
+            26.10 – 1.11.2020&nbsp;r.
+        </h3>
+    </div>
+    <div class="col">
+<p class="intentions_date">26&nbsp;października, Poniedziałek</p>
+<ul>
+    <li>6.30 + Józefa Ozdobę</li>
+    <li>6.30 + Jacka Strugałę</li>
+    <li>18.00 + Bolesława Grządkowskiego w&nbsp;1&nbsp;r.&nbsp;śm.</li>
+    <li>18.00 + Stanisława, Helenę Woźniaków</li>
+    <li>18.00 + Mariannę, Józefa Zuchowicz</li>
+</ul>
+
+<p class="intentions_date">27&nbsp;października, Wtorek</p>
+<ul>
+    <li>6.30 + Józefa Ozdobę</li>
+    <li>6.30 + Jacka Strugałę</li>
+    <li>18.00 + Emila Kuzę</li>
+    <li>18.00 + Stanisława Bodułę w&nbsp;4&nbsp;r.&nbsp;śm.</li>
+</ul>
+
+<p class="intentions_date">28&nbsp;października, Środa
+– św.&nbsp;Apostołów Szymona i&nbsp;Judy Tadeusza</p>
+<ul>
+    <li>6.30 + Józefa Ozdobę</li>
+    <li>6.30 + Emila Kuzę</li>
+    <li>18.00 + Jacka Strugałę</li>
+    <li>18.00 + Wacława, Stanisława, Karolinę, Stanisława
+    Kmiecików</li>
+</ul>
+
+<p class="intentions_date">29&nbsp;października, Czwartek</p>
+<ul>
+    <li>6.30 + Jana Wnuka w&nbsp;19&nbsp;r.&nbsp;śm.</li>
+    <li>6.30 + + Józefa Ozdobę</li>
+    <li>6.30 + Jacka Strugałę</li>
+    <li>18.00 + Emila Kuzę</li>
+    <li>18.00 + Tomasza Chlebnego, Antoniego Gospodarczyka</li>
+</ul>
+
+<p class="intentions_date">30&nbsp;października, Piątek</p>
+<ul>
+    <li>6.30 + Józefa Ozdobę</li>
+    <li>6.30 + Jacka Strugałę</li>
+    <li>18.00 + Annę, Leona Białczyk; Jana Barbarę Gruszka</li>
+    <li>18.00 + Bartłomieja Wrzoska w&nbsp;27&nbsp;r.&nbsp;śm.; Ewę,
+    Jana, Teresę, Janinę</li>
+</ul>
+
+<p class="intentions_date">31&nbsp;października, Sobota</p>
+<ul>
+    <li>6.30 + Jacka Strugałę</li>
+    <li>6.30 + Emila Kuzę</li>
+    <li>18.00 + Mariannę, Szymona, Zbigniewa, Mariana Woźniaków</li>
+    <li>18.00 + Wacława, Mariannę Niziałków</li>
+    <li>18.00 + Helenę, Mariana Przyłuckich</li>
+</ul>
+
+<p class="intentions_date">1&nbsp;listopada, <span style="color: grey">
+WSZYSTKICH ŚWIETYCH</span></p>
+<ul>
+    <li>7.30 + Tadeusza Osucha w&nbsp;15&nbsp;r.&nbsp;śm.</li>
+    <li>9.30 + Władysława, Wiktorię Polit; Helenę, Władysława Suduł;
+    zm.&nbsp;z&nbsp;rodz.</li>
+    <li>9.30 + Janinę, Mariana Reczek</li>
+    <li>11.15 + Zenona Kondrata w&nbsp;8&nbsp;r.&nbsp;śm.</li>
+    <li>12.30 w&nbsp;intencji parafian</li>
+    <li>18.00 + Jana, Stanisławę, Witolda, Mariana, Stanisława,
+    Krystynę, Mariana</li>
+    <li>18.00 + Stanisława, Leokadię, Marię, Romana Majcher;
+    Krzysztofa, Józefę, Stefanię Łukawskich; Zofię Woźniak; Romana,
+    Teodorę Łyczkowskich</li>
+</ul>
+    </div>
+</div>
+<br/>
 
 <div class="card">
     <div class="card-header">

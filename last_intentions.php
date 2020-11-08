@@ -1,78 +1,101 @@
 <div class="card">
     <div class="card-header">
         <h3>INTENCJE MSZALNE<br />
-            26.10 – 1.11.2020&nbsp;r.
+            02 – 08&nbsp;listopada 2020&nbsp;r.
         </h3>
     </div>
     <div class="col">
-<p class="intentions_date">26&nbsp;października, Poniedziałek</p>
+<p class="intentions_date">02&nbsp;listopada, Poniedziałek – Wszystkich Wiernych Zmarłych</p>
 <ul>
-    <li>6.30 + Józefa Ozdobę</li>
-    <li>6.30 + Jacka Strugałę</li>
-    <li>18.00 + Bolesława Grządkowskiego w&nbsp;1&nbsp;r.&nbsp;śm.</li>
-    <li>18.00 + Stanisława, Helenę Woźniaków</li>
-    <li>18.00 + Mariannę, Józefa Zuchowicz</li>
+    <li>6.30 + Józefa w&nbsp;12&nbsp;r.&nbsp;śm. Kazimierza, Reginę,
+    Marię Chuchnowskich, Elżbietę Chuchnowską-Bosak</li>
+    <li>6.30 + zm.&nbsp;z&nbsp;rodz. Szczęborów, Golców, Królów,
+    Ostrowskich, dusze w&nbsp;czyśćcu cierpiące</li>
+    <li>6.30 + zm.&nbsp;z&nbsp;rodz. Dudków i&nbsp;Gorajów</li>
+    <li>9.30 + za&nbsp;zm.&nbsp;polecanych w&nbsp;wypominkach</li>
+    <li>18.00 + Jana Lipca, Annę Tomaszewską, Władysława, Mariannę
+    Lipców, Jana Wnuka</li>
+    <li>18.00 + Janinę Placha w&nbsp;r.&nbsp;śm., Stefana, Kazimierę
+    Pietras, Marię Potocką</li>
 </ul>
 
-<p class="intentions_date">27&nbsp;października, Wtorek</p>
+<p class="intentions_date">03&nbsp;listopada, Wtorek</p>
 <ul>
-    <li>6.30 + Józefa Ozdobę</li>
+    <li>6.30 w&nbsp;int. Sylwii w&nbsp;dniu imienin o&nbsp;Boże
+    błogosławieństwo, potrzebne łaski, opiekę Matki Bożej</li>
+    <li>6.30 + zm.&nbsp;z&nbsp;rodz. Buczków, Panków</li>
+    <li>6.30 + Helenę, Juliana, Andrzeja Juda</li>
+    <li>18.00 + Janusza Sołek – greg.&nbsp;1</li>
+    <li>18.00 + Bolesława Kamińskiego, Anielę, Józefa Szalów</li>
+    <li>18.00 + Martę Pożoga, Annę Przybyłek, Kazimierę,
+    Antoniego Wróblów</li>
+</ul>
+
+<p class="intentions_date">04&nbsp;listopada, Środa – św.&nbsp;Karola
+Boromeusza</p>
+<ul>
     <li>6.30 + Jacka Strugałę</li>
+    <li>6.30 + zm.&nbsp;rodziców, teściów, dziadków, Kasię,
+    zm.&nbsp;z&nbsp;rodz., dusze w&nbsp;czyśćcu cierpiące</li>
+    <li>6.30 + zm.&nbsp;z&nbsp;rodz. Kasprzyckich, Nowaków</li>
+    <li>18.00 + Janusza Sołek – greg.&nbsp;2</li>
+    <li>18.00 + Henryka, Kazimierza, Marianne Lipców, Marianne,
+    Walentego Grzesików, Jadwigę, Wacława Wieczorków</li>
+    <li>18.00 + Jana, Zofię, Edwarda, Janinę Biernatów</li>
+</ul>
+
+<p class="intentions_date">05&nbsp;listopada, Czwartek</p>
+<ul>
+    <li>6.30 o&nbsp;nowe, liczne, święte powołania kapłańskie</li>
+    <li>6.30 + Jacka Strugałę</li>
+    <li>6.30 + zm.&nbsp;z&nbsp;rodz. Mądrych i&nbsp;Steców</li>
+    <li>18.00 + Janusza Sołek – greg.&nbsp;3</li>
     <li>18.00 + Emila Kuzę</li>
-    <li>18.00 + Stanisława Bodułę w&nbsp;4&nbsp;r.&nbsp;śm.</li>
+    <li>18.00 int. dziękczynno-wynagradzająca</li>
 </ul>
 
-<p class="intentions_date">28&nbsp;października, Środa
-– św.&nbsp;Apostołów Szymona i&nbsp;Judy Tadeusza</p>
+<p class="intentions_date">06&nbsp;listopada, Piątek</p>
 <ul>
-    <li>6.30 + Józefa Ozdobę</li>
-    <li>6.30 + Emila Kuzę</li>
-    <li>18.00 + Jacka Strugałę</li>
-    <li>18.00 + Wacława, Stanisława, Karolinę, Stanisława
-    Kmiecików</li>
-</ul>
-
-<p class="intentions_date">29&nbsp;października, Czwartek</p>
-<ul>
-    <li>6.30 + Jana Wnuka w&nbsp;19&nbsp;r.&nbsp;śm.</li>
-    <li>6.30 + + Józefa Ozdobę</li>
+    <li>6.30 int. dziękczynno-błagalna w&nbsp;int Ani, Tomka, Zuzi
+    i&nbsp;Tymka</li>
     <li>6.30 + Jacka Strugałę</li>
-    <li>18.00 + Emila Kuzę</li>
-    <li>18.00 + Tomasza Chlebnego, Antoniego Gospodarczyka</li>
+    <li>6.30 + zm.&nbsp;z&nbsp;rodz. Kubików i&nbsp;Kochańczyków</li>
+    <li>18.00 + Janusza Sołek – greg.&nbsp;4</li>
+    <li>18.00 + Tomasza Szyprowskiego w&nbsp;30&nbsp;dzień
+    po&nbsp;śm.</li>
+    <li>18.00 + Emilię, Walentego Strzębskich</li>
 </ul>
 
-<p class="intentions_date">30&nbsp;października, Piątek</p>
+<p class="intentions_date">07&nbsp;listopada, Sobota</p>
 <ul>
-    <li>6.30 + Józefa Ozdobę</li>
+    <li>6.30 w&nbsp;int. dzieci i&nbsp;chrześniaków o&nbsp;Boże
+    błogosławieństwo, potrzebne łaski, opiekę Matki Bożej</li>
     <li>6.30 + Jacka Strugałę</li>
-    <li>18.00 + Annę, Leona Białczyk; Jana Barbarę Gruszka</li>
-    <li>18.00 + Bartłomieja Wrzoska w&nbsp;27&nbsp;r.&nbsp;śm.; Ewę,
-    Jana, Teresę, Janinę</li>
+    <li>6.30 + Janusza Sołek – greg.&nbsp;5</li>
+    <li>18.00 w&nbsp;int. przebłagania za&nbsp;grzechy
+    i&nbsp;bluźnierstwa przeciwko NMP – od&nbsp;Legionu Maryi</li>
+    <li>18.00 + zm.&nbsp;z&nbsp;rodz. Dydo Tokarskich, Zieja,
+    Orlik</li>
+    <li>18.00 + Mariana Klimonta, zm.&nbsp;z&nbsp;rodz., Klimontów,
+    Ciamagów, Woźniaków</li>
 </ul>
 
-<p class="intentions_date">31&nbsp;października, Sobota</p>
+<p class="intentions_date">08&nbsp;listopada, <span style="color: grey">
+XXXII NIEDZIELA ZWYKŁA</span></p>
 <ul>
-    <li>6.30 + Jacka Strugałę</li>
-    <li>6.30 + Emila Kuzę</li>
-    <li>18.00 + Mariannę, Szymona, Zbigniewa, Mariana Woźniaków</li>
-    <li>18.00 + Wacława, Mariannę Niziałków</li>
-    <li>18.00 + Helenę, Mariana Przyłuckich</li>
-</ul>
-
-<p class="intentions_date">1&nbsp;listopada, <span style="color: grey">
-WSZYSTKICH ŚWIETYCH</span></p>
-<ul>
-    <li>7.30 + Tadeusza Osucha w&nbsp;15&nbsp;r.&nbsp;śm.</li>
-    <li>9.30 + Władysława, Wiktorię Polit; Helenę, Władysława Suduł;
-    zm.&nbsp;z&nbsp;rodz.</li>
-    <li>9.30 + Janinę, Mariana Reczek</li>
-    <li>11.15 + Zenona Kondrata w&nbsp;8&nbsp;r.&nbsp;śm.</li>
-    <li>12.30 w&nbsp;intencji parafian</li>
-    <li>18.00 + Jana, Stanisławę, Witolda, Mariana, Stanisława,
-    Krystynę, Mariana</li>
-    <li>18.00 + Stanisława, Leokadię, Marię, Romana Majcher;
-    Krzysztofa, Józefę, Stefanię Łukawskich; Zofię Woźniak; Romana,
-    Teodorę Łyczkowskich</li>
+    <li>7.30 + Helenę, Jerzego Bażantów</li>
+    <li>7.30 + Mieczysława Kozieła w&nbsp;1&nbsp;r.&nbsp;śm.</li>
+    <li>9.30 + Janinę, Ludwika, Zofię, Ludwika Wilków, Teresę,
+    Jerzego Głowackich</li>
+    <li>9.30 + Janusza Sołek – greg.&nbsp;6</li>
+    <li>11.15 w&nbsp;intencji parafian</li>
+    <li>11.15 + Mariannę Brzyszcz</li>
+    <li>12.30 + Mirosławę Małkiewicz w&nbsp;2&nbsp;r.&nbsp;śm.</li>
+    <li>18.00 o&nbsp;Boże błogosławieństwo, łaskę zdrowia, dary Ducha
+    Świętego, opiekę Matki Bożej i&nbsp;wstawiennictwo
+    św.&nbsp;Patrona dla Wojciecha Fularskiego</li>
+    <li>18.00 + Andrzeja Sochę w&nbsp;13.&nbsp;r.&nbsp;śm. Wacława,
+    Mariannę Pruś</li>
 </ul>
     </div>
 </div>

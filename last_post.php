@@ -1,45 +1,39 @@
 <div class="card">
     <div class="card-header">
         <h3>1.&nbsp;listopada 2020&nbsp;r.</h3>
-        <h3>UROCZYSTOŚĆ WSZYSTKICH ŚWIĘTYCH, Rok A</h3>
+        <h3>XXXI NIEDZIELA ZWYKŁA, Rok A</h3>
     </div>
     <div class="col">
         <p>1. Dziękujemy parafianom, którzy sprzątali kościół, <em>Bóg
-        zapłać</em>. <strong>W&nbsp;najbliższą sobotę do&nbsp;sprzątania
-        świątyni parafialnej prosimy</strong> parafian mieszkających przy
-        ul.&nbsp;Mickiewicza, blok 47, mieszkania od&nbsp;11 do&nbsp;20.</p>
+        zapłać</em>. <strong>W&nbsp;najbliższą sobotę, do&nbsp;sprzątania
+        świątyni parafialnej prosimy parafian</strong> mieszkających przy
+        ul. Mickiewicza, blok 47, mieszkania od&nbsp;11 do&nbsp;20.</p>
         <p>2. W&nbsp;tym tygodniu Pierwszy Piątek Miesiąca, spowiedź
         w&nbsp;tym dniu od&nbsp;godz.&nbsp;17.00.</p>
-        <p>3. W&nbsp;ramach przygotowania młodzieży do&nbsp;godnego przyjęcia
-        Sakramentu Bierzmowania – młodzież z&nbsp;klasy szóstej z&nbsp;naszej
-        parafii ma&nbsp;spotkanie w&nbsp;parafialnym kościele
-        w&nbsp;najbliższy wtorek o&nbsp;godz.&nbsp;17.00, a&nbsp;po&nbsp;nim
-        spowiedź św.&nbsp;W&nbsp;środę klasy siódme o&nbsp;godz.&nbsp;17.00
-        i&nbsp;w&nbsp;czwartek klasy ósme o&nbsp;tej samej godzinie.</p>
-        <p>4. W&nbsp;przyszłą niedziele Dzień Solidarności z&nbsp;Kościołem
+        <p>3. W&nbsp;przyszłą niedziele Dzień Solidarności z&nbsp;Kościołem
         prześladowanym – zbiórka do&nbsp;puszek na&nbsp;organizację „Kościół
         w&nbsp;potrzebie”.</p>
-        <p>5. W&nbsp;dzień zaduszny, 2&nbsp;listopada, Msza&nbsp;św.
-        u&nbsp;nas w&nbsp;kościele będzie odprawiana o&nbsp;godz.&nbsp;6.30,
-        o&nbsp;godz.&nbsp;9.00 – Msza&nbsp;św. za&nbsp;zmarłych polecanych
+        <p>4. W&nbsp;dzień zaduszny 2&nbsp;listopada Msza&nbsp;św. u&nbsp;nas
+        w&nbsp;kościele będzie odprawiana o&nbsp;godz.&nbsp;6.30,
+        o&nbsp;godz.&nbsp;9.00 Msza&nbsp;św. za&nbsp;zmarłych polecanych
         w&nbsp;wypominkach z&nbsp;procesją po&nbsp;kościele i&nbsp;modlitwami
-        za&nbsp;zmarłych. O&nbsp;godz.&nbsp;17.30 Koronka do&nbsp;Bożego
+        za&nbsp;zmarłych. O&nbsp;godz.&nbsp;17.30. Koronka do&nbsp;Bożego
         Miłosierdzia połączona z&nbsp;wypominkami i&nbsp;ostatnia
         Msza&nbsp;św. o&nbsp;godz.&nbsp;18.00.</p>
-        <p>6. Dziękujemy za&nbsp;uszczelnienie dachu kościoła. W&nbsp;paru
+        <p>5. Dziękujemy za&nbsp;uszczelnienie dachu kościoła. W&nbsp;paru
         miejscach w&nbsp;czasie deszczu sączyła się woda, nawet
-        tu&nbsp;w&nbsp;prezbiterium, niedaleko tabernakulum pojawiała się
-        kałuża. Wyrażamy także wdzięczność za &nbsp;ofiarowane kwiaty, które
+        tu&nbsp;w&nbsp;prezbiterium, niedaleko tabernaculum pojawiała się
+        kałuża. Wyrażamy także wdzięczność za&nbsp;ofiarowane kwiaty, które
         zdobią kościół. Niech Pan Jezus hojnie błogosławi dobrym ludziom.</p>
-        <p>7. Zachęcamy do&nbsp;nabycia i&nbsp;czytania prasy katolickiej:
-        „Gość Niedzielny”, „Niedziela” i&nbsp;„Miłujcie się” – dwutygodnik
-        dla młodzieży. Nowa prasa znajduje się na&nbsp;stoliku pod chórem
-        w&nbsp;kościele.</p>
-        <p>8. W&nbsp;dniach od&nbsp;1 do&nbsp;8&nbsp;listopada 
+        <p>6. Zachęcamy do&nbsp;nabycia i&nbsp;czytania prasy katolickiej:
+        „Gość Niedzielny”, „Niedziela” i&nbsp;„Miłujcie się
+        to&nbsp;dwutygodnik dla młodzieży. Nowa prasa znajduje się
+        na&nbsp;stoliku pod chórem w&nbsp;kościele.</p>
+        <p>7. W&nbsp;dniach od&nbsp;1 do&nbsp;8&nbsp;listopada 
         godz.&nbsp;17.30 - Koronka do&nbsp;Bożego Miłosierdzia
         z&nbsp;wypominkami za&nbsp;zmarłych. Zapraszamy do&nbsp;wspólnej
         modlitwy.</p>
-        <p>9. Wszystkim, którzy w&nbsp;tym tygodniu obchodzą swoje imieniny,
+        <p>8. Wszystkim, którzy w&nbsp;tym tygodniu obchodzą swoje imieniny,
         urodziny, jakiekolwiek rocznice składamy najlepsze życzenia
         z&nbsp;kapłańskim błogosławieństwem. Wszystkim uczestniczącym
         we&nbsp;Mszy&nbsp;św. życzymy błogosławionej niedzieli.</p>
