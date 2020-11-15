@@ -1,46 +1,51 @@
 <div class="card">
     <div class="card-header">
-        <h3>8.&nbsp;listopada 2020&nbsp;r.</h3>
+        <h3>15.&nbsp;listopada 2020&nbsp;r.</h3>
         <h3>XXXIII NIEDZIELA ZWYKŁA, Rok A</h3>
     </div>
     <div class="col">
-        <p>1. Wczoraj parafialny kościół sprzątały Panie Maria Bienięda
-        z&nbsp;córką. Ofiarowały na&nbsp;potrzeby parafii 100&nbsp;zł.
-        <em>Bóg zapłać</em> za&nbsp;wszystko.
+        <p>1. <em>Bóg zapłać</em> sprzątającym kościół.
         <strong>W&nbsp;najbliższą sobotę, do&nbsp;sprzątania świątyni
-        parafialnej, prosimy parafian</strong> mieszkających przy
-        ul.&nbsp;Mickiewicza, blok 47, mieszkania od&nbsp;21
-        do&nbsp;30.</p>
-        <p>2. We&nbsp;wtorek po&nbsp;Mszy&nbsp;św. Koronka
+        parafialnej prosimy</strong> parafian mieszkających przy
+        ul.&nbsp;Mickiewicza, blok&nbsp;49, mieszkania od&nbsp;1
+        do&nbsp;10.</p>
+        <p>2. W&nbsp;przyszłą niedzielę uroczystość Chrystusa Króla
+        Wszechświata – ostatnia niedziela roku liturgicznego, patronalne
+        święto Katolickiego Stowarzyszenia Młodzieży.</p>
+        <p>3. Dziś o&nbsp;godz.&nbsp;17.30 Nieszpory. Zapraszamy
+        do&nbsp;udziału w&nbsp;tym nabożeństwie.</p>
+        <p>4. Zapraszamy wszystkie dzieci z&nbsp;naszej parafii, które nie
+        ukończyły 11&nbsp;lat życia, do&nbsp;uczczenia osoby
+        św.&nbsp;Mikołaja biskupa. Celem tej inicjatywy jest ukazanie prawdy
+        o&nbsp;wielkim świętym Kościoła, który uczy nas czym jest miłość,
+        dobro i&nbsp;miłosierdzie. Szczegółowe informacje na&nbsp;stronie
+        parafii i&nbsp;na&nbsp;Facebook’u.</p>
+        <p>5. We&nbsp;wtorek po&nbsp;Mszy&nbsp;św. Koronka
         do&nbsp;Miłosierdzia Bożego.</p>
-        <p>3. W&nbsp;najbliższą środę, tj.&nbsp;11&nbsp;listopada – Narodowe
-        Święto Niepodległości. W&nbsp;tym dniu o&nbsp;godz.&nbsp;17.30 –
-        Modlitwa Różańcowa w&nbsp;intencji Polski i&nbsp;Polaków,
-        a&nbsp;także o&nbsp;ustanie epidemii, po&nbsp;niej Msza&nbsp;św.
-        w&nbsp;intencji Ojczyzny. Pamiętajmy o&nbsp;wywieszeniu narodowej
-        flagi.</p>
-        <p>4. W&nbsp;czwartek o&nbsp;17.30 wystawienie Najśw. Sakramentu –
-        okazja do&nbsp;osobistej adoracji i&nbsp;powierzenia Panu Jezusowi
-        osobistych spraw.</p>
-        <p>5. Dziękujemy rodzicom młodzieży z&nbsp;klas szóstych, siódmych
-        i&nbsp;ósmych, i&nbsp;samej młodzieży za&nbsp;przystąpienie
-        do&nbsp;Sakramentu Pokuty, we&nbsp;wtorek, w&nbsp;środę
-        i&nbsp;czwartek. Było w&nbsp;poszczególne dni około 15&nbsp;osób.</p>
-        <p>6. W&nbsp;przyszłą niedzielę o&nbsp;godz.&nbsp;17.30 Nieszpory.
-        Zapraszamy do&nbsp;udziału w&nbsp;tym nabożeństwie.</p>
-        <p>7. Dziś w&nbsp;Powszechnym Kościele przeżywamy „Dzień Solidarności
-        z&nbsp;Kościołem prześladowanym” –  po&nbsp;Mszach&nbsp;św. zbiórka
-        do&nbsp;puszek na&nbsp;organizację „Kościół w&nbsp;potrzebie”.
-        Ofiarodawcom niech Pan hojnie błogosławi.</p>
-        <p>8. Zachęcamy do&nbsp;nabycia i&nbsp;czytania prasy katolickiej:
-        „Gość Niedzielny”, „Niedziela” i&nbsp;„Miłujcie się”,
-        to&nbsp;dwutygodnik dla młodzieży.</p>
-        <p>9. Wszystkim, którzy w&nbsp;tym tygodniu obchodzą swoje imieniny,
-        urodziny, jakiekolwiek rocznice  składamy najlepsze życzenia
+        <p>6. W&nbsp;najbliższą środę po&nbsp;Mszy&nbsp;św. wieczornej
+        nabożeństwo do&nbsp;Matki Bożej Nieustającej Pomocy.</p>
+        <p>7. W&nbsp;czwartek o&nbsp;17.30 Wystawienie Najśw. Sakramentu
+        i&nbsp;okazja do&nbsp;osobistej adoracji Pana Jezusa.</p>
+        <p>8. Zachęcamy do&nbsp;czytania prasy katolickiej: „Gość Niedzielny”,
+        „Niedziela” jest na&nbsp;stoliku pod chórem, można ją&nbsp;nabyć
+        wychodząc z&nbsp;kościoła.</p>
+        <p>9. Serdecznie dziękujemy wszystkim, którzy wspierają naszą
+        parafię, dziękujemy za&nbsp;pomoc i&nbsp;życzliwość. <em>„Bóg
+        zapłać”</em> za&nbsp;okazane serce i&nbsp;wszelkie ofiary złożone
+        na&nbsp;tacę, czy przelane na&nbsp;parafialne konto. Wszystkich
+        dobrodziejów naszej parafii szczególnie polecamy w&nbsp;sprawowanej
+        Mszy&nbsp;św. za&nbsp;parafian każdej niedzieli
+        i&nbsp;w&nbsp;uroczystości.</p>
+        <p>10. Wszystkim, którzy w&nbsp;tym tygodniu obchodzą swoje imieniny,
+        urodziny, jakiekolwiek rocznice składamy najlepsze życzenia
         z&nbsp;kapłańskim błogosławieństwem. Wszystkim uczestniczącym
         we&nbsp;Mszy&nbsp;św. życzymy błogosławionej niedzieli.</p>
+        <p>11. Na&nbsp;zakończenie pomódlmy się za&nbsp;zmarłych, zmarłych
+        z&nbsp;naszych rodzin. Do&nbsp;wieczności w&nbsp;minionych tygodniu
+        odeszła śp. Klara Stefańska l.&nbsp;84, z&nbsp;Kobiernik.
+        <em>Wieczny Odpoczynek...</em></p>
         <p>
-            <span style="float: left;">Sandomierz, 8.&nbsp;listopada 2020&nbsp;r.</span>
+            <span style="float: left;">Sandomierz, 15.&nbsp;listopada 2020&nbsp;r.</span>
             <span style="float: right; text-align: right;">ks. proboszcz Stanisław Chmielewski</span>
         </p>
     </div>
