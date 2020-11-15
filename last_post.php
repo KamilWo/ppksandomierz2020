@@ -1,3 +1,29 @@
+
+<div class="card">
+    <div class="card-header">
+        <h3>15.&nbsp;listopada 2020&nbsp;r.</h3>
+        <h3>Św.&nbsp;Mikołaj w&nbsp;Podwyższeniu</h3>
+    </div>
+    <div class="col">
+        <p>Zapraszamy wszystkie dzieci z&nbsp;naszej parafii, które nie
+        ukończyły 11&nbsp;lat życia, do&nbsp;uczczenia osoby
+        św.&nbsp;Mikołaja biskupa. Celem tej inicjatywy jest ukazanie prawdy
+        o&nbsp;wielkim świętym Kościoła, który uczy nas czym jest miłość,
+        dobro i&nbsp;miłosierdzie.</p>
+        <p>Forma prezentacji: film, max 3&nbsp;min. (piosenka, wiersz,
+        krótkie opowiadanie).</p>
+        <p>Wiek uczestników: dzieci do&nbsp;11&nbsp;roku życia włącznie.</p>
+        <p>Termin nadsyłania prac: 30&nbsp;listopada 2020&nbsp;r.</p>
+        <p>Adres przesyłania prac: <a href="mailto:ppksandomierz@onet.pl">
+        ppksandomierz@onet.pl</a> – w&nbsp;tytule widomości prosimy wpisać:</p>
+        <p><strong># Mikołajki w&nbsp;Podwyższeniu</strong>.</p>
+        <p>W&nbsp;treści wiadomości prosimy podać imię, nazwisko i&nbsp;adres
+        celem weryfikacji – wydarzenie dotyczy tylko naszych parafian.</p>
+        <p>Dla wszystkich uczestników mikołajkowy prezent.</p>
+    </div>
+</div>
+<br />
+
 <div class="card">
     <div class="card-header">
         <h3>15.&nbsp;listopada 2020&nbsp;r.</h3>
