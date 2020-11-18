@@ -4,24 +4,27 @@
         Św.&nbsp;Mikołaj w&nbsp;Podwyższeniu
     </h3>
     <p>
-        Zapraszamy wszystkie dzieci z&nbsp;naszej parafii, które nie
-        ukończyły 11&nbsp;lat życia, do&nbsp;uczczenia osoby
-        św.&nbsp;Mikołaja biskupa. Celem tej inicjatywy jest ukazanie prawdy
-        o&nbsp;wielkim świętym Kościoła, który uczy nas czym jest miłość,
-        dobro i&nbsp;miłosierdzie.
+        <img src="static/download/Swiety_Mikolaj_z_Miry.webp" alt="Święty Mikołaj z Miry"/>
     </p>
     <p>
-        Forma prezentacji: film, max 3&nbsp;min. (piosenka, wiersz,
+        Zapraszamy wszystkie dzieci z&nbsp;naszej parafii, które nie
+        ukończyły 11&nbsp;lat życia, do&nbsp;uczczenia osoby
+        św.&nbsp;Mikołaja biskupa. <strong>Celem tej inicjatywy jest ukazanie prawdy
+        o&nbsp;wielkim świętym Kościoła, który uczy nas czym jest miłość,
+        dobro i&nbsp;miłosierdzie.</strong>
+    </p>
+    <p>
+        <strong>Forma prezentacji</strong>: film, max 3&nbsp;min. (piosenka, wiersz,
         krótkie opowiadanie).
     </p>
     <p>
-        Wiek uczestników: dzieci do&nbsp;11&nbsp;roku życia włącznie.
+        <strong>Wiek uczestników</strong>: dzieci do&nbsp;11&nbsp;roku życia włącznie.
     </p>
     <p>
-        Termin nadsyłania prac: 30&nbsp;listopada 2020&nbsp;r.
+        <strong>Termin nadsyłania prac</strong>: 30&nbsp;listopada 2020&nbsp;r.
     </p>
     <p>
-        Adres przesyłania prac: <a href="mailto:ppksandomierz@onet.pl">
+        <strong>Adres przesyłania prac</strong>: <a href="mailto:ppksandomierz@onet.pl">
         ppksandomierz@onet.pl</a> – w&nbsp;tytule widomości prosimy wpisać:
     </p>
     <p>
