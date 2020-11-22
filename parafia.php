@@ -24,7 +24,6 @@ include 'head.php';
                         <li class="list-group-item">Ks. mgr Piotr Cieśla (od 2020 roku)</li>
                         <li class="list-group-item">Ks. mgr Krzysztof Rębisz (od 2019 roku)</li>
                         <li class="list-group-item">Ks. mgr Sebastian Mroczkowski (od 2018 roku)</li>
-                        <li class="list-group-item">Ks. mgr lic. Damian Dziuba (od 2017 roku)</li>
                     </ol>
                 </div>
                 <hr/>

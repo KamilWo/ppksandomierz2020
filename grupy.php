@@ -17,10 +17,12 @@ include 'head.php';
 
                 <div class="card">
                     <div class="card-header">
-                        Liturgiczna Służba Ołtarza (ministranci i lektorzy):
+                        Liturgiczna Służba Ołtarza (ministranci i&nbsp;lektorzy):
                     </div>
                     <div class="col">
-                        <p>Zbiórki odbywają się w soboty o godz. 10.00.</p>
+                        <p>
+                            Zbiórki odbywają się w&nbsp;soboty o&nbsp;godz.&nbsp;10.00.
+                        </p>
                     </div>
                 </div>
                 <br/>
@@ -30,8 +32,10 @@ include 'head.php';
                         Róże różańcowe:
                     </div>
                     <div class="col">
-                        <p>Zmiana tajemnic różańcowych następuje w pierwszą niedzielę miesiąca
-                        po Mszy świętej o godz. 16.00.</p>
+                        <p>
+                            Zmiana tajemnic różańcowych następuje w&nbsp;pierwszą niedzielę miesiąca
+                            po&nbsp;Mszy świętej o&nbsp;godz.&nbsp;11.15.
+                        </p>
                     </div>
                 </div>
                 <br/>
@@ -41,8 +45,10 @@ include 'head.php';
                         Domowy Kościół:
                     </div>
                     <div class="col">
-                        <p>Spotkania formacyjne w Kręgach Rodzin odbywają się co miesiąc.
-                        Zachęcamy odważne małżeństwa do wejścia na drogę Ruchu Światło-Życie.</p>
+                        <p>
+                            Spotkania formacyjne w&nbsp;Kręgach Rodzin odbywają się co&nbsp;miesiąc.
+                            Zachęcamy odważne małżeństwa do&nbsp;wejścia na&nbsp;drogę Ruchu Światło-Życie.
+                        </p>
                     </div>
                 </div>
                 <br/>
@@ -52,7 +58,10 @@ include 'head.php';
                         Legion Maryi:
                     </div>
                     <div class="col">
-                        <p>Spotkania odbywają się w środy po Mszy świętej odprawianej o godz. 18.00.</p>
+                        <p>
+                            Spotkania odbywają się w&nbsp;środy po&nbsp;Mszy świętej odprawianej
+                            o&nbsp;godz.&nbsp;18.00.
+                        </p>
                     </div>
                 </div>
                 <br/>
