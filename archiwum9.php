@@ -13,7 +13,189 @@ include 'head.php';
             <!-- treść główna -->
             <div class="col">
                 <h2 class="first-content-header">Archiwum wiadomości 2020 rok</h2>
-                <h2>Okres 1.&nbsp;stycznia 2020 - 15.&nbsp;listopada 2020 r.</h2>
+                <h2>Okres 1.&nbsp;stycznia 2020 - 22.&nbsp;listopada 2020 r.</h2>
+
+<div class="card">
+    <div class="card-header">
+        <h3>INTENCJE MSZALNE<br />
+            16 – 22&nbsp;listopada 2020&nbsp;r.
+        </h3>
+    </div>
+    <div class="col">
+<p class="intentions_date">16&nbsp;listopada, Poniedziałek</p>
+<ul>
+    <li>6.30 + Alfredę, Franciszka Kawiorskich</li>
+    <li>6.30 + Emila Kuzę</li>
+    <li>6.30 + Janusza Sołek – greg.&nbsp;14</li>
+    <li>18.00 + Władysława Szatana</li>
+    <li>18.00 + Stanisława Gwiazdowskiego w&nbsp;17 r.&nbsp;śm.</li>
+    <li>18.00 + Witolda, Seweryna, Teresę Rybów</li>
+</ul>
+
+<p class="intentions_date">17&nbsp;listopada, Wtorek –
+św.&nbsp;Elżbiety Węgierskiej</p>
+<ul>
+    <li>6.30 + Stanisława Głaza</li>
+    <li>6.30 + Emila Kuzę</li>
+    <li>6.30 + Janusza Sołek – greg.&nbsp;15</li>
+    <li>18.00 int. wynagradzająca Panu Bogu za&nbsp;grzechy aborcji
+    i&nbsp;eutanazji</li>
+    <li>18.00 + Klarę Stefańską</li>
+    <li>18.00 + Lucynę Wolińską w&nbsp;16 r.&nbsp;śm.</li>
+</ul>
+
+<p class="intentions_date">18&nbsp;listopada, Środa –
+bł.&nbsp;Karoliny Kózkówny</p>
+<ul>
+    <li>6.30 + Klarę Stefańską</li>
+    <li>6.30 + Emila Kuzę</li>
+    <li>6.30 + Janusza Sołek – greg.&nbsp;16</li>
+    <li>18.00 + zm.&nbsp;Legionistów</li>
+    <li>18.00 + Franciszka Bryłę w&nbsp;4 r.&nbsp;śm.</li>
+    <li>18.00 + Stanisława Pacholczyka w&nbsp;3 r.&nbsp;śm., Jana,
+    Mariannę Gołębiowskich</li>
+</ul>
+
+<p class="intentions_date">19&nbsp;listopada, Czwartek</p>
+<ul>
+    <li>6.30 dziękczynno-błagalna w&nbsp;int. Zosi w&nbsp;10&nbsp;r.
+    urodzin oraz jej rodziców Justynę i&nbsp;Mateusza,
+    i&nbsp;rodzeństwo Miłoszka, i&nbsp;Jonaszka</li>
+    <li>6.30 + Mariana Mroczkowskiego</li>
+    <li>6.30 + Janusza Sołek – greg.&nbsp;17</li>
+    <li>18.00 + Albina, Bronisławę Borkowskich, Kazimierę
+    Jaglewicz</li>
+    <li>18.00 + Helenę Karasiak</li>
+    <li>18.00 + Janusza Szczębarę</li>
+</ul>
+
+<p class="intentions_date">20&nbsp;listopada, Piątek –
+św.&nbsp;Rafała Kalinowskiego</p>
+<ul>
+    <li>6.30 dziękczynno-błagalna w&nbsp;int. Asi i&nbsp;Daniela
+    z&nbsp;podziękowaniem za&nbsp;sakr. małżeństwa i&nbsp;prośbą
+    o&nbsp;Boże błogosławieństwo, opiekę Matki Bożej, potrzebne
+    łaski</li>
+    <li>6.30 + Wandę Czerwonkę</li>
+    <li>6.30 + Janusza Sołek – greg.&nbsp;18</li>
+    <li>18.00 o&nbsp;łaskę nawrócenia dla brata</li>
+    <li>18.00 + Ryszarda Pietruszkę w&nbsp;26 r.&nbsp;śm. Jana,
+    Józefę, Marców, zm.&nbsp;z&nbsp;rodz. Pietruszków</li>
+    <li>18.00 + Genowefę, Kazimierza, Romana Królów</li>
+</ul>
+
+<p class="intentions_date">21&nbsp;listopada, Sobota –
+Ofiarowanie Najświętszej Maryi Panny</p>
+<ul>
+    <li>6.30 + Wandę Czerwonkę</li>
+    <li>6.30 + Helenę Karasiak</li>
+    <li>6.30 + Janusza Sołek – greg.&nbsp;19</li>
+    <li>18.00 + Eugeniusza Lesiaka</li>
+    <li>18.00 + Stanisławę, Franciszka</li>
+    <li>18.00 + Irenę, Wiktora, Danutę, Stanisława Gajdów</li>
+</ul>
+
+<p class="intentions_date">22&nbsp;listopada, Niedziela –
+    <span style="color: grey">
+        Jezusa Chrystusa Króla Wszechświata
+    </span>
+</p>
+<ul>
+    <li>7.30 dziękczynno-błagalna w&nbsp;int. Janusza z&nbsp;racji
+    imienin o&nbsp;Boże błogosławieństwo, łaskę zdrowia, opiekę Matki
+    Bożej dla całej rodziny</li>
+    <li>7.30 + Janusza Sołek – greg.&nbsp;20</li>
+    <li>9.30 + Stanisława, Mariannę, Franciszka Piątków, Antoninę,
+    Juliana Edwarda Lalewiczów, zm.&nbsp;z&nbsp;rodz. Piątków,
+    Lalewiczów, Głowackich</li>
+    <li>11.15 + Stanisława, Stefanię, Michalinę Bińczaków</li>
+    <li>12.30 w&nbsp;intencji parafian</li>
+    <li>18.00 o&nbsp;Boże błogosławieństwo, opiekę Matki Bożej,
+    potrzebne łaski dla Mateusza Treli w&nbsp;20&nbsp;r. urodzin</li>
+    <li>18.00 + Jana Mazura</li>
+</ul>
+    </div>
+</div>
+<br/>
+
+<div class="card">
+    <div class="card-header">
+        <h3>Św.&nbsp;Mikołaj w&nbsp;Podwyższeniu</h3>
+    </div>
+    <div class="col">
+        <p>Zapraszamy wszystkie dzieci z&nbsp;naszej parafii, które nie
+        ukończyły 11&nbsp;lat życia, do&nbsp;uczczenia osoby
+        św.&nbsp;Mikołaja biskupa. <strong>Celem tej inicjatywy jest ukazanie prawdy
+        o&nbsp;wielkim świętym Kościoła, który uczy nas czym jest miłość,
+        dobro i&nbsp;miłosierdzie.</strong></p>
+        <p><strong>Forma prezentacji</strong>: film, max 3&nbsp;min. (piosenka, wiersz,
+        krótkie opowiadanie).</p>
+        <p><strong>Wiek uczestników</strong>: dzieci do&nbsp;11&nbsp;roku życia włącznie.</p>
+        <p><strong>Termin nadsyłania prac</strong>: 30&nbsp;listopada 2020&nbsp;r.</p>
+        <p><strong>Adres przesyłania prac</strong>: <a href="mailto:ppksandomierz@onet.pl">
+        ppksandomierz@onet.pl</a> – w&nbsp;tytule widomości prosimy wpisać:</p>
+        <p><strong># Mikołajki w&nbsp;Podwyższeniu</strong>.</p>
+        <p>W&nbsp;treści wiadomości prosimy podać imię, nazwisko i&nbsp;adres
+        celem weryfikacji – wydarzenie dotyczy tylko naszych parafian.</p>
+        <p>Dla wszystkich uczestników mikołajkowy prezent.</p>
+    </div>
+</div>
+<br />
+
+<div class="card">
+    <div class="card-header">
+        <h3>15.&nbsp;listopada 2020&nbsp;r.</h3>
+        <h3>XXXIII NIEDZIELA ZWYKŁA, Rok A</h3>
+    </div>
+    <div class="col">
+        <p>1. <em>Bóg zapłać</em> sprzątającym kościół.
+        <strong>W&nbsp;najbliższą sobotę, do&nbsp;sprzątania świątyni
+        parafialnej prosimy</strong> parafian mieszkających przy
+        ul.&nbsp;Mickiewicza, blok&nbsp;49, mieszkania od&nbsp;1
+        do&nbsp;10.</p>
+        <p>2. W&nbsp;przyszłą niedzielę uroczystość Chrystusa Króla
+        Wszechświata – ostatnia niedziela roku liturgicznego, patronalne
+        święto Katolickiego Stowarzyszenia Młodzieży.</p>
+        <p>3. Dziś o&nbsp;godz.&nbsp;17.30 Nieszpory. Zapraszamy
+        do&nbsp;udziału w&nbsp;tym nabożeństwie.</p>
+        <p>4. Zapraszamy wszystkie dzieci z&nbsp;naszej parafii, które nie
+        ukończyły 11&nbsp;lat życia, do&nbsp;uczczenia osoby
+        św.&nbsp;Mikołaja biskupa. Celem tej inicjatywy jest ukazanie prawdy
+        o&nbsp;wielkim świętym Kościoła, który uczy nas czym jest miłość,
+        dobro i&nbsp;miłosierdzie. Szczegółowe informacje na&nbsp;stronie
+        parafii i&nbsp;na&nbsp;Facebook’u.</p>
+        <p>5. We&nbsp;wtorek po&nbsp;Mszy&nbsp;św. Koronka
+        do&nbsp;Miłosierdzia Bożego.</p>
+        <p>6. W&nbsp;najbliższą środę po&nbsp;Mszy&nbsp;św. wieczornej
+        nabożeństwo do&nbsp;Matki Bożej Nieustającej Pomocy.</p>
+        <p>7. W&nbsp;czwartek o&nbsp;17.30 Wystawienie Najśw. Sakramentu
+        i&nbsp;okazja do&nbsp;osobistej adoracji Pana Jezusa.</p>
+        <p>8. Zachęcamy do&nbsp;czytania prasy katolickiej: „Gość Niedzielny”,
+        „Niedziela” jest na&nbsp;stoliku pod chórem, można ją&nbsp;nabyć
+        wychodząc z&nbsp;kościoła.</p>
+        <p>9. Serdecznie dziękujemy wszystkim, którzy wspierają naszą
+        parafię, dziękujemy za&nbsp;pomoc i&nbsp;życzliwość. <em>„Bóg
+        zapłać”</em> za&nbsp;okazane serce i&nbsp;wszelkie ofiary złożone
+        na&nbsp;tacę, czy przelane na&nbsp;parafialne konto. Wszystkich
+        dobrodziejów naszej parafii szczególnie polecamy w&nbsp;sprawowanej
+        Mszy&nbsp;św. za&nbsp;parafian każdej niedzieli
+        i&nbsp;w&nbsp;uroczystości.</p>
+        <p>10. Wszystkim, którzy w&nbsp;tym tygodniu obchodzą swoje imieniny,
+        urodziny, jakiekolwiek rocznice składamy najlepsze życzenia
+        z&nbsp;kapłańskim błogosławieństwem. Wszystkim uczestniczącym
+        we&nbsp;Mszy&nbsp;św. życzymy błogosławionej niedzieli.</p>
+        <p>11. Na&nbsp;zakończenie pomódlmy się za&nbsp;zmarłych, zmarłych
+        z&nbsp;naszych rodzin. Do&nbsp;wieczności w&nbsp;minionych tygodniu
+        odeszła śp. Klara Stefańska l.&nbsp;84, z&nbsp;Kobiernik.
+        <em>Wieczny Odpoczynek...</em></p>
+        <p>
+            <span style="float: left;">Sandomierz, 15.&nbsp;listopada 2020&nbsp;r.</span>
+            <span style="float: right; text-align: right;">ks. proboszcz Stanisław Chmielewski</span>
+        </p>
+    </div>
+</div>
+<br />
+
 <div class="card">
     <div class="card-header">
         <h3>INTENCJE MSZALNE<br />

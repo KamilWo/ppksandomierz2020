@@ -1,78 +1,105 @@
-
 <div class="card">
     <div class="card-header">
-        <h3>15.&nbsp;listopada 2020&nbsp;r.</h3>
-        <h3>Św.&nbsp;Mikołaj w&nbsp;Podwyższeniu</h3>
+        <h3>22.&nbsp;listopada 2020&nbsp;r.</h3>
+        <h3>XXXIV NIEDZIELA ZWYKŁA, Rok A</h3>
+        <h3>Uroczystość Jezusa Chrystusa Króla Wszechświata</h3>
     </div>
     <div class="col">
-        <p>Zapraszamy wszystkie dzieci z&nbsp;naszej parafii, które nie
-        ukończyły 11&nbsp;lat życia, do&nbsp;uczczenia osoby
-        św.&nbsp;Mikołaja biskupa. Celem tej inicjatywy jest ukazanie prawdy
-        o&nbsp;wielkim świętym Kościoła, który uczy nas czym jest miłość,
-        dobro i&nbsp;miłosierdzie.</p>
-        <p>Forma prezentacji: film, max 3&nbsp;min. (piosenka, wiersz,
-        krótkie opowiadanie).</p>
-        <p>Wiek uczestników: dzieci do&nbsp;11&nbsp;roku życia włącznie.</p>
-        <p>Termin nadsyłania prac: 30&nbsp;listopada 2020&nbsp;r.</p>
-        <p>Adres przesyłania prac: <a href="mailto:ppksandomierz@onet.pl">
-        ppksandomierz@onet.pl</a> – w&nbsp;tytule widomości prosimy wpisać:</p>
-        <p><strong># Mikołajki w&nbsp;Podwyższeniu</strong>.</p>
-        <p>W&nbsp;treści wiadomości prosimy podać imię, nazwisko i&nbsp;adres
-        celem weryfikacji – wydarzenie dotyczy tylko naszych parafian.</p>
-        <p>Dla wszystkich uczestników mikołajkowy prezent.</p>
+        <p>1. Wczoraj parafialny kościół sprzątali parafianie mieszkający
+        przy ulicy Mickiewicza Blok nr&nbsp;49, mieszkania od&nbsp;1
+        do&nbsp;10. Ofiarowali na&nbsp;potrzeby parafii 200&nbsp;zł.
+        <em>Bóg zapłać</em> za&nbsp;wszystko. <strong>W&nbsp;najbliższą
+        sobotę, do&nbsp;sprzątania świątyni parafialnej prosimy
+        parafian</strong> mieszkających przy ul.&nbsp;Mickiewicza,
+        blok&nbsp;49, mieszkania od&nbsp;10 do&nbsp;20.</p>
+        <p>2. Dziś o&nbsp;godz.&nbsp;17.30 Nieszpory. Zapraszamy
+        do&nbsp;udziału w&nbsp;tym nabożeństwie.</p>
+        <p>3. Zapraszamy wszystkie dzieci z&nbsp;naszej parafii, które nie
+        ukończyły 11&nbsp;lat życia, dovuczczenia osoby św. Mikołaja biskupa.
+        <strong><em>Celem tej inicjatywy jest ukazanie prawdy o&nbsp;wielkim
+        świętym Kościoła, który uczy nas czym jest miłość, dobro
+        i&nbsp;miłosierdzie.</em></strong><br />
+        <strong>Forma prezentacji</strong>: film, max 3&nbsp;min. (piosenka,
+        wiersz, krótkie opowiadanie).<br />
+        <strong>Wiek uczestników</strong>: dzieci do&nbsp;11 roku życia
+        włącznie.<br />
+        <strong>Termin nadsyłania prac</strong>: 30&nbsp;listopada
+        2020&nbsp;r.<br />
+        <strong>Adres przesyłania prac</strong>:
+        <a href="mailto:ppksandomierz@onet.pl">ppksandomierz@onet.pl</a>
+        – w&nbsp;tytule widomości prosimy wpisać: <strong><em>#Mikołajki
+        w&nbsp;Podwyższeniu</em></strong>. W&nbsp;treści wiadomości prosimy
+        podać imię, nazwisko i&nbsp;adres celem weryfikacji – wydarzenie
+        dotyczy tylko naszych parafian.<br />
+        Dla wszystkich uczestników mikołajowy prezent.</p>
+        <p>4. Zachęcamy do&nbsp;czytania prasy katolickiej; „Gość
+        Niedzielny”, „Niedziela”, dla młodzieży dwutygodnik „Miłujcie się”.
+        Są&nbsp;do&nbsp;nabycia na&nbsp;stoliku pod chórem
+        w&nbsp;kościele.</p>
+        <p>5. W&nbsp;przyszłą niedzielę rozpoczęcie nowego roku
+        liturgicznego. Zarazem, to&nbsp;Pierwsza Niedziela Adwentu.</p>
+        <p>6. Ten tydzień jest w&nbsp;kościele „Tygodniem Biblijnym”.
+        W&nbsp;sobotę o&nbsp;godz.&nbsp;17.30 nabożeństwo biblijne. Zachęcamy
+        do&nbsp;czytania Pisma Świętego w&nbsp;rodzinach.</p>
+        <p>7. Serdecznie dziękujemy Panu Józefowi Pająkowi i&nbsp;jego
+        pracownikom za&nbsp;ocieplenie sufitu kościoła, dziękujemy także
+        wszystkim za&nbsp;pomoc i&nbsp;życzliwość. <em>„Bóg zapłać”</em>.</p>
+        <p>8. W&nbsp;przyszłą niedzielę po&nbsp;Mszy&nbsp;św.
+        o&nbsp;godz.&nbsp;9.30 spotkanie ks.&nbsp;proboszcza
+        z&nbsp;parafialnymi liderami i&nbsp;radnymi, odnośnie podjęcia
+        decyzji w&nbsp;kwestii opłatków w&nbsp;parafii. Prosimy
+        o&nbsp;obecność wcześniej wspomnianych.</p>
+        <p>9. Wszystkim, którzy w&nbsp;tym tygodniu obchodzą swoje imieniny,
+        urodziny, jakiekolwiek rocznice składamy najlepsze życzenia
+        z&nbsp;kapłańskim błogosławieństwem. Wszystkim uczestniczącym
+        we&nbsp;Mszy&nbsp;św. życzymy błogosławionej niedzieli.</p>
+        <p>
+            <span style="float: left;">Sandomierz, 22.&nbsp;listopada 2020&nbsp;r.</span>
+            <span style="float: right; text-align: right;">ks. proboszcz Stanisław Chmielewski</span>
+        </p>
     </div>
 </div>
 <br />
 
+
 <div class="card">
     <div class="card-header">
-        <h3>15.&nbsp;listopada 2020&nbsp;r.</h3>
-        <h3>XXXIII NIEDZIELA ZWYKŁA, Rok A</h3>
+        <h3>Św.&nbsp;Mikołaj w&nbsp;Podwyższeniu</h3>
     </div>
     <div class="col">
-        <p>1. <em>Bóg zapłać</em> sprzątającym kościół.
-        <strong>W&nbsp;najbliższą sobotę, do&nbsp;sprzątania świątyni
-        parafialnej prosimy</strong> parafian mieszkających przy
-        ul.&nbsp;Mickiewicza, blok&nbsp;49, mieszkania od&nbsp;1
-        do&nbsp;10.</p>
-        <p>2. W&nbsp;przyszłą niedzielę uroczystość Chrystusa Króla
-        Wszechświata – ostatnia niedziela roku liturgicznego, patronalne
-        święto Katolickiego Stowarzyszenia Młodzieży.</p>
-        <p>3. Dziś o&nbsp;godz.&nbsp;17.30 Nieszpory. Zapraszamy
-        do&nbsp;udziału w&nbsp;tym nabożeństwie.</p>
-        <p>4. Zapraszamy wszystkie dzieci z&nbsp;naszej parafii, które nie
-        ukończyły 11&nbsp;lat życia, do&nbsp;uczczenia osoby
-        św.&nbsp;Mikołaja biskupa. Celem tej inicjatywy jest ukazanie prawdy
-        o&nbsp;wielkim świętym Kościoła, który uczy nas czym jest miłość,
-        dobro i&nbsp;miłosierdzie. Szczegółowe informacje na&nbsp;stronie
-        parafii i&nbsp;na&nbsp;Facebook’u.</p>
-        <p>5. We&nbsp;wtorek po&nbsp;Mszy&nbsp;św. Koronka
-        do&nbsp;Miłosierdzia Bożego.</p>
-        <p>6. W&nbsp;najbliższą środę po&nbsp;Mszy&nbsp;św. wieczornej
-        nabożeństwo do&nbsp;Matki Bożej Nieustającej Pomocy.</p>
-        <p>7. W&nbsp;czwartek o&nbsp;17.30 Wystawienie Najśw. Sakramentu
-        i&nbsp;okazja do&nbsp;osobistej adoracji Pana Jezusa.</p>
-        <p>8. Zachęcamy do&nbsp;czytania prasy katolickiej: „Gość Niedzielny”,
-        „Niedziela” jest na&nbsp;stoliku pod chórem, można ją&nbsp;nabyć
-        wychodząc z&nbsp;kościoła.</p>
-        <p>9. Serdecznie dziękujemy wszystkim, którzy wspierają naszą
-        parafię, dziękujemy za&nbsp;pomoc i&nbsp;życzliwość. <em>„Bóg
-        zapłać”</em> za&nbsp;okazane serce i&nbsp;wszelkie ofiary złożone
-        na&nbsp;tacę, czy przelane na&nbsp;parafialne konto. Wszystkich
-        dobrodziejów naszej parafii szczególnie polecamy w&nbsp;sprawowanej
-        Mszy&nbsp;św. za&nbsp;parafian każdej niedzieli
-        i&nbsp;w&nbsp;uroczystości.</p>
-        <p>10. Wszystkim, którzy w&nbsp;tym tygodniu obchodzą swoje imieniny,
-        urodziny, jakiekolwiek rocznice składamy najlepsze życzenia
-        z&nbsp;kapłańskim błogosławieństwem. Wszystkim uczestniczącym
-        we&nbsp;Mszy&nbsp;św. życzymy błogosławionej niedzieli.</p>
-        <p>11. Na&nbsp;zakończenie pomódlmy się za&nbsp;zmarłych, zmarłych
-        z&nbsp;naszych rodzin. Do&nbsp;wieczności w&nbsp;minionych tygodniu
-        odeszła śp. Klara Stefańska l.&nbsp;84, z&nbsp;Kobiernik.
-        <em>Wieczny Odpoczynek...</em></p>
         <p>
-            <span style="float: left;">Sandomierz, 15.&nbsp;listopada 2020&nbsp;r.</span>
-            <span style="float: right; text-align: right;">ks. proboszcz Stanisław Chmielewski</span>
+            <img src="static/download/Swiety_Mikolaj_z_Miry.webp" alt="Święty Mikołaj z Miry"/>
+        </p>
+        <p>
+            Zapraszamy wszystkie dzieci z&nbsp;naszej parafii, które nie
+            ukończyły 11&nbsp;lat życia, do&nbsp;uczczenia osoby
+            św.&nbsp;Mikołaja biskupa. <strong>Celem tej inicjatywy jest ukazanie prawdy
+            o&nbsp;wielkim świętym Kościoła, który uczy nas czym jest miłość,
+            dobro i&nbsp;miłosierdzie.</strong>
+        </p>
+        <p>
+            <strong>Forma prezentacji</strong>: film, max 3&nbsp;min. (piosenka, wiersz,
+            krótkie opowiadanie).
+        </p>
+        <p>
+            <strong>Wiek uczestników</strong>: dzieci do&nbsp;11&nbsp;roku życia włącznie.
+        </p>
+        <p>
+            <strong>Termin nadsyłania prac</strong>: 30&nbsp;listopada 2020&nbsp;r.
+        </p>
+        <p>
+            <strong>Adres przesyłania prac</strong>: <a href="mailto:ppksandomierz@onet.pl">
+            ppksandomierz@onet.pl</a> – w&nbsp;tytule widomości prosimy wpisać:
+        </p>
+        <p>
+            <strong># Mikołajki w&nbsp;Podwyższeniu</strong>.
+        </p>
+        <p>
+            W&nbsp;treści wiadomości prosimy podać imię, nazwisko i&nbsp;adres
+            celem weryfikacji – wydarzenie dotyczy tylko naszych parafian.
+        </p>
+        <p>
+            Dla wszystkich uczestników mikołajkowy prezent.
         </p>
     </div>
 </div>
