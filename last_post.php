@@ -1,60 +1,97 @@
 <div class="card">
     <div class="card-header">
-        <h3>22.&nbsp;listopada 2020&nbsp;r.</h3>
-        <h3>XXXIV NIEDZIELA ZWYKŁA, Rok A</h3>
-        <h3>Uroczystość Jezusa Chrystusa Króla Wszechświata</h3>
+        <h3>29.&nbsp;listopada 2020&nbsp;r.</h3>
+        <h3>I NIEDZIELA ADWENTU, Rok B</h3>
     </div>
     <div class="col">
-        <p>1. Wczoraj parafialny kościół sprzątali parafianie mieszkający
-        przy ulicy Mickiewicza Blok nr&nbsp;49, mieszkania od&nbsp;1
-        do&nbsp;10. Ofiarowali na&nbsp;potrzeby parafii 200&nbsp;zł.
-        <em>Bóg zapłać</em> za&nbsp;wszystko. <strong>W&nbsp;najbliższą
-        sobotę, do&nbsp;sprzątania świątyni parafialnej prosimy
-        parafian</strong> mieszkających przy ul.&nbsp;Mickiewicza,
-        blok&nbsp;49, mieszkania od&nbsp;10 do&nbsp;20.</p>
-        <p>2. Dziś o&nbsp;godz.&nbsp;17.30 Nieszpory. Zapraszamy
+        <p>1. <em>Bóg zapłać</em> parafiankom - Paniom: Zofii Malec
+        i&nbsp;Zofii Rządkowskiej, które sprzątały kościół w&nbsp;minioną
+        sobotę, złożyły ofiarę stu złotych na&nbsp;potrzeby parafii.
+        <strong>W&nbsp;najbliższą sobotę, do&nbsp;sprzątania świątyni
+        parafialnej prosimy parafian</strong> mieszkających przy
+        ul.&nbsp;Mickiewicza, blok&nbsp;49, mieszkania od&nbsp;21
+        do&nbsp;30.</p>
+        <p>2. Słowa wdzięczności kierujemy do&nbsp;Pań: Doroty Sarzyńskiej
+        i&nbsp;Jolanty Maciejewskiej, za&nbsp;wykonanie adwentowej dekoracji
+        w&nbsp;kościele. Niech Pan Bóg błogosławi im i&nbsp;ich
+        najbliższym.</p>
+        <p>3. W&nbsp;przyszłą niedzielę na&nbsp;Mszy&nbsp;św.
+        o&nbsp;godz.&nbsp;11.15 przekażemy upominki od&nbsp;św.&nbsp;Mikołaja
+        dla dzieci, które przesłały małą prezentacje o&nbsp;św.&nbsp;Mikołaju
+        Biskupie, na&nbsp;adres naszej parafii.</p>
+        <p>4. Dziś o&nbsp;godz.&nbsp;17.30 Nieszpory. Zapraszamy
         do&nbsp;udziału w&nbsp;tym nabożeństwie.</p>
-        <p>3. Zapraszamy wszystkie dzieci z&nbsp;naszej parafii, które nie
-        ukończyły 11&nbsp;lat życia, dovuczczenia osoby św. Mikołaja biskupa.
-        <strong><em>Celem tej inicjatywy jest ukazanie prawdy o&nbsp;wielkim
-        świętym Kościoła, który uczy nas czym jest miłość, dobro
-        i&nbsp;miłosierdzie.</em></strong><br />
-        <strong>Forma prezentacji</strong>: film, max 3&nbsp;min. (piosenka,
-        wiersz, krótkie opowiadanie).<br />
-        <strong>Wiek uczestników</strong>: dzieci do&nbsp;11 roku życia
-        włącznie.<br />
-        <strong>Termin nadsyłania prac</strong>: 30&nbsp;listopada
-        2020&nbsp;r.<br />
-        <strong>Adres przesyłania prac</strong>:
-        <a href="mailto:ppksandomierz@onet.pl">ppksandomierz@onet.pl</a>
-        – w&nbsp;tytule widomości prosimy wpisać: <strong><em>#Mikołajki
-        w&nbsp;Podwyższeniu</em></strong>. W&nbsp;treści wiadomości prosimy
-        podać imię, nazwisko i&nbsp;adres celem weryfikacji – wydarzenie
-        dotyczy tylko naszych parafian.<br />
-        Dla wszystkich uczestników mikołajowy prezent.</p>
-        <p>4. Zachęcamy do&nbsp;czytania prasy katolickiej; „Gość
+        <p>5. Od&nbsp;dzisiejszej niedzieli przeżywamy Nowennę przed
+        Uroczystością Niepokalanego Poczęcia Najświętszej Maryi Panny.
+        Na&nbsp;profilu Diecezji Sandomierskiej oraz kanale YouTube, każdego
+        dnia o&nbsp;godz.&nbsp;19.00 będzie transmisja Nowenny
+        z&nbsp;Sandomierza, z&nbsp;kaplicy Sióstr Służek Najświętszej Maryi
+        Panny Niepokalanej. W&nbsp;tym czasie będziemy modlić się
+        o&nbsp;zdrowie dla naszego Biskupa Krzysztofa Nitkiewicza, wszystkich
+        chorych, a&nbsp;także o&nbsp;potrzebne siły dla służby zdrowia.
+        Wszystkich gorąco zachęcamy o&nbsp;włączenie się do&nbsp;modlitwy
+        w&nbsp;tej szczególnej intencji. W&nbsp;najbliższy czwartek
+        o&nbsp;godz.&nbsp;18.00 w&nbsp;naszym parafialnym kościele, będziemy
+        sprawować Eucharystię we&nbsp;wspomnianej intencji.</p>
+        <p>6. Dla ludzi wierzących Adwent jest czasem szczególnym. Jest
+        czasem oczekiwania z&nbsp;wiarą na&nbsp;powtórne przyjście Zbawiciela
+        na&nbsp;ziemię, a&nbsp;jednocześnie przygotowania się
+        do&nbsp;obchodów Uroczystości Bożego Narodzenia. Zachęcamy parafian
+        do&nbsp;uczestnictwa w&nbsp;Mszach&nbsp;św. Roratnich
+        i&nbsp;do&nbsp;spotkania z&nbsp;przebaczającym Jezusem
+        w&nbsp;Sakramencie Pokuty. Msza&nbsp;św. Roratnia w&nbsp;naszym
+        kościele, w&nbsp;dni powszednie, w&nbsp;okresie Adwentu
+        o&nbsp;godz.&nbsp;6.30.</p>
+        <p><strong>Roraty</strong> – pierwsza Msza&nbsp;św. o&nbsp;wschodzie
+        słońca w&nbsp;okresie adwentu. Jest to&nbsp;msza wotywna 
+        o&nbsp;Najświętszej Maryi Pannie. Nazwa tej Mszy&nbsp;św. pochodzi
+        od&nbsp;jej introitu, który zaczyna się od&nbsp;słów <em>„rorate cæli
+        desuper”</em> („spuśćcie rosę niebiosa”). Charakterystycznym
+        elementem rorat jest zapalanie świecy, zwanej roratką (świecą
+        roratną). Świeca ta&nbsp;umieszczana jest w&nbsp;pobliżu ołtarza
+        jedynie w&nbsp;adwencie. Symbolizuje Najświętszą Maryję Pannę.
+        W&nbsp;wielu parafiach dzieci przychodziły na&nbsp;Msze&nbsp;św.
+        roratne z&nbsp;zaświeconymi lampionami. Dawniej Msza&nbsp;św.
+        odprawiana była codziennie, również poza okresem adwentu.</p>
+        <p>7. Od&nbsp;przyszłej niedzieli, będzie można nabyć świece
+        wigilijną „Caritas”, podobnie jak w&nbsp;poprzednich latach. Odnośnie
+        wigilijnych opłatków, informacja o&nbsp;ich sposobie rozprowadzenia
+        w&nbsp;parafii, zostanie podana w&nbsp;przyszłą niedzielę.</p>
+        <p>8. II&nbsp;niedziela Adwentu będzie dniem modlitwy i&nbsp;pomocy
+        materialnej Kościołowi na&nbsp;Wschodzie – po&nbsp;Mszach&nbsp;św.
+        zbiórka do&nbsp;puszek na&nbsp;wsparcie Kościoła
+        na&nbsp;Wschodzie.</p>
+        <p>9. Uroczystość Niepokalanego Poczęcia w&nbsp;Kościele Powszechnym
+        obchodzimy 8&nbsp;grudnia, tj.&nbsp;w&nbsp;przyszły wtorek.
+        W&nbsp;tym dniu na&nbsp;Mszy&nbsp;św. o&nbsp;godz.&nbsp;18.00 zostaną
+        poświęcone medaliki dla dzieci przygotowujące się do&nbsp;Pierwszej
+        Komunii&nbsp;Św. A&nbsp;po Mszy&nbsp;św. spotkanie z&nbsp;rodzicami
+        pierwszokomunijnych dzieci. Prosimy rodziców tych dzieci
+        o&nbsp;zakupienie medalików dla swoich pociech.</p>
+        <p>10. W&nbsp;przyszłą niedzielę w&nbsp;kościele, pół godziny przed
+        Mszą&nbsp;św. o&nbsp;godz.&nbsp;11.15 – adoracja Najśw. Sakramentu
+        połączona z&nbsp;modlitwą różańcową, którą poprowadzi Koło Żywego
+        Różańca z&nbsp;naszej parafii i&nbsp;zmiana tajemnic różańcowych.
+        Zapraszamy do&nbsp;tej wspólnotowej modlitwy.</p>
+        <p>11. Zachęcamy do&nbsp;czytania prasy katolickiej; „Gość
         Niedzielny”, „Niedziela”, dla młodzieży dwutygodnik „Miłujcie się”.
         Są&nbsp;do&nbsp;nabycia na&nbsp;stoliku pod chórem
         w&nbsp;kościele.</p>
-        <p>5. W&nbsp;przyszłą niedzielę rozpoczęcie nowego roku
-        liturgicznego. Zarazem, to&nbsp;Pierwsza Niedziela Adwentu.</p>
-        <p>6. Ten tydzień jest w&nbsp;kościele „Tygodniem Biblijnym”.
-        W&nbsp;sobotę o&nbsp;godz.&nbsp;17.30 nabożeństwo biblijne. Zachęcamy
-        do&nbsp;czytania Pisma Świętego w&nbsp;rodzinach.</p>
-        <p>7. Serdecznie dziękujemy Panu Józefowi Pająkowi i&nbsp;jego
-        pracownikom za&nbsp;ocieplenie sufitu kościoła, dziękujemy także
-        wszystkim za&nbsp;pomoc i&nbsp;życzliwość. <em>„Bóg zapłać”</em>.</p>
-        <p>8. W&nbsp;przyszłą niedzielę po&nbsp;Mszy&nbsp;św.
-        o&nbsp;godz.&nbsp;9.30 spotkanie ks.&nbsp;proboszcza
-        z&nbsp;parafialnymi liderami i&nbsp;radnymi, odnośnie podjęcia
-        decyzji w&nbsp;kwestii opłatków w&nbsp;parafii. Prosimy
-        o&nbsp;obecność wcześniej wspomnianych.</p>
-        <p>9. Wszystkim, którzy w&nbsp;tym tygodniu obchodzą swoje imieniny,
-        urodziny, jakiekolwiek rocznice składamy najlepsze życzenia
+        <p>12. W&nbsp;tym tygodniu Pierwszy czwartek, piątek i&nbsp;sobota
+        miesiąca. W&nbsp;Pierwszy Piątek Miesiąca spowiedź
+        od&nbsp;godz.&nbsp;17.00.</p>
+        <p>13. W&nbsp;ramach przygotowania młodzieży do&nbsp;godnego
+        przyjęcia Sakramentu Bierzmowania – młodzież z&nbsp;klasy szóstej
+        z&nbsp;naszej parafii ma&nbsp;spotkanie w&nbsp;parafialnym kościele
+        w&nbsp;najbliższy wtorek o&nbsp;godz.&nbsp;17.00, a&nbsp;po&nbsp;nim
+        spowiedź&nbsp;św. W&nbsp;środę klasy siódme o&nbsp;godz.&nbsp;17.00
+        i&nbsp;w&nbsp;czwartek klasy ósme o&nbsp;tej samej godzinie.</p>
+        <p>14. Wszystkim, którzy w&nbsp;tym tygodniu obchodzą swoje imieniny,
+        urodziny, inne rocznice, składamy najlepsze życzenia
         z&nbsp;kapłańskim błogosławieństwem. Wszystkim uczestniczącym
         we&nbsp;Mszy&nbsp;św. życzymy błogosławionej niedzieli.</p>
         <p>
-            <span style="float: left;">Sandomierz, 22.&nbsp;listopada 2020&nbsp;r.</span>
+            <span style="float: left;">Sandomierz, 29.&nbsp;listopada 2020&nbsp;r.</span>
             <span style="float: right; text-align: right;">ks. proboszcz Stanisław Chmielewski</span>
         </p>
     </div>

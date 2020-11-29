@@ -13,7 +13,162 @@ include 'head.php';
             <!-- treść główna -->
             <div class="col">
                 <h2 class="first-content-header">Archiwum wiadomości 2020 rok</h2>
-                <h2>Okres 1.&nbsp;stycznia 2020 - 22.&nbsp;listopada 2020 r.</h2>
+                <h2>Okres 1.&nbsp;stycznia 2020 - 29.&nbsp;listopada 2020 r.</h2>
+<div class="card">
+    <div class="card-header">
+        <h3>INTENCJE MSZALNE<br />
+            23 – 29&nbsp;listopada 2020&nbsp;r.
+        </h3>
+    </div>
+    <div class="col">
+<p class="intentions_date">23&nbsp;listopada, Poniedziałek</p>
+<ul>
+    <li>6.30 dziękczynno-błagalna z&nbsp;racji imienin Cecylii
+    z&nbsp;prośbą o&nbsp;Boże błogosławieństwo, łaskę zdrowia dla
+    solenizantki i&nbsp;jej rodziny</li>
+    <li>6.30 + Wandę Czerwonkę</li>
+    <li>6.30 + Janusza Sołek – greg.&nbsp;21</li>
+    <li>18.00 + Stanisławę, Aleksandra Kowalów</li>
+    <li>18.00 + Janinę Kulę w&nbsp;r.&nbsp;śm. i&nbsp;zm.
+    z&nbsp;rodz. Czujów</li>
+    <li>18.00 + Katarzynę Mączkę w&nbsp;8.&nbsp;r.&nbsp;śm.</li>
+</ul>
+
+<p class="intentions_date">24&nbsp;listopada, Wtorek –
+św.&nbsp;Andrzeja Dung-Lac i&nbsp;Towarzyszy</p>
+<ul>
+    <li>6.30 o&nbsp;wysłuchanie wszystkich int. wspólnoty
+    św.&nbsp;s.&nbsp;Faustyny</li>
+    <li>6.30 + Marka Wrzesińskiego</li>
+    <li>18.00 o&nbsp;Boże błogosławieństwo, dary Ducha Świętego,
+    opiekę Matki Bożej, łaskę pokory, nawrócenia i&nbsp;uzdrowienia
+    w&nbsp;rodzinie</li>
+    <li>18.00 + Marię, Kazimierza Sochów, Marcelinę Bączkowską</li>
+    <li>18.00 + Genowefę, Mieczysława Chałupczaków</li>
+</ul>
+
+<p class="intentions_date">25&nbsp;listopada, Środa</p>
+<ul>
+    <li>6.30 o&nbsp;Boże błogosławieństwo, dary Ducha Świętego,
+    opiekę Matki Bożej, łaskę zdrowia dla Elżbiety i&nbsp;Romana</li>
+    <li>6.30 + Wandę Czerwonkę</li>
+    <li>6.30 + dusze w&nbsp;czyśćcu cierpiące</li>
+    <li>18.00 + Annę Joniec w&nbsp;2.&nbsp;r.&nbsp;śm., Leszka,
+    Mieczysława Koziełów</li>
+    <li>18.00 + Jana Szczębarę, zm.&nbsp;z&nbsp;rodz. Szczębarów,
+    Golców, Królów, Ostrowskich</li>
+</ul>
+
+<p class="intentions_date">26&nbsp;listopada, Czwartek</p>
+<ul>
+    <li>6.30 + Wiesława Abrama w&nbsp;1.&nbsp;r.&nbsp;śm.</li>
+    <li>6.30 + Zdzisława, Teodozję Dudków</li>
+    <li>18.00 + Tomasza Szyprowskiego</li>
+    <li>18.00 + Wandę Czerwonkę</li>
+    <li>18.00 + Marię Gałecką</li>
+</ul>
+
+<p class="intentions_date">27&nbsp;listopada, Piątek</p>
+<ul>
+    <li>6.30 + Zdzisława Bernasia</li>
+    <li>6.30 + Helenę Karasiak</li>
+    <li>18.00 + Danutę Lasek</li>
+    <li>18.00 + Leokadię Krawczyk w&nbsp;12.&nbsp;r.&nbsp;śm.</li>
+    <li>18.00 + Wandę Czerwonkę</li>
+</ul>
+
+<p class="intentions_date">21&nbsp;listopada, Sobota</p>
+<ul>
+    <li>6.30 + Zdzisława, Teodozję Dudków</li>
+    <li>6.30 + Jacka Strugałę</li>
+    <li>6.30 + Janusza Sołek – greg.&nbsp;26</li>
+    <li>18.00 + Emila Kuzę</li>
+    <li>18.00 + Zdzisława Koronę w&nbsp;r.&nbsp;śm.</li>
+    <li>18.00 + Elżbietę Maciejczyk w&nbsp;2.&nbsp;r.&nbsp;śm.</li>
+</ul>
+
+<p class="intentions_date">29&nbsp;listopada, Niedziela –
+    <span style="color: grey">
+        I&nbsp;Niedziela Adswentu
+    </span>
+</p>
+<ul>
+    <li>7.30 + Dorotę Surmę w&nbsp;3.&nbsp;r.&nbsp;śm.</li>
+    <li>7.30 + Janusza Sołek – greg.&nbsp;27</li>
+    <li>9.30 + Lucjana Pietruszkę</li>
+    <li>11.15 + Henryka Wójcika</li>
+    <li>12.30 w&nbsp;intencji parafian</li>
+    <li>12.30 + Zdzisława Olejniczaka</li>
+    <li>18.00 + Irenę, Piotra, Stanisława Studnickich
+    i&nbsp;zm.&nbsp;z&nbsp;rodz.</li>
+    <li>18.00 + Jacka Strugałę</li>
+</ul>
+    </div>
+</div>
+<br/>
+
+<div class="card">
+    <div class="card-header">
+        <h3>22.&nbsp;listopada 2020&nbsp;r.</h3>
+        <h3>XXXIV NIEDZIELA ZWYKŁA, Rok A</h3>
+        <h3>Uroczystość Jezusa Chrystusa Króla Wszechświata</h3>
+    </div>
+    <div class="col">
+        <p>1. Wczoraj parafialny kościół sprzątali parafianie mieszkający
+        przy ulicy Mickiewicza Blok nr&nbsp;49, mieszkania od&nbsp;1
+        do&nbsp;10. Ofiarowali na&nbsp;potrzeby parafii 200&nbsp;zł.
+        <em>Bóg zapłać</em> za&nbsp;wszystko. <strong>W&nbsp;najbliższą
+        sobotę, do&nbsp;sprzątania świątyni parafialnej prosimy
+        parafian</strong> mieszkających przy ul.&nbsp;Mickiewicza,
+        blok&nbsp;49, mieszkania od&nbsp;10 do&nbsp;20.</p>
+        <p>2. Dziś o&nbsp;godz.&nbsp;17.30 Nieszpory. Zapraszamy
+        do&nbsp;udziału w&nbsp;tym nabożeństwie.</p>
+        <p>3. Zapraszamy wszystkie dzieci z&nbsp;naszej parafii, które nie
+        ukończyły 11&nbsp;lat życia, dovuczczenia osoby św. Mikołaja biskupa.
+        <strong><em>Celem tej inicjatywy jest ukazanie prawdy o&nbsp;wielkim
+        świętym Kościoła, który uczy nas czym jest miłość, dobro
+        i&nbsp;miłosierdzie.</em></strong><br />
+        <strong>Forma prezentacji</strong>: film, max 3&nbsp;min. (piosenka,
+        wiersz, krótkie opowiadanie).<br />
+        <strong>Wiek uczestników</strong>: dzieci do&nbsp;11 roku życia
+        włącznie.<br />
+        <strong>Termin nadsyłania prac</strong>: 30&nbsp;listopada
+        2020&nbsp;r.<br />
+        <strong>Adres przesyłania prac</strong>:
+        <a href="mailto:ppksandomierz@onet.pl">ppksandomierz@onet.pl</a>
+        – w&nbsp;tytule widomości prosimy wpisać: <strong><em>#Mikołajki
+        w&nbsp;Podwyższeniu</em></strong>. W&nbsp;treści wiadomości prosimy
+        podać imię, nazwisko i&nbsp;adres celem weryfikacji – wydarzenie
+        dotyczy tylko naszych parafian.<br />
+        Dla wszystkich uczestników mikołajowy prezent.</p>
+        <p>4. Zachęcamy do&nbsp;czytania prasy katolickiej; „Gość
+        Niedzielny”, „Niedziela”, dla młodzieży dwutygodnik „Miłujcie się”.
+        Są&nbsp;do&nbsp;nabycia na&nbsp;stoliku pod chórem
+        w&nbsp;kościele.</p>
+        <p>5. W&nbsp;przyszłą niedzielę rozpoczęcie nowego roku
+        liturgicznego. Zarazem, to&nbsp;Pierwsza Niedziela Adwentu.</p>
+        <p>6. Ten tydzień jest w&nbsp;kościele „Tygodniem Biblijnym”.
+        W&nbsp;sobotę o&nbsp;godz.&nbsp;17.30 nabożeństwo biblijne. Zachęcamy
+        do&nbsp;czytania Pisma Świętego w&nbsp;rodzinach.</p>
+        <p>7. Serdecznie dziękujemy Panu Józefowi Pająkowi i&nbsp;jego
+        pracownikom za&nbsp;ocieplenie sufitu kościoła, dziękujemy także
+        wszystkim za&nbsp;pomoc i&nbsp;życzliwość. <em>„Bóg zapłać”</em>.</p>
+        <p>8. W&nbsp;przyszłą niedzielę po&nbsp;Mszy&nbsp;św.
+        o&nbsp;godz.&nbsp;9.30 spotkanie ks.&nbsp;proboszcza
+        z&nbsp;parafialnymi liderami i&nbsp;radnymi, odnośnie podjęcia
+        decyzji w&nbsp;kwestii opłatków w&nbsp;parafii. Prosimy
+        o&nbsp;obecność wcześniej wspomnianych.</p>
+        <p>9. Wszystkim, którzy w&nbsp;tym tygodniu obchodzą swoje imieniny,
+        urodziny, jakiekolwiek rocznice składamy najlepsze życzenia
+        z&nbsp;kapłańskim błogosławieństwem. Wszystkim uczestniczącym
+        we&nbsp;Mszy&nbsp;św. życzymy błogosławionej niedzieli.</p>
+        <p>
+            <span style="float: left;">Sandomierz, 22.&nbsp;listopada 2020&nbsp;r.</span>
+            <span style="float: right; text-align: right;">ks. proboszcz Stanisław Chmielewski</span>
+        </p>
+    </div>
+</div>
+<br />
 
 <div class="card">
     <div class="card-header">
