@@ -1,142 +1,68 @@
 <div class="card">
     <div class="card-header">
-        <h3>29.&nbsp;listopada 2020&nbsp;r.</h3>
-        <h3>I NIEDZIELA ADWENTU, Rok B</h3>
+        <h3>6.&nbsp;grudnia 2020&nbsp;r.</h3>
+        <h3>II NIEDZIELA ADWENTU, Rok B</h3>
     </div>
     <div class="col">
-        <p>1. <em>Bóg zapłać</em> parafiankom - Paniom: Zofii Malec
-        i&nbsp;Zofii Rządkowskiej, które sprzątały kościół w&nbsp;minioną
-        sobotę, złożyły ofiarę stu złotych na&nbsp;potrzeby parafii.
-        <strong>W&nbsp;najbliższą sobotę, do&nbsp;sprzątania świątyni
+        <p>1. <em>Bóg zapłać</em> mieszkańcom bloku 49
+        z&nbsp;ul.&nbsp;Mickiewicza klatka nr 3.&nbsp;za ofiarę 230&nbsp;zł
+        na&nbsp;potrzeby parafii. Wyrażamy wdzięczność wobec parafian, którzy
+        sprzątali nasz kościół w&nbsp;minioną sobotę, byli to: Maria
+        Kicińska, rodzina Biało oraz Jerzy i&nbsp;Bartłomiej Łatka.
+        <strong>W&nbsp;najbliższą sobotę do&nbsp;sprzątania świątyni
         parafialnej prosimy parafian</strong> mieszkających przy
-        ul.&nbsp;Mickiewicza, blok&nbsp;49, mieszkania od&nbsp;21
-        do&nbsp;30.</p>
-        <p>2. Słowa wdzięczności kierujemy do&nbsp;Pań: Doroty Sarzyńskiej
-        i&nbsp;Jolanty Maciejewskiej, za&nbsp;wykonanie adwentowej dekoracji
-        w&nbsp;kościele. Niech Pan Bóg błogosławi im i&nbsp;ich
-        najbliższym.</p>
-        <p>3. W&nbsp;przyszłą niedzielę na&nbsp;Mszy&nbsp;św.
-        o&nbsp;godz.&nbsp;11.15 przekażemy upominki od&nbsp;św.&nbsp;Mikołaja
-        dla dzieci, które przesłały małą prezentacje o&nbsp;św.&nbsp;Mikołaju
-        Biskupie, na&nbsp;adres naszej parafii.</p>
-        <p>4. Dziś o&nbsp;godz.&nbsp;17.30 Nieszpory. Zapraszamy
-        do&nbsp;udziału w&nbsp;tym nabożeństwie.</p>
-        <p>5. Od&nbsp;dzisiejszej niedzieli przeżywamy Nowennę przed
-        Uroczystością Niepokalanego Poczęcia Najświętszej Maryi Panny.
-        Na&nbsp;profilu Diecezji Sandomierskiej oraz kanale YouTube, każdego
-        dnia o&nbsp;godz.&nbsp;19.00 będzie transmisja Nowenny
-        z&nbsp;Sandomierza, z&nbsp;kaplicy Sióstr Służek Najświętszej Maryi
-        Panny Niepokalanej. W&nbsp;tym czasie będziemy modlić się
-        o&nbsp;zdrowie dla naszego Biskupa Krzysztofa Nitkiewicza, wszystkich
-        chorych, a&nbsp;także o&nbsp;potrzebne siły dla służby zdrowia.
-        Wszystkich gorąco zachęcamy o&nbsp;włączenie się do&nbsp;modlitwy
-        w&nbsp;tej szczególnej intencji. W&nbsp;najbliższy czwartek
-        o&nbsp;godz.&nbsp;18.00 w&nbsp;naszym parafialnym kościele, będziemy
-        sprawować Eucharystię we&nbsp;wspomnianej intencji.</p>
-        <p>6. Dla ludzi wierzących Adwent jest czasem szczególnym. Jest
-        czasem oczekiwania z&nbsp;wiarą na&nbsp;powtórne przyjście Zbawiciela
-        na&nbsp;ziemię, a&nbsp;jednocześnie przygotowania się
-        do&nbsp;obchodów Uroczystości Bożego Narodzenia. Zachęcamy parafian
-        do&nbsp;uczestnictwa w&nbsp;Mszach&nbsp;św. Roratnich
-        i&nbsp;do&nbsp;spotkania z&nbsp;przebaczającym Jezusem
-        w&nbsp;Sakramencie Pokuty. Msza&nbsp;św. Roratnia w&nbsp;naszym
-        kościele, w&nbsp;dni powszednie, w&nbsp;okresie Adwentu
-        o&nbsp;godz.&nbsp;6.30.</p>
-        <p><strong>Roraty</strong> – pierwsza Msza&nbsp;św. o&nbsp;wschodzie
-        słońca w&nbsp;okresie adwentu. Jest to&nbsp;msza wotywna 
-        o&nbsp;Najświętszej Maryi Pannie. Nazwa tej Mszy&nbsp;św. pochodzi
-        od&nbsp;jej introitu, który zaczyna się od&nbsp;słów <em>„rorate cæli
-        desuper”</em> („spuśćcie rosę niebiosa”). Charakterystycznym
-        elementem rorat jest zapalanie świecy, zwanej roratką (świecą
-        roratną). Świeca ta&nbsp;umieszczana jest w&nbsp;pobliżu ołtarza
-        jedynie w&nbsp;adwencie. Symbolizuje Najświętszą Maryję Pannę.
-        W&nbsp;wielu parafiach dzieci przychodziły na&nbsp;Msze&nbsp;św.
-        roratne z&nbsp;zaświeconymi lampionami. Dawniej Msza&nbsp;św.
-        odprawiana była codziennie, również poza okresem adwentu.</p>
-        <p>7. Od&nbsp;przyszłej niedzieli, będzie można nabyć świece
-        wigilijną „Caritas”, podobnie jak w&nbsp;poprzednich latach. Odnośnie
-        wigilijnych opłatków, informacja o&nbsp;ich sposobie rozprowadzenia
-        w&nbsp;parafii, zostanie podana w&nbsp;przyszłą niedzielę.</p>
-        <p>8. II&nbsp;niedziela Adwentu będzie dniem modlitwy i&nbsp;pomocy
-        materialnej Kościołowi na&nbsp;Wschodzie – po&nbsp;Mszach&nbsp;św.
-        zbiórka do&nbsp;puszek na&nbsp;wsparcie Kościoła
-        na&nbsp;Wschodzie.</p>
-        <p>9. Uroczystość Niepokalanego Poczęcia w&nbsp;Kościele Powszechnym
-        obchodzimy 8&nbsp;grudnia, tj.&nbsp;w&nbsp;przyszły wtorek.
-        W&nbsp;tym dniu na&nbsp;Mszy&nbsp;św. o&nbsp;godz.&nbsp;18.00 zostaną
-        poświęcone medaliki dla dzieci przygotowujące się do&nbsp;Pierwszej
-        Komunii&nbsp;Św. A&nbsp;po Mszy&nbsp;św. spotkanie z&nbsp;rodzicami
-        pierwszokomunijnych dzieci. Prosimy rodziców tych dzieci
-        o&nbsp;zakupienie medalików dla swoich pociech.</p>
-        <p>10. W&nbsp;przyszłą niedzielę w&nbsp;kościele, pół godziny przed
-        Mszą&nbsp;św. o&nbsp;godz.&nbsp;11.15 – adoracja Najśw. Sakramentu
-        połączona z&nbsp;modlitwą różańcową, którą poprowadzi Koło Żywego
-        Różańca z&nbsp;naszej parafii i&nbsp;zmiana tajemnic różańcowych.
-        Zapraszamy do&nbsp;tej wspólnotowej modlitwy.</p>
-        <p>11. Zachęcamy do&nbsp;czytania prasy katolickiej; „Gość
-        Niedzielny”, „Niedziela”, dla młodzieży dwutygodnik „Miłujcie się”.
-        Są&nbsp;do&nbsp;nabycia na&nbsp;stoliku pod chórem
-        w&nbsp;kościele.</p>
-        <p>12. W&nbsp;tym tygodniu Pierwszy czwartek, piątek i&nbsp;sobota
-        miesiąca. W&nbsp;Pierwszy Piątek Miesiąca spowiedź
-        od&nbsp;godz.&nbsp;17.00.</p>
-        <p>13. W&nbsp;ramach przygotowania młodzieży do&nbsp;godnego
-        przyjęcia Sakramentu Bierzmowania – młodzież z&nbsp;klasy szóstej
-        z&nbsp;naszej parafii ma&nbsp;spotkanie w&nbsp;parafialnym kościele
-        w&nbsp;najbliższy wtorek o&nbsp;godz.&nbsp;17.00, a&nbsp;po&nbsp;nim
-        spowiedź&nbsp;św. W&nbsp;środę klasy siódme o&nbsp;godz.&nbsp;17.00
-        i&nbsp;w&nbsp;czwartek klasy ósme o&nbsp;tej samej godzinie.</p>
-        <p>14. Wszystkim, którzy w&nbsp;tym tygodniu obchodzą swoje imieniny,
+        ul.&nbsp;Mickiewicza, blok 49, mieszkania od&nbsp;31 do&nbsp;40.</p>
+        <p>2. II&nbsp;niedziela Adwentu jest dniem modlitwy i&nbsp;pomocy
+        materialnej Kościołowi na&nbsp;Wschodzie – dziś po&nbsp;Mszach św.
+        zbiórka do&nbsp;puszek na&nbsp;wsparcie Kościoła na&nbsp;Wschodzie.
+        <em>Bóg zapłać</em> ofiarodawcom.</p>
+        <p>3. 8&nbsp;grudnia, tj.&nbsp;w&nbsp;najbliższy wtorek, obchodzimy
+        w&nbsp;Kościele Powszechnym Uroczystość Niepokalanego Poczęcia NMP.
+        W&nbsp;tym dniu Msze&nbsp;św. o&nbsp;godz.&nbsp;6.30 – Roraty,
+        o&nbsp;9.00 i&nbsp;o&nbsp;18.00. W&nbsp;czasie Mszy&nbsp;św.
+        o&nbsp;godz.&nbsp;18.00 zostaną poświęcone medaliki dla dzieci
+        przygotowujące się do&nbsp;Pierwszej Komunii Św.
+        Po&nbsp;Mszy&nbsp;św. spotkanie z&nbsp;rodzicami pierwszokomunijnych
+        dzieci. Prosimy rodziców tych dzieci o&nbsp;zakupienie medalików dla
+        swoich pociech. W&nbsp;tym dniu od&nbsp;godz.&nbsp;12.00
+        do&nbsp;13.00 - Godzina św. Zachęcamy do&nbsp;wspólnej modlitwy
+        w&nbsp;parafialnym kościele przy wystawionym Najświętszym
+        Sakramencie.</p>
+        <p>4. Dziękujemy naszemu parafianinowi Panu Andrzejowi Anwajlerowi
+        za&nbsp;wymianę i&nbsp;instalację nowych okien w&nbsp;zakrystii oraz
+        położenie wraz z&nbsp;Panem Tadeuszem Woźniakiem wełny mineralnej
+        dla ocieplenia stropu tego pomieszczenia i&nbsp;inne prace
+        na&nbsp;rzecz naszej parafii. <em>Bóg zapłać</em>.</p>
+        <p>5. Zachęcamy do&nbsp;czytania prasy katolickiej: „Niedziela”,
+        „Gość Niedzielny”, dla dzieci „Mały Gość Niedzielny”.
+        Są&nbsp;do&nbsp;nabycia na&nbsp;stoliku pod chórem w&nbsp;kościele.</p>
+        <p>6. Można nabyć świece wigilijne „Caritas”. Odnośnie wigilijnych
+        opłatków, w&nbsp;części parafii rozniosą je&nbsp;parafialni liderzy,
+        jak to&nbsp;było w&nbsp;poprzednich latach, pozostali parafianie,
+        do&nbsp;których domów wspomniani liderzy nie dotrą z&nbsp;poświęconym
+        opłatkiem, mogą nabyć go&nbsp;w&nbsp;kościele lub
+        w&nbsp;zakrystii.</p>
+        <p>7. Uwzględniając obecną sytuacje epidemiczną i&nbsp;związaną
+        z&nbsp;tym niemożność zorganizowania tzw.&nbsp;parafialnej spowiedzi
+        przed Uroczystością Narodzenia Pańskiego w&nbsp;jednym dniu,
+        od&nbsp;najbliższego poniedziałku do&nbsp;środy,
+        tj.&nbsp;23&nbsp;grudnia br., od&nbsp;godz.&nbsp;17.00 przed
+        Mszą&nbsp;św. wieczorną, w&nbsp;konfesjonale będzie dyżurował kapłan.
+        Przypominamy o&nbsp;konieczności skorzystania z&nbsp;sakramentu
+        Pokuty, abyśmy godnie jako chrześcijanie w&nbsp;głębokiej jedności
+        z&nbsp;Panem Bogiem przeżyli Uroczystość Narodzenia Pana Jezusa.</p>
+        <p>8. Dziękujemy rodzicom młodzieży z&nbsp;klas szóstych, siódmych
+        i&nbsp;ósmych oraz samej młodzieży, za&nbsp;przystąpienie
+        do&nbsp;Sakramentu Pokuty, we&nbsp;wtorek, środę i&nbsp;czwartek.
+        Przypominamy zarazem wszystkim, że&nbsp;warunkiem ważności Pierwszego
+        Piątku jest przyjęcie Komunii św. w&nbsp;tym dniu.</p>
+        <p>9. Wszystkim, którzy w&nbsp;tym tygodniu obchodzą swoje imieniny,
         urodziny, inne rocznice, składamy najlepsze życzenia
         z&nbsp;kapłańskim błogosławieństwem. Wszystkim uczestniczącym
         we&nbsp;Mszy&nbsp;św. życzymy błogosławionej niedzieli.</p>
         <p>
-            <span style="float: left;">Sandomierz, 29.&nbsp;listopada 2020&nbsp;r.</span>
+            <span style="float: left;">Sandomierz, 6.&nbsp;grudnia 2020&nbsp;r.</span>
             <span style="float: right; text-align: right;">ks. proboszcz Stanisław Chmielewski</span>
-        </p>
-    </div>
-</div>
-<br />
-
-
-<div class="card">
-    <div class="card-header">
-        <h3>Św.&nbsp;Mikołaj w&nbsp;Podwyższeniu</h3>
-    </div>
-    <div class="col">
-        <p>
-            <img src="static/download/Swiety_Mikolaj_z_Miry.webp" alt="Święty Mikołaj z Miry"/>
-        </p>
-        <p>
-            Zapraszamy wszystkie dzieci z&nbsp;naszej parafii, które nie
-            ukończyły 11&nbsp;lat życia, do&nbsp;uczczenia osoby
-            św.&nbsp;Mikołaja biskupa. <strong>Celem tej inicjatywy jest ukazanie prawdy
-            o&nbsp;wielkim świętym Kościoła, który uczy nas czym jest miłość,
-            dobro i&nbsp;miłosierdzie.</strong>
-        </p>
-        <p>
-            <strong>Forma prezentacji</strong>: film, max 3&nbsp;min. (piosenka, wiersz,
-            krótkie opowiadanie).
-        </p>
-        <p>
-            <strong>Wiek uczestników</strong>: dzieci do&nbsp;11&nbsp;roku życia włącznie.
-        </p>
-        <p>
-            <strong>Termin nadsyłania prac</strong>: 30&nbsp;listopada 2020&nbsp;r.
-        </p>
-        <p>
-            <strong>Adres przesyłania prac</strong>: <a href="mailto:ppksandomierz@onet.pl">
-            ppksandomierz@onet.pl</a> – w&nbsp;tytule widomości prosimy wpisać:
-        </p>
-        <p>
-            <strong># Mikołajki w&nbsp;Podwyższeniu</strong>.
-        </p>
-        <p>
-            W&nbsp;treści wiadomości prosimy podać imię, nazwisko i&nbsp;adres
-            celem weryfikacji – wydarzenie dotyczy tylko naszych parafian.
-        </p>
-        <p>
-            Dla wszystkich uczestników mikołajkowy prezent.
         </p>
     </div>
 </div>

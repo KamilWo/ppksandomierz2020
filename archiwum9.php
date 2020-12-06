@@ -13,7 +13,208 @@ include 'head.php';
             <!-- treść główna -->
             <div class="col">
                 <h2 class="first-content-header">Archiwum wiadomości 2020 rok</h2>
-                <h2>Okres 1.&nbsp;stycznia 2020 - 29.&nbsp;listopada 2020 r.</h2>
+                <h2>Okres 1.&nbsp;stycznia 2020 - 6.&nbsp;grudnia 2020 r.</h2>
+<div class="card">
+    <div class="card-header">
+        <h3>INTENCJE MSZALNE<br />
+            30.11 – 6.12&nbsp;2020&nbsp;r.
+        </h3>
+    </div>
+    <div class="col">
+<p class="intentions_date">30&nbsp;listopada, Poniedziałek –
+św.&nbsp;Andrzeja</p>
+<ul>
+    <li>6.30 + Andrzeja Spadło</li>
+    <li>6.30 + Klarę Stefańską</li>
+    <li>6.30 + Janusza Sołek – greg.&nbsp;28</li>
+    <li>18.00 + Jana w&nbsp;r.&nbsp;śm.</li>
+    <li>18.00 + Helenę Kwiecień</li>
+    <li>18.00 + Jana Szczębarę – greg.&nbsp;1</li>
+</ul>
+
+<p class="intentions_date">01&nbsp;grudnia, Wtorek</p>
+<ul>
+    <li>6.30 dziękczynno-błagalna o&nbsp;Boże błogosławieństwo
+    i&nbsp;prowadzenie za&nbsp;Kamila z&nbsp;rodz. i&nbsp;Ryszarda
+    z&nbsp;rodz.</li>
+    <li>6.30 + Klarę Stefańską</li>
+    <li>6.30 + Janusza Sołek – greg.&nbsp;29</li>
+    <li>18.00 + Stanisławę w&nbsp;r.&nbsp;śm.</li>
+    <li>18.00 + Bronisławę w&nbsp;3&nbsp;r.&nbsp;śm., Józefa
+    Zbylut</li>
+    <li>18.00 + Jana Szczębarę – greg.&nbsp;2</li>
+</ul>
+
+<p class="intentions_date">02&nbsp;grudnia, Środa</p>
+<ul>
+    <li>6.30 dziękczynno-błagalna z&nbsp;racji ślubu Sylwii
+    i&nbsp;Bogusława o&nbsp;Boże błogosławieństwo i&nbsp;opiekę Matki
+    Bożej dla całej rodziny</li>
+    <li>6.30 o&nbsp;Boże błogosławieństwo i&nbsp;opiekę Matki Bożej
+    dla rodziny Bażantów, o&nbsp;łaskę zdrowia dla Anetki, wszelką
+    pomyślność dla Agnieszki</li>
+    <li>6.30 + Janusza Sołek – greg.&nbsp;30</li>
+    <li>18.00 dziękczynno-błagalna w&nbsp;int. Ireny w&nbsp;dniu
+    urodzin</li>
+    <li>18.00 + Zofię Strawczyńską</li>
+    <li>18.00 + Jana Szczębarę – greg.&nbsp;3</li>
+</ul>
+
+<p class="intentions_date">03&nbsp;grudnia, Czwartek –
+św.&nbsp;Franciszka Ksawerego</p>
+<ul>
+    <li>6.30 o&nbsp;nowe, liczne i&nbsp;święte powołania
+    kapłańskie</li>
+    <li>6.30 + Klarę Stefańską</li>
+    <li>6.30 + Zofię Strawczyńską</li>
+    <li>6.30 + Jana Szczębarę – greg.&nbsp;4</li>
+    <li>18.00 w&nbsp;int.&nbsp;chorego Ks.&nbsp;Biskupa Krzysztofa
+    Nitkiewicza</li>
+    <li>18.00 + Bronisława Augustyńskiego w&nbsp;r.&nbsp;śm.</li>
+    <li>18.00 + Stanisławę Jarecką</li>
+</ul>
+
+<p class="intentions_date">04&nbsp;grudnia, Piątek</p>
+<ul>
+    <li>6.30 + Wandę Czerwonkę</li>
+    <li>6.30 + Helenę Karasiak</li>
+    <li>6.30 + Stanisławę Jarecką</li>
+    <li>18.00 + Antoniego Gospodarczyka w&nbsp;r.&nbsp;śm.</li>
+    <li>18.00 + Zofię Strawczyńską</li>
+    <li>18.00 + Jana Szczębarę – greg.&nbsp;5</li>
+</ul>
+
+<p class="intentions_date">05&nbsp;grudnia, Sobota</p>
+<ul>
+    <li>6.30 + Emila Kuzę</li>
+    <li>6.30 + Wandę Czerwonkę</li>
+    <li>6.30 + Jana Skubidę</li>
+    <li>18.00 int. wynagradzająca za&nbsp;grzechy i&nbsp;bluźnierstwa
+    od&nbsp;Legionu Maryi</li>
+    <li>18.00 + Barbarę Konopkę, Mariannę, Wincentego Piotra Michtów,
+    Annę Skubidę</li>
+    <li>18.00 + Jana Szczębarę – greg.&nbsp;6</li>
+</ul>
+
+<p class="intentions_date">06&nbsp;grudnia, Niedziela –
+    <span style="color: grey">
+        II&nbsp;NIEDZIELA ADWENTU
+    </span>
+</p>
+<ul>
+    <li>7.30 + Mariannę, Czajkę, zm.&nbsp;z&nbsp;rodz. Czajków
+    i&nbsp;Gachów</li>
+    <li>7.30 + Jana Szczębarę – greg.&nbsp;7</li>
+    <li>9.30 + Józefa, Reginę Buczków, Łucję, Wojciecha Dionizego
+    Książków, Zofię Wróblewską</li>
+    <li>11.15 + Mariannę Pliżgę</li>
+    <li>12.30 w&nbsp;intencji parafian</li>
+    <li>18.00 + Reginę, Edwarda Stępniów</li>
+</ul>
+    </div>
+</div>
+<br/>
+
+<div class="card">
+    <div class="card-header">
+        <h3>29.&nbsp;listopada 2020&nbsp;r.</h3>
+        <h3>I NIEDZIELA ADWENTU, Rok B</h3>
+    </div>
+    <div class="col">
+        <p>1. <em>Bóg zapłać</em> parafiankom - Paniom: Zofii Malec
+        i&nbsp;Zofii Rządkowskiej, które sprzątały kościół w&nbsp;minioną
+        sobotę, złożyły ofiarę stu złotych na&nbsp;potrzeby parafii.
+        <strong>W&nbsp;najbliższą sobotę, do&nbsp;sprzątania świątyni
+        parafialnej prosimy parafian</strong> mieszkających przy
+        ul.&nbsp;Mickiewicza, blok&nbsp;49, mieszkania od&nbsp;21
+        do&nbsp;30.</p>
+        <p>2. Słowa wdzięczności kierujemy do&nbsp;Pań: Doroty Sarzyńskiej
+        i&nbsp;Jolanty Maciejewskiej, za&nbsp;wykonanie adwentowej dekoracji
+        w&nbsp;kościele. Niech Pan Bóg błogosławi im i&nbsp;ich
+        najbliższym.</p>
+        <p>3. W&nbsp;przyszłą niedzielę na&nbsp;Mszy&nbsp;św.
+        o&nbsp;godz.&nbsp;11.15 przekażemy upominki od&nbsp;św.&nbsp;Mikołaja
+        dla dzieci, które przesłały małą prezentacje o&nbsp;św.&nbsp;Mikołaju
+        Biskupie, na&nbsp;adres naszej parafii.</p>
+        <p>4. Dziś o&nbsp;godz.&nbsp;17.30 Nieszpory. Zapraszamy
+        do&nbsp;udziału w&nbsp;tym nabożeństwie.</p>
+        <p>5. Od&nbsp;dzisiejszej niedzieli przeżywamy Nowennę przed
+        Uroczystością Niepokalanego Poczęcia Najświętszej Maryi Panny.
+        Na&nbsp;profilu Diecezji Sandomierskiej oraz kanale YouTube, każdego
+        dnia o&nbsp;godz.&nbsp;19.00 będzie transmisja Nowenny
+        z&nbsp;Sandomierza, z&nbsp;kaplicy Sióstr Służek Najświętszej Maryi
+        Panny Niepokalanej. W&nbsp;tym czasie będziemy modlić się
+        o&nbsp;zdrowie dla naszego Biskupa Krzysztofa Nitkiewicza, wszystkich
+        chorych, a&nbsp;także o&nbsp;potrzebne siły dla służby zdrowia.
+        Wszystkich gorąco zachęcamy o&nbsp;włączenie się do&nbsp;modlitwy
+        w&nbsp;tej szczególnej intencji. W&nbsp;najbliższy czwartek
+        o&nbsp;godz.&nbsp;18.00 w&nbsp;naszym parafialnym kościele, będziemy
+        sprawować Eucharystię we&nbsp;wspomnianej intencji.</p>
+        <p>6. Dla ludzi wierzących Adwent jest czasem szczególnym. Jest
+        czasem oczekiwania z&nbsp;wiarą na&nbsp;powtórne przyjście Zbawiciela
+        na&nbsp;ziemię, a&nbsp;jednocześnie przygotowania się
+        do&nbsp;obchodów Uroczystości Bożego Narodzenia. Zachęcamy parafian
+        do&nbsp;uczestnictwa w&nbsp;Mszach&nbsp;św. Roratnich
+        i&nbsp;do&nbsp;spotkania z&nbsp;przebaczającym Jezusem
+        w&nbsp;Sakramencie Pokuty. Msza&nbsp;św. Roratnia w&nbsp;naszym
+        kościele, w&nbsp;dni powszednie, w&nbsp;okresie Adwentu
+        o&nbsp;godz.&nbsp;6.30.</p>
+        <p><strong>Roraty</strong> – pierwsza Msza&nbsp;św. o&nbsp;wschodzie
+        słońca w&nbsp;okresie adwentu. Jest to&nbsp;msza wotywna 
+        o&nbsp;Najświętszej Maryi Pannie. Nazwa tej Mszy&nbsp;św. pochodzi
+        od&nbsp;jej introitu, który zaczyna się od&nbsp;słów <em>„rorate cæli
+        desuper”</em> („spuśćcie rosę niebiosa”). Charakterystycznym
+        elementem rorat jest zapalanie świecy, zwanej roratką (świecą
+        roratną). Świeca ta&nbsp;umieszczana jest w&nbsp;pobliżu ołtarza
+        jedynie w&nbsp;adwencie. Symbolizuje Najświętszą Maryję Pannę.
+        W&nbsp;wielu parafiach dzieci przychodziły na&nbsp;Msze&nbsp;św.
+        roratne z&nbsp;zaświeconymi lampionami. Dawniej Msza&nbsp;św.
+        odprawiana była codziennie, również poza okresem adwentu.</p>
+        <p>7. Od&nbsp;przyszłej niedzieli, będzie można nabyć świece
+        wigilijną „Caritas”, podobnie jak w&nbsp;poprzednich latach. Odnośnie
+        wigilijnych opłatków, informacja o&nbsp;ich sposobie rozprowadzenia
+        w&nbsp;parafii, zostanie podana w&nbsp;przyszłą niedzielę.</p>
+        <p>8. II&nbsp;niedziela Adwentu będzie dniem modlitwy i&nbsp;pomocy
+        materialnej Kościołowi na&nbsp;Wschodzie – po&nbsp;Mszach&nbsp;św.
+        zbiórka do&nbsp;puszek na&nbsp;wsparcie Kościoła
+        na&nbsp;Wschodzie.</p>
+        <p>9. Uroczystość Niepokalanego Poczęcia w&nbsp;Kościele Powszechnym
+        obchodzimy 8&nbsp;grudnia, tj.&nbsp;w&nbsp;przyszły wtorek.
+        W&nbsp;tym dniu na&nbsp;Mszy&nbsp;św. o&nbsp;godz.&nbsp;18.00 zostaną
+        poświęcone medaliki dla dzieci przygotowujące się do&nbsp;Pierwszej
+        Komunii&nbsp;Św. A&nbsp;po Mszy&nbsp;św. spotkanie z&nbsp;rodzicami
+        pierwszokomunijnych dzieci. Prosimy rodziców tych dzieci
+        o&nbsp;zakupienie medalików dla swoich pociech.</p>
+        <p>10. W&nbsp;przyszłą niedzielę w&nbsp;kościele, pół godziny przed
+        Mszą&nbsp;św. o&nbsp;godz.&nbsp;11.15 – adoracja Najśw. Sakramentu
+        połączona z&nbsp;modlitwą różańcową, którą poprowadzi Koło Żywego
+        Różańca z&nbsp;naszej parafii i&nbsp;zmiana tajemnic różańcowych.
+        Zapraszamy do&nbsp;tej wspólnotowej modlitwy.</p>
+        <p>11. Zachęcamy do&nbsp;czytania prasy katolickiej; „Gość
+        Niedzielny”, „Niedziela”, dla młodzieży dwutygodnik „Miłujcie się”.
+        Są&nbsp;do&nbsp;nabycia na&nbsp;stoliku pod chórem
+        w&nbsp;kościele.</p>
+        <p>12. W&nbsp;tym tygodniu Pierwszy czwartek, piątek i&nbsp;sobota
+        miesiąca. W&nbsp;Pierwszy Piątek Miesiąca spowiedź
+        od&nbsp;godz.&nbsp;17.00.</p>
+        <p>13. W&nbsp;ramach przygotowania młodzieży do&nbsp;godnego
+        przyjęcia Sakramentu Bierzmowania – młodzież z&nbsp;klasy szóstej
+        z&nbsp;naszej parafii ma&nbsp;spotkanie w&nbsp;parafialnym kościele
+        w&nbsp;najbliższy wtorek o&nbsp;godz.&nbsp;17.00, a&nbsp;po&nbsp;nim
+        spowiedź&nbsp;św. W&nbsp;środę klasy siódme o&nbsp;godz.&nbsp;17.00
+        i&nbsp;w&nbsp;czwartek klasy ósme o&nbsp;tej samej godzinie.</p>
+        <p>14. Wszystkim, którzy w&nbsp;tym tygodniu obchodzą swoje imieniny,
+        urodziny, inne rocznice, składamy najlepsze życzenia
+        z&nbsp;kapłańskim błogosławieństwem. Wszystkim uczestniczącym
+        we&nbsp;Mszy&nbsp;św. życzymy błogosławionej niedzieli.</p>
+        <p>
+            <span style="float: left;">Sandomierz, 29.&nbsp;listopada 2020&nbsp;r.</span>
+            <span style="float: right; text-align: right;">ks. proboszcz Stanisław Chmielewski</span>
+        </p>
+    </div>
+</div>
+<br />
+
 <div class="card">
     <div class="card-header">
         <h3>INTENCJE MSZALNE<br />
