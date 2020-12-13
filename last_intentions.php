@@ -1,99 +1,95 @@
 <div class="card">
     <div class="card-header">
         <h3>INTENCJE MSZALNE<br />
-            7 – 13&nbsp;grudnia 2020&nbsp;r.
+            14 – 20&nbsp;grudnia 2020&nbsp;r.
         </h3>
     </div>
     <div class="col">
-<p class="intentions_date">07&nbsp;grudnia, Poniedziałek –
-św.&nbsp;Ambrożego</p>
+<p class="intentions_date">14&nbsp;grudnia, Poniedziałek –
+św. Jana od Krzyża</p>
 <ul>
-    <li>6.30 + Wandę Czerwonkę</li>
-    <li>6.30 + Klarę Stefańską</li>
+    <li>6.30 + Zofię, Stanisława Frańczaków</li>
+    <li>6.30 + Stanisławę Jarecką</li>
+    <li>6.30 + Ryszarda Sadoka</li>
+    <li>18.00 + Klarę Stefańską</li>
+    <li>18.00 + Juliana Bednarskiego – greg.&nbsp;5</li>
+    <li>18.00 + Jana Szczębarę – greg.&nbsp;15</li>
+</ul>
+
+<p class="intentions_date">15&nbsp;grudnia, Wtorek</p>
+<ul>
+    <li>6.30 + Marię Misztal w&nbsp;r.&nbsp;śm.</li>
+    <li>6.30 + Stanisławę Jarecką</li>
+    <li>6.30 + Juliana Bednarskiego – greg.&nbsp;6</li>
+    <li>18.00 + Stanisława Kondrata w&nbsp;30.&nbsp;dzień
+    po&nbsp;śm.</li>
+    <li>18.00 + Jana Szczębarę – greg.&nbsp;16</li>
+    <li>18.00 + Helenę Karasiak</li>
+</ul>
+
+<p class="intentions_date">16&nbsp;grudnia, Środa</p>
+<ul>
+    <li>6.30 + Emila Kuzę</li>
+    <li>6.30 + Henryka, Wiesława, Zofię</li>
+    <li>6.30 + Juliana Bednarskiego – greg.&nbsp;7</li>
+    <li>18.00 + Jana Szczębarę – greg.&nbsp;17</li>
+    <li>18.00 + Jana Mazura</li>
+    <li>18.00 + Reginę Zarębę w&nbsp;2.&nbsp;r.&nbsp;śm.</li>
+</ul>
+
+<p class="intentions_date">17&nbsp;grudnia, Czwartek</p>
+<ul>
+    <li>6.30 o&nbsp;Boże błogosławieństwo, łaski potrzebne
+    do&nbsp;zbawienia i&nbsp;opiekę Matki Bożej dla Agnieszki, Anny,
+    Aleksandry</li>
+    <li>6.30 + Jana, Eugeniusza, Tomasza, Władysława</li>
+    <li>6.30 + Juliana Bednarskiego – greg.&nbsp;8</li>
+    <li>18.00 + Annę Marię Mazacz z&nbsp;d.&nbsp;Wódz; Jana, Helenę
+    Wódz; Józefa, Helenę Boduła</li>
+    <li>18.00 + Stanisława Ćmiela i&nbsp;zm. z&nbsp;rodz.</li>
+    <li>18.00 + Jana Szczębarę – greg.&nbsp;18</li>
+</ul>
+
+<p class="intentions_date">18&nbsp;grudnia, Piątek</p>
+<ul>
+    <li>6.30 + Helenę i&nbsp;zm. z&nbsp;rodz. oraz dusze
+    w&nbsp;czyśćcu cierpiące</li>
+    <li>6.30 + za&nbsp;dusze w&nbsp;czyśćcu cierpiące oraz
+    w&nbsp;int. siostry Doroty o&nbsp;łaskę przebaczenia</li>
+    <li>6.30 + Henrykę Kurzępę</li>
+    <li>18.00 Int. dziękczynno-błagalna za&nbsp;dar 93. lat życia
+    Genowefy z&nbsp;prośbą o&nbsp;dalsze Boże błogosławieństwo
+    w&nbsp;dźwiganiu krzyża i&nbsp;opiekę Matki Bożej</li>
+    <li>18.00 + Juliana Bednarskiego – greg.&nbsp;9</li>
+    <li>18.00 + Jana Szczębarę – greg.&nbsp;19</li>
+</ul>
+
+<p class="intentions_date">19&nbsp;grudnia, Sobota</p>
+<ul>
+    <li>6.30 + Wacława Łukaszka</li>
     <li>6.30 + Zofię Strawczyńską</li>
-    <li>18.00 + Stanisławę Jarecką</li>
-    <li>18.00 + Mariana w&nbsp;r.&nbsp;śm.</li>
-    <li>18.00 + Jana Szczębarę – greg.&nbsp;8</li>
+    <li>6.30 + Juliana Bednarskiego – greg.&nbsp;10</li>
+    <li>18.00 Int. dziękczynno – wynagradzająca</li>
+    <li>18.00 + Mariana Mroczkowskiego</li>
+    <li>18.00 + Jana Szczębarę – greg.&nbsp;20</li>
 </ul>
 
-<p class="intentions_date">08&nbsp;grudnia, Wtorek -
-Uroczystość Niepokalanego Poczęcia NMP</p>
-<ul>
-    <li>6.30 + Teresę, Adolfię, Jana Gieleraków; Jolantę, Pawła
-    Czernikiewiczów</li>
-    <li>6.30 + Stanisławę Jarecką</li>
-    <li>9.00 + Mariannę, Kazimierza Kołodziejów, Zofię, Wincentego
-    i&nbsp;zm. z&nbsp;rodz. Bryłów</li>
-    <li>18.00 int. wynagradzająca za&nbsp;grzechy aborcji
-    i&nbsp;eutanazji</li>
-    <li>18.00 + Marię, Oskara Rożków, i&nbsp;zm. z&nbsp;rodz.
-    Rożków</li>
-    <li>18.00 + Jana Szczębarę – greg.&nbsp;9</li>
-</ul>
-
-<p class="intentions_date">09&nbsp;grudnia, Środa</p>
-<ul>
-    <li>6.30 dziękczynno-błagalna o&nbsp;Boże błogosławieństwo,
-    opiekę Matki Bożej, łaskę zdrowia dla matki i&nbsp;syna</li>
-    <li>6.30 + Mariana Mroczkowskiego</li>
-    <li>6.30 + Klarę Stefańską</li>
-    <li>18.00 + Jana Szczębarę – greg.&nbsp;10</li>
-    <li>18.00 + Henryka, Aleksandra, Danielę Serafinów</li>
-    <li>18.00 + Stanisławę Jarecką</li>
-</ul>
-
-<p class="intentions_date">10&nbsp;grudnia, Czwartek</p>
-<ul>
-    <li>6.30 + Helenę Karasiak</li>
-    <li>6.30 + Klarę Stefańską</li>
-    <li>6.30 + Juliana Bednarskiego greg.&nbsp;1</li>
-    <li>18.00 o&nbsp;łaskę nawrócenia dla ojca i&nbsp;męża</li>
-    <li>18.00 + Jana Szczębarę – greg.&nbsp;11</li>
-    <li>18.00 + Stanisławę Jarecką</li>
-</ul>
-
-<p class="intentions_date">11&nbsp;grudnia, Piątek</p>
-<ul>
-    <li>6.30 + Czesława w&nbsp;14&nbsp;r.&nbsp;śm. Władysławę
-    Buczków</li>
-    <li>6.30 + Klarę Stefańską</li>
-    <li>6.30 + Stanisławę Jarecką</li>
-    <li>6.30 + Juliana Bednarskiego greg.&nbsp;2</li>
-    <li>18.00 + Zofię Strawczyńską</li>
-    <li>18.00 + Dorotę Zubę w&nbsp;9&nbsp;r.&nbsp;śm.</li>
-    <li>18.00 + Jana Szczębarę – greg.&nbsp;5</li>
-</ul>
-
-<p class="intentions_date">12&nbsp;grudnia, Sobota</p>
-<ul>
-    <li>6.30 + Kazimierza Misztala w&nbsp;r.&nbsp;śm.</li>
-    <li>6.30 + Stanisławę Jarecką</li>
-    <li>6.30 + Juliana Bednarskiego greg.&nbsp;3</li>
-    <li>18.00 dziękczynno-błagalna o&nbsp;Boże błogosławieństwo,
-    opiekę Matki Bożej dla Stanisławy z&nbsp;racji 50&nbsp;r.
-    urodzin</li>
-    <li>18.00 + Jacka Kaśniewskiego w&nbsp;2&nbsp;r.&nbsp;śm.</li>
-    <li>18.00 + Jana Szczębarę – greg.&nbsp;13</li>
-</ul>
-
-<p class="intentions_date">13&nbsp;grudnia, Niedziela –
+<p class="intentions_date">20&nbsp;grudnia, Niedziela –
     <span style="color: grey">
-        III&nbsp;NIEDZIELA ADWENTU
+        IV&nbsp;NIEDZIELA ADWENTU
     </span>
 </p>
 <ul>
-    <li>7.30 + Wiktorię w&nbsp;r.&nbsp;śm. Włodzimierza, Adama
-    Cynów</li>
-    <li>7.30 + Jana Szczębarę – greg.&nbsp;14</li>
-    <li>9.30 + Andrzeja Kowalczyka w&nbsp;20&nbsp;r.&nbsp;śm,
-    zm.&nbsp;z&nbsp;rodz. Szymanków i&nbsp;Kowalczyków</li>
-    <li>11.15 + Zofię, Wacława Borcuchów, Michalinę, Franciszka
-    Irków</li>
-    <li>12.30 w&nbsp;intencji parafian</li>
-    <li>12.30 + Juliana Bednarskiego greg.&nbsp;4</li>
-    <li>18.00 dziękczynno-błagalna o&nbsp;Boże błogosławieństwo,
-    opiekę Matki Bożej dla Marcina z&nbsp;racji 40&nbsp;r.
-    urodzin</li>
+    <lI>7.30 + Jana Rogowskiego; Jana, Bronisławę Zająców</lI>
+    <lI>7.30 + Jana Szczębarę – greg.&nbsp;21</lI>
+    <lI>9.30 + Wiesława w&nbsp;24.&nbsp;r.&nbsp;śm.,
+    zm.&nbsp;z&nbsp;rodz. Misiudów i&nbsp;Gajdów</lI>
+    <lI>11.15 + Mariana Wojtasa w&nbsp;3.&nbsp;r.&nbsp;śm.</lI>
+    <lI>12.30 w&nbsp;intencji parafian</lI>
+    <lI>12.30 + Juliana Bednarskiego – greg.&nbsp;11</lI>
+    <lI>18.00 + Dariusza Bełczowskiego w&nbsp;1.&nbsp;r.&nbsp;śm.</lI>
+    <lI>18.00 + Stanisława Wnuka w&nbsp;10.&nbsp;r.&nbsp;śm., Jana,
+    Marię Wnuków</lI>
 </ul>
     </div>
 </div>

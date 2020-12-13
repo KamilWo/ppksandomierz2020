@@ -13,7 +13,178 @@ include 'head.php';
             <!-- treść główna -->
             <div class="col">
                 <h2 class="first-content-header">Archiwum wiadomości 2020 rok</h2>
-                <h2>Okres 1.&nbsp;stycznia 2020 - 6.&nbsp;grudnia 2020 r.</h2>
+                <h2>Okres 1.&nbsp;stycznia 2020 - 13.&nbsp;grudnia 2020 r.</h2>
+<div class="card">
+    <div class="card-header">
+        <h3>INTENCJE MSZALNE<br />
+            7 – 13&nbsp;grudnia 2020&nbsp;r.
+        </h3>
+    </div>
+    <div class="col">
+<p class="intentions_date">07&nbsp;grudnia, Poniedziałek –
+św.&nbsp;Ambrożego</p>
+<ul>
+    <li>6.30 + Wandę Czerwonkę</li>
+    <li>6.30 + Klarę Stefańską</li>
+    <li>6.30 + Zofię Strawczyńską</li>
+    <li>18.00 + Stanisławę Jarecką</li>
+    <li>18.00 + Mariana w&nbsp;r.&nbsp;śm.</li>
+    <li>18.00 + Jana Szczębarę – greg.&nbsp;8</li>
+</ul>
+
+<p class="intentions_date">08&nbsp;grudnia, Wtorek -
+Uroczystość Niepokalanego Poczęcia NMP</p>
+<ul>
+    <li>6.30 + Teresę, Adolfię, Jana Gieleraków; Jolantę, Pawła
+    Czernikiewiczów</li>
+    <li>6.30 + Stanisławę Jarecką</li>
+    <li>9.00 + Mariannę, Kazimierza Kołodziejów, Zofię, Wincentego
+    i&nbsp;zm. z&nbsp;rodz. Bryłów</li>
+    <li>18.00 int. wynagradzająca za&nbsp;grzechy aborcji
+    i&nbsp;eutanazji</li>
+    <li>18.00 + Marię, Oskara Rożków, i&nbsp;zm. z&nbsp;rodz.
+    Rożków</li>
+    <li>18.00 + Jana Szczębarę – greg.&nbsp;9</li>
+</ul>
+
+<p class="intentions_date">09&nbsp;grudnia, Środa</p>
+<ul>
+    <li>6.30 dziękczynno-błagalna o&nbsp;Boże błogosławieństwo,
+    opiekę Matki Bożej, łaskę zdrowia dla matki i&nbsp;syna</li>
+    <li>6.30 + Mariana Mroczkowskiego</li>
+    <li>6.30 + Klarę Stefańską</li>
+    <li>18.00 + Jana Szczębarę – greg.&nbsp;10</li>
+    <li>18.00 + Henryka, Aleksandra, Danielę Serafinów</li>
+    <li>18.00 + Stanisławę Jarecką</li>
+</ul>
+
+<p class="intentions_date">10&nbsp;grudnia, Czwartek</p>
+<ul>
+    <li>6.30 + Helenę Karasiak</li>
+    <li>6.30 + Klarę Stefańską</li>
+    <li>6.30 + Juliana Bednarskiego greg.&nbsp;1</li>
+    <li>18.00 o&nbsp;łaskę nawrócenia dla ojca i&nbsp;męża</li>
+    <li>18.00 + Jana Szczębarę – greg.&nbsp;11</li>
+    <li>18.00 + Stanisławę Jarecką</li>
+</ul>
+
+<p class="intentions_date">11&nbsp;grudnia, Piątek</p>
+<ul>
+    <li>6.30 + Czesława w&nbsp;14&nbsp;r.&nbsp;śm. Władysławę
+    Buczków</li>
+    <li>6.30 + Klarę Stefańską</li>
+    <li>6.30 + Stanisławę Jarecką</li>
+    <li>6.30 + Juliana Bednarskiego greg.&nbsp;2</li>
+    <li>18.00 + Zofię Strawczyńską</li>
+    <li>18.00 + Dorotę Zubę w&nbsp;9&nbsp;r.&nbsp;śm.</li>
+    <li>18.00 + Jana Szczębarę – greg.&nbsp;5</li>
+</ul>
+
+<p class="intentions_date">12&nbsp;grudnia, Sobota</p>
+<ul>
+    <li>6.30 + Kazimierza Misztala w&nbsp;r.&nbsp;śm.</li>
+    <li>6.30 + Stanisławę Jarecką</li>
+    <li>6.30 + Juliana Bednarskiego greg.&nbsp;3</li>
+    <li>18.00 dziękczynno-błagalna o&nbsp;Boże błogosławieństwo,
+    opiekę Matki Bożej dla Stanisławy z&nbsp;racji 50&nbsp;r.
+    urodzin</li>
+    <li>18.00 + Jacka Kaśniewskiego w&nbsp;2&nbsp;r.&nbsp;śm.</li>
+    <li>18.00 + Jana Szczębarę – greg.&nbsp;13</li>
+</ul>
+
+<p class="intentions_date">13&nbsp;grudnia, Niedziela –
+    <span style="color: grey">
+        III&nbsp;NIEDZIELA ADWENTU
+    </span>
+</p>
+<ul>
+    <li>7.30 + Wiktorię w&nbsp;r.&nbsp;śm. Włodzimierza, Adama
+    Cynów</li>
+    <li>7.30 + Jana Szczębarę – greg.&nbsp;14</li>
+    <li>9.30 + Andrzeja Kowalczyka w&nbsp;20&nbsp;r.&nbsp;śm,
+    zm.&nbsp;z&nbsp;rodz. Szymanków i&nbsp;Kowalczyków</li>
+    <li>11.15 + Zofię, Wacława Borcuchów, Michalinę, Franciszka
+    Irków</li>
+    <li>12.30 w&nbsp;intencji parafian</li>
+    <li>12.30 + Juliana Bednarskiego greg.&nbsp;4</li>
+    <li>18.00 dziękczynno-błagalna o&nbsp;Boże błogosławieństwo,
+    opiekę Matki Bożej dla Marcina z&nbsp;racji 40&nbsp;r.
+    urodzin</li>
+</ul>
+    </div>
+</div>
+<br/>
+
+<div class="card">
+    <div class="card-header">
+        <h3>6.&nbsp;grudnia 2020&nbsp;r.</h3>
+        <h3>II NIEDZIELA ADWENTU, Rok B</h3>
+    </div>
+    <div class="col">
+        <p>1. <em>Bóg zapłać</em> mieszkańcom bloku 49
+        z&nbsp;ul.&nbsp;Mickiewicza klatka nr 3.&nbsp;za ofiarę 230&nbsp;zł
+        na&nbsp;potrzeby parafii. Wyrażamy wdzięczność wobec parafian, którzy
+        sprzątali nasz kościół w&nbsp;minioną sobotę, byli to: Maria
+        Kicińska, rodzina Biało oraz Jerzy i&nbsp;Bartłomiej Łatka.
+        <strong>W&nbsp;najbliższą sobotę do&nbsp;sprzątania świątyni
+        parafialnej prosimy parafian</strong> mieszkających przy
+        ul.&nbsp;Mickiewicza, blok 49, mieszkania od&nbsp;31 do&nbsp;40.</p>
+        <p>2. II&nbsp;niedziela Adwentu jest dniem modlitwy i&nbsp;pomocy
+        materialnej Kościołowi na&nbsp;Wschodzie – dziś po&nbsp;Mszach św.
+        zbiórka do&nbsp;puszek na&nbsp;wsparcie Kościoła na&nbsp;Wschodzie.
+        <em>Bóg zapłać</em> ofiarodawcom.</p>
+        <p>3. 8&nbsp;grudnia, tj.&nbsp;w&nbsp;najbliższy wtorek, obchodzimy
+        w&nbsp;Kościele Powszechnym Uroczystość Niepokalanego Poczęcia NMP.
+        W&nbsp;tym dniu Msze&nbsp;św. o&nbsp;godz.&nbsp;6.30 – Roraty,
+        o&nbsp;9.00 i&nbsp;o&nbsp;18.00. W&nbsp;czasie Mszy&nbsp;św.
+        o&nbsp;godz.&nbsp;18.00 zostaną poświęcone medaliki dla dzieci
+        przygotowujące się do&nbsp;Pierwszej Komunii Św.
+        Po&nbsp;Mszy&nbsp;św. spotkanie z&nbsp;rodzicami pierwszokomunijnych
+        dzieci. Prosimy rodziców tych dzieci o&nbsp;zakupienie medalików dla
+        swoich pociech. W&nbsp;tym dniu od&nbsp;godz.&nbsp;12.00
+        do&nbsp;13.00 - Godzina św. Zachęcamy do&nbsp;wspólnej modlitwy
+        w&nbsp;parafialnym kościele przy wystawionym Najświętszym
+        Sakramencie.</p>
+        <p>4. Dziękujemy naszemu parafianinowi Panu Andrzejowi Anwajlerowi
+        za&nbsp;wymianę i&nbsp;instalację nowych okien w&nbsp;zakrystii oraz
+        położenie wraz z&nbsp;Panem Tadeuszem Woźniakiem wełny mineralnej
+        dla ocieplenia stropu tego pomieszczenia i&nbsp;inne prace
+        na&nbsp;rzecz naszej parafii. <em>Bóg zapłać</em>.</p>
+        <p>5. Zachęcamy do&nbsp;czytania prasy katolickiej: „Niedziela”,
+        „Gość Niedzielny”, dla dzieci „Mały Gość Niedzielny”.
+        Są&nbsp;do&nbsp;nabycia na&nbsp;stoliku pod chórem w&nbsp;kościele.</p>
+        <p>6. Można nabyć świece wigilijne „Caritas”. Odnośnie wigilijnych
+        opłatków, w&nbsp;części parafii rozniosą je&nbsp;parafialni liderzy,
+        jak to&nbsp;było w&nbsp;poprzednich latach, pozostali parafianie,
+        do&nbsp;których domów wspomniani liderzy nie dotrą z&nbsp;poświęconym
+        opłatkiem, mogą nabyć go&nbsp;w&nbsp;kościele lub
+        w&nbsp;zakrystii.</p>
+        <p>7. Uwzględniając obecną sytuacje epidemiczną i&nbsp;związaną
+        z&nbsp;tym niemożność zorganizowania tzw.&nbsp;parafialnej spowiedzi
+        przed Uroczystością Narodzenia Pańskiego w&nbsp;jednym dniu,
+        od&nbsp;najbliższego poniedziałku do&nbsp;środy,
+        tj.&nbsp;23&nbsp;grudnia br., od&nbsp;godz.&nbsp;17.00 przed
+        Mszą&nbsp;św. wieczorną, w&nbsp;konfesjonale będzie dyżurował kapłan.
+        Przypominamy o&nbsp;konieczności skorzystania z&nbsp;sakramentu
+        Pokuty, abyśmy godnie jako chrześcijanie w&nbsp;głębokiej jedności
+        z&nbsp;Panem Bogiem przeżyli Uroczystość Narodzenia Pana Jezusa.</p>
+        <p>8. Dziękujemy rodzicom młodzieży z&nbsp;klas szóstych, siódmych
+        i&nbsp;ósmych oraz samej młodzieży, za&nbsp;przystąpienie
+        do&nbsp;Sakramentu Pokuty, we&nbsp;wtorek, środę i&nbsp;czwartek.
+        Przypominamy zarazem wszystkim, że&nbsp;warunkiem ważności Pierwszego
+        Piątku jest przyjęcie Komunii św. w&nbsp;tym dniu.</p>
+        <p>9. Wszystkim, którzy w&nbsp;tym tygodniu obchodzą swoje imieniny,
+        urodziny, inne rocznice, składamy najlepsze życzenia
+        z&nbsp;kapłańskim błogosławieństwem. Wszystkim uczestniczącym
+        we&nbsp;Mszy&nbsp;św. życzymy błogosławionej niedzieli.</p>
+        <p>
+            <span style="float: left;">Sandomierz, 6.&nbsp;grudnia 2020&nbsp;r.</span>
+            <span style="float: right; text-align: right;">ks. proboszcz Stanisław Chmielewski</span>
+        </p>
+    </div>
+</div>
+<br />
+
 <div class="card">
     <div class="card-header">
         <h3>INTENCJE MSZALNE<br />

@@ -1,67 +1,73 @@
 <div class="card">
     <div class="card-header">
-        <h3>6.&nbsp;grudnia 2020&nbsp;r.</h3>
-        <h3>II NIEDZIELA ADWENTU, Rok B</h3>
+        <h3>13.&nbsp;grudnia 2020&nbsp;r.</h3>
+        <h3>III NIEDZIELA ADWENTU (Gaudete), Rok B</h3>
     </div>
     <div class="col">
-        <p>1. <em>Bóg zapłać</em> mieszkańcom bloku 49
-        z&nbsp;ul.&nbsp;Mickiewicza klatka nr 3.&nbsp;za ofiarę 230&nbsp;zł
-        na&nbsp;potrzeby parafii. Wyrażamy wdzięczność wobec parafian, którzy
-        sprzątali nasz kościół w&nbsp;minioną sobotę, byli to: Maria
-        Kicińska, rodzina Biało oraz Jerzy i&nbsp;Bartłomiej Łatka.
-        <strong>W&nbsp;najbliższą sobotę do&nbsp;sprzątania świątyni
-        parafialnej prosimy parafian</strong> mieszkających przy
-        ul.&nbsp;Mickiewicza, blok 49, mieszkania od&nbsp;31 do&nbsp;40.</p>
-        <p>2. II&nbsp;niedziela Adwentu jest dniem modlitwy i&nbsp;pomocy
-        materialnej Kościołowi na&nbsp;Wschodzie – dziś po&nbsp;Mszach św.
-        zbiórka do&nbsp;puszek na&nbsp;wsparcie Kościoła na&nbsp;Wschodzie.
-        <em>Bóg zapłać</em> ofiarodawcom.</p>
-        <p>3. 8&nbsp;grudnia, tj.&nbsp;w&nbsp;najbliższy wtorek, obchodzimy
-        w&nbsp;Kościele Powszechnym Uroczystość Niepokalanego Poczęcia NMP.
-        W&nbsp;tym dniu Msze&nbsp;św. o&nbsp;godz.&nbsp;6.30 – Roraty,
-        o&nbsp;9.00 i&nbsp;o&nbsp;18.00. W&nbsp;czasie Mszy&nbsp;św.
-        o&nbsp;godz.&nbsp;18.00 zostaną poświęcone medaliki dla dzieci
-        przygotowujące się do&nbsp;Pierwszej Komunii Św.
-        Po&nbsp;Mszy&nbsp;św. spotkanie z&nbsp;rodzicami pierwszokomunijnych
-        dzieci. Prosimy rodziców tych dzieci o&nbsp;zakupienie medalików dla
-        swoich pociech. W&nbsp;tym dniu od&nbsp;godz.&nbsp;12.00
-        do&nbsp;13.00 - Godzina św. Zachęcamy do&nbsp;wspólnej modlitwy
-        w&nbsp;parafialnym kościele przy wystawionym Najświętszym
-        Sakramencie.</p>
-        <p>4. Dziękujemy naszemu parafianinowi Panu Andrzejowi Anwajlerowi
-        za&nbsp;wymianę i&nbsp;instalację nowych okien w&nbsp;zakrystii oraz
-        położenie wraz z&nbsp;Panem Tadeuszem Woźniakiem wełny mineralnej
-        dla ocieplenia stropu tego pomieszczenia i&nbsp;inne prace
-        na&nbsp;rzecz naszej parafii. <em>Bóg zapłać</em>.</p>
-        <p>5. Zachęcamy do&nbsp;czytania prasy katolickiej: „Niedziela”,
-        „Gość Niedzielny”, dla dzieci „Mały Gość Niedzielny”.
-        Są&nbsp;do&nbsp;nabycia na&nbsp;stoliku pod chórem w&nbsp;kościele.</p>
-        <p>6. Można nabyć świece wigilijne „Caritas”. Odnośnie wigilijnych
-        opłatków, w&nbsp;części parafii rozniosą je&nbsp;parafialni liderzy,
-        jak to&nbsp;było w&nbsp;poprzednich latach, pozostali parafianie,
-        do&nbsp;których domów wspomniani liderzy nie dotrą z&nbsp;poświęconym
-        opłatkiem, mogą nabyć go&nbsp;w&nbsp;kościele lub
-        w&nbsp;zakrystii.</p>
-        <p>7. Uwzględniając obecną sytuacje epidemiczną i&nbsp;związaną
-        z&nbsp;tym niemożność zorganizowania tzw.&nbsp;parafialnej spowiedzi
-        przed Uroczystością Narodzenia Pańskiego w&nbsp;jednym dniu,
-        od&nbsp;najbliższego poniedziałku do&nbsp;środy,
-        tj.&nbsp;23&nbsp;grudnia br., od&nbsp;godz.&nbsp;17.00 przed
-        Mszą&nbsp;św. wieczorną, w&nbsp;konfesjonale będzie dyżurował kapłan.
-        Przypominamy o&nbsp;konieczności skorzystania z&nbsp;sakramentu
+        <h3><em>Gaudete</em> – to&nbsp;łacińska nazwa trzeciej niedzieli Adwentu,
+        pochodząca od&nbsp;pierwszego łacińskiego słowa antyfony
+        rozpoczynającej tego dnia Liturgię Eucharystyczną: <strong>Radujcie
+        się!</strong> Tego dnia w&nbsp;liturgii używa się szat koloru
+        różowego. Jeszcze bardziej będziemy się radować, gdy odkryjemy prawdę
+        o&nbsp;tym, że&nbsp;Chrystus wciąż do&nbsp;nas przychodzi. Wtedy
+        przepełni nas radość płynąca ze&nbsp;świadomości, że&nbsp;stoi
+        On&nbsp;także u&nbsp;podwoi naszego serca i&nbsp;kołacze. Otwórzmy
+        na&nbsp;oścież drzwi Chrystusowi. Oby nie okazało się, że&nbsp;nie
+        nadajemy się do&nbsp;Nieba, ponieważ nie umiemy się cieszyć,
+        bo&nbsp;zapomnieliśmy, jak to&nbsp;się robi. Usłyszmy więc
+        to&nbsp;dzisiejsze wezwanie Kościoła: <strong>Bądź radosny!
+        Nie zamykaj się w&nbsp;samotności i&nbsp;smutku. Jezus jest
+        z&nbsp;Tobą!</strong></h3>
+
+        <p>1. <em>Bóg zapłać</em> mieszkańcom  bloku 49
+        z&nbsp;ul.&nbsp;Mickiewicza mieszkania od&nbsp;30 do&nbsp;40,
+        za&nbsp;ofiarę 120&nbsp;zł na&nbsp;potrzeby parafii. Wyrażamy
+        wdzięczność wobec tych parafian, którzy sprzątali nasz kościół
+        w&nbsp;minionym tygodniu. <strong>W&nbsp;najbliższą sobotę,
+        do&nbsp;sprzątania świątyni parafialnej prosimy</strong> parafian
+        mieszkających przy ul.&nbsp;Mickiewicza, blok 51, mieszkania
+        od&nbsp;1 do&nbsp;10.</p>
+        <p>2. Zachęcamy do&nbsp;czytania prasy katolickiej: „Niedziela”,
+        „Gość Niedzielny”. Są&nbsp;do&nbsp;nabycia na&nbsp;stoliku pod chórem
+        w&nbsp;kościele.</p>
+        <p>3. Można nabyć świece wigilijne „Caritas” i&nbsp;wigilijne opłatki
+        w&nbsp;kościele lub w&nbsp;zakrystii. Dziękujemy parafialnym liderom
+        za&nbsp;rozniesienie opłatków w&nbsp;poszczególnych częściach
+        parafii. <em>Bóg zapłać</em> za&nbsp;ten trud.</p>
+        <p>4. Przypominamy o&nbsp;konieczności skorzystania z&nbsp;sakramentu
         Pokuty, abyśmy godnie jako chrześcijanie w&nbsp;głębokiej jedności
-        z&nbsp;Panem Bogiem przeżyli Uroczystość Narodzenia Pana Jezusa.</p>
-        <p>8. Dziękujemy rodzicom młodzieży z&nbsp;klas szóstych, siódmych
-        i&nbsp;ósmych oraz samej młodzieży, za&nbsp;przystąpienie
-        do&nbsp;Sakramentu Pokuty, we&nbsp;wtorek, środę i&nbsp;czwartek.
-        Przypominamy zarazem wszystkim, że&nbsp;warunkiem ważności Pierwszego
-        Piątku jest przyjęcie Komunii św. w&nbsp;tym dniu.</p>
-        <p>9. Wszystkim, którzy w&nbsp;tym tygodniu obchodzą swoje imieniny,
-        urodziny, inne rocznice, składamy najlepsze życzenia
-        z&nbsp;kapłańskim błogosławieństwem. Wszystkim uczestniczącym
-        we&nbsp;Mszy&nbsp;św. życzymy błogosławionej niedzieli.</p>
+        z&nbsp;Panem Bogiem przeżyli Uroczystość Narodzenia Pana Jezusa.
+        Każdego dnia do&nbsp;środy, tj.&nbsp;23 grudnia br.,
+        od&nbsp;godz.&nbsp;17.00 przed Mszą&nbsp;św. wieczorną,
+        w&nbsp;konfesjonale, w&nbsp;kościele będzie dyżurował przynajmniej
+        jeden kapłan.</p>
+        <p>5. We&nbsp;wtorek, tj.&nbsp;22&nbsp;grudnia br., odwiedzimy tych
+        chorych z&nbsp;sakramentalną posługą, którzy zostaną zgłoszeni
+        w&nbsp;zakrystii lub w&nbsp;parafialnej kancelarii, w&nbsp;dni
+        poprzedzające tę&nbsp;wizytę i&nbsp;po&nbsp;zaczerpnięciu informacji
+        o&nbsp;stanie ich zdrowia. Prosimy o&nbsp;zgłaszanie chorych.</p>
+        <p>6. W&nbsp;dniach od&nbsp;21 do&nbsp;23&nbsp;grudnia br.
+        o&nbsp;godz.&nbsp;17.00. rekolekcje dla dorosłych będą transmitowane
+        na&nbsp;kanale YouTube Diecezji Sandomierskiej, z&nbsp;parafii
+        we&nbsp;Wszechświętych. W&nbsp;tych samych dniach
+        o&nbsp;godz.&nbsp;10.00 rekolekcje adwentowe dla dzieci, a&nbsp;dla
+        młodzieży o&nbsp;godz.&nbsp;11.00. Transmisja z&nbsp;kościoła
+        parafialnego p.w.&nbsp;Matki Bożej Nieustającej Pomocy
+        w&nbsp;Tarnobrzegu Serbinowie.</p>
+        <p>7. Za&nbsp;pośrednictwem Konferencji Episkopatu Polski, Prezes
+        Naczelnej Rady Lekarskiej zwraca się z&nbsp;gorącym apelem
+        do&nbsp;wszystkich osób, które przeszły chorobę COVID-19
+        o&nbsp;oddawanie osocza. Jak czytamy w&nbsp;apelu: „badania naukowe
+        potwierdzają, że&nbsp;osocze ozdrowieńców, podane we&nbsp;wczesnej
+        fazie choroby, może zmniejszyć ryzyko zgonu. Dawcą może być każdy
+        ozdrowieniec. Wystarczy zgłosić się – nie wcześniej niż
+        po&nbsp;miesiącu od&nbsp;wyzdrowienia – do&nbsp;regionalnego centrum
+        Krwiodawstwa i&nbsp;Krwiolecznictwa”. Wszystkim, którzy pozytywnie
+        odpowiedzą na&nbsp;Apel serdeczni dziękujemy.</p>
+        <p>8. Wszystkim uczestniczącym we&nbsp;Mszy&nbsp;św. życzymy
+        błogosławionej niedzieli.</p>
         <p>
-            <span style="float: left;">Sandomierz, 6.&nbsp;grudnia 2020&nbsp;r.</span>
+            <span style="float: left;">Sandomierz, 13.&nbsp;grudnia 2020&nbsp;r.</span>
             <span style="float: right; text-align: right;">ks. proboszcz Stanisław Chmielewski</span>
         </p>
     </div>
