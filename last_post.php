@@ -1,73 +1,66 @@
 <div class="card">
     <div class="card-header">
-        <h3>13.&nbsp;grudnia 2020&nbsp;r.</h3>
-        <h3>III NIEDZIELA ADWENTU (Gaudete), Rok B</h3>
+        <h3>20.&nbsp;grudnia 2020&nbsp;r.</h3>
+        <h3>IV NIEDZIELA ADWENTU, Rok B</h3>
     </div>
     <div class="col">
-        <h3><em>Gaudete</em> – to&nbsp;łacińska nazwa trzeciej niedzieli Adwentu,
-        pochodząca od&nbsp;pierwszego łacińskiego słowa antyfony
-        rozpoczynającej tego dnia Liturgię Eucharystyczną: <strong>Radujcie
-        się!</strong> Tego dnia w&nbsp;liturgii używa się szat koloru
-        różowego. Jeszcze bardziej będziemy się radować, gdy odkryjemy prawdę
-        o&nbsp;tym, że&nbsp;Chrystus wciąż do&nbsp;nas przychodzi. Wtedy
-        przepełni nas radość płynąca ze&nbsp;świadomości, że&nbsp;stoi
-        On&nbsp;także u&nbsp;podwoi naszego serca i&nbsp;kołacze. Otwórzmy
-        na&nbsp;oścież drzwi Chrystusowi. Oby nie okazało się, że&nbsp;nie
-        nadajemy się do&nbsp;Nieba, ponieważ nie umiemy się cieszyć,
-        bo&nbsp;zapomnieliśmy, jak to&nbsp;się robi. Usłyszmy więc
-        to&nbsp;dzisiejsze wezwanie Kościoła: <strong>Bądź radosny!
-        Nie zamykaj się w&nbsp;samotności i&nbsp;smutku. Jezus jest
-        z&nbsp;Tobą!</strong></h3>
-
-        <p>1. <em>Bóg zapłać</em> mieszkańcom  bloku 49
-        z&nbsp;ul.&nbsp;Mickiewicza mieszkania od&nbsp;30 do&nbsp;40,
-        za&nbsp;ofiarę 120&nbsp;zł na&nbsp;potrzeby parafii. Wyrażamy
-        wdzięczność wobec tych parafian, którzy sprzątali nasz kościół
-        w&nbsp;minionym tygodniu. <strong>W&nbsp;najbliższą sobotę,
-        do&nbsp;sprzątania świątyni parafialnej prosimy</strong> parafian
+        <p>1. <em>Bóg zapłać</em> mieszkańcom bloku 51
+        z&nbsp;ul.&nbsp;Mickiewicza, z&nbsp;pierwszej klatki,
+        za&nbsp;sprzątanie kościoła, byli to: Maria Rogozińska, Piotr
+        Drozdowski, Zdzisław Szpatowicz, Izabela Naja, Barbara Stachowicz
+        i&nbsp;za&nbsp;ofiarę 100&nbsp;zł złożoną na&nbsp;potrzeby parafii.
+        <strong>W&nbsp;najbliższą środę na&nbsp;godz.&nbsp;18.30
+        do&nbsp;sprzątania świątyni parafialnej, prosimy</strong> parafian
         mieszkających przy ul.&nbsp;Mickiewicza, blok 51, mieszkania
-        od&nbsp;1 do&nbsp;10.</p>
-        <p>2. Zachęcamy do&nbsp;czytania prasy katolickiej: „Niedziela”,
-        „Gość Niedzielny”. Są&nbsp;do&nbsp;nabycia na&nbsp;stoliku pod chórem
-        w&nbsp;kościele.</p>
-        <p>3. Można nabyć świece wigilijne „Caritas” i&nbsp;wigilijne opłatki
-        w&nbsp;kościele lub w&nbsp;zakrystii. Dziękujemy parafialnym liderom
-        za&nbsp;rozniesienie opłatków w&nbsp;poszczególnych częściach
-        parafii. <em>Bóg zapłać</em> za&nbsp;ten trud.</p>
-        <p>4. Przypominamy o&nbsp;konieczności skorzystania z&nbsp;sakramentu
-        Pokuty, abyśmy godnie jako chrześcijanie w&nbsp;głębokiej jedności
-        z&nbsp;Panem Bogiem przeżyli Uroczystość Narodzenia Pana Jezusa.
-        Każdego dnia do&nbsp;środy, tj.&nbsp;23 grudnia br.,
+        od&nbsp;11 do&nbsp;20.</p>
+        <p>2. Słowa wdzięczności kierujemy do&nbsp;Panów: Wacława Miszczaka,
+        który wykonał stojak do&nbsp;choinki; Jacka Dybusa, Tomasza
+        Winiarskiego, którzy podarowali choinki do&nbsp;wystroju kościoła.
+        Bożonarodzeniową szopkę wykonali: ks. Piotr Cieśla, Roman Polit,
+        Wacław Dragan, Tadeusz Woźniak. W&nbsp;tym tygodniu pomalowana
+        została zakrystia i&nbsp;przedsionek przez Panów: Leszka Czajkę,
+        Jacka Stolę. Dziękujemy dwom parafiankom za&nbsp;dbanie
+        o&nbsp;czystość bielizny ołtarzowej. <em>Bóg zapłać</em>
+        wszystkim.</p>
+        <p>3. PROŚBA Z&nbsp;KURII O&nbsp;WŁĄCZENIE SIĘ W&nbsp;AKCJE POMOCY
+        ŚWIĄTECZNEJ.</p>
+        <p>4. Zachęcamy do&nbsp;czytania prasy katolickiej: „Niedziela”,
+        „Gość Niedzielny”, dla dzieci „Mały Gość”, dla młodzieży „Miłujcie
+        się” oraz pismo alumnów z&nbsp;Wyższego Seminarium Duchownego
+        w&nbsp;Sandomierzu pt. „Powołanie”. Są&nbsp;do&nbsp;nabycia
+        na&nbsp;stoliku pod chórem w&nbsp;kościele.</p>
+        <p>5. Organista – Pan Mirosław Bojarski, który służył grą
+        w&nbsp;naszej parafii z&nbsp;przyczyn osobistych zrezygnował
+        z&nbsp;dalszego posługiwania. Dziękujemy Mu&nbsp;za&nbsp;wszystko.
+        Aktualnie poszukujemy nowego organisty.</p>
+        <p>6. Można nabyć świece wigilijne „Caritas” i&nbsp;wigilijne opłatki
+        w&nbsp;kościele lub w&nbsp;zakrystii.</p>
+        <p>7. Przypominamy o&nbsp;konieczności skorzystania z&nbsp;sakramentu
+        Pokuty. Każdego dnia do&nbsp;środy, tj.&nbsp;23&nbsp;grudnia br.,
         od&nbsp;godz.&nbsp;17.00 przed Mszą&nbsp;św. wieczorną,
         w&nbsp;konfesjonale, w&nbsp;kościele będzie dyżurował przynajmniej
         jeden kapłan.</p>
-        <p>5. We&nbsp;wtorek, tj.&nbsp;22&nbsp;grudnia br., odwiedzimy tych
-        chorych z&nbsp;sakramentalną posługą, którzy zostaną zgłoszeni
-        w&nbsp;zakrystii lub w&nbsp;parafialnej kancelarii, w&nbsp;dni
-        poprzedzające tę&nbsp;wizytę i&nbsp;po&nbsp;zaczerpnięciu informacji
-        o&nbsp;stanie ich zdrowia. Prosimy o&nbsp;zgłaszanie chorych.</p>
-        <p>6. W&nbsp;dniach od&nbsp;21 do&nbsp;23&nbsp;grudnia br.
-        o&nbsp;godz.&nbsp;17.00. rekolekcje dla dorosłych będą transmitowane
-        na&nbsp;kanale YouTube Diecezji Sandomierskiej, z&nbsp;parafii
-        we&nbsp;Wszechświętych. W&nbsp;tych samych dniach
-        o&nbsp;godz.&nbsp;10.00 rekolekcje adwentowe dla dzieci, a&nbsp;dla
-        młodzieży o&nbsp;godz.&nbsp;11.00. Transmisja z&nbsp;kościoła
-        parafialnego p.w.&nbsp;Matki Bożej Nieustającej Pomocy
-        w&nbsp;Tarnobrzegu Serbinowie.</p>
-        <p>7. Za&nbsp;pośrednictwem Konferencji Episkopatu Polski, Prezes
-        Naczelnej Rady Lekarskiej zwraca się z&nbsp;gorącym apelem
-        do&nbsp;wszystkich osób, które przeszły chorobę COVID-19
-        o&nbsp;oddawanie osocza. Jak czytamy w&nbsp;apelu: „badania naukowe
-        potwierdzają, że&nbsp;osocze ozdrowieńców, podane we&nbsp;wczesnej
-        fazie choroby, może zmniejszyć ryzyko zgonu. Dawcą może być każdy
-        ozdrowieniec. Wystarczy zgłosić się – nie wcześniej niż
-        po&nbsp;miesiącu od&nbsp;wyzdrowienia – do&nbsp;regionalnego centrum
-        Krwiodawstwa i&nbsp;Krwiolecznictwa”. Wszystkim, którzy pozytywnie
-        odpowiedzą na&nbsp;Apel serdeczni dziękujemy.</p>
-        <p>8. Wszystkim uczestniczącym we&nbsp;Mszy&nbsp;św. życzymy
-        błogosławionej niedzieli.</p>
+        <p>8. We&nbsp;wtorek, tj.&nbsp;22&nbsp;grudnia br.,
+        od&nbsp;godz.&nbsp;9.00 odwiedzimy tych chorych z&nbsp;sakramentalną
+        posługą, którzy zostali lub jeszcze będą zgłoszeni w&nbsp;zakrystii
+        lub w&nbsp;parafialnej kancelarii.</p>
+        <p>9. Zachęcamy do&nbsp;zachowania tradycji podczas wieczerzy
+        wigilijnej, w&nbsp;czasie której powinno mieć miejsce czytanie
+        fragmentu Ewangelii św.&nbsp;Łukasza o&nbsp;narodzeniu Pana Jezusa,
+        modlitwa rodzinna, śpiewanie kolęd i&nbsp;dania bezmięsne.</p>
+        <p>10. Taca z&nbsp;Pasterki przeznaczona jest na&nbsp;Diecezjalny
+        „Fundusz Ochrony Życia”, a&nbsp;taca ze&nbsp;Święta
+        Św.&nbsp;Szczepana na&nbsp;Wyższe Seminarium Duchowne
+        w&nbsp;Sandomierzu. Przyszła niedziela to&nbsp;Niedziela Świętej
+        Rodziny – dzień modlitw o&nbsp;świętość małżeństw i&nbsp;rodzin.</p>
+        <p>11. Dziś o&nbsp;godz.&nbsp;17.30 modlitwa różańcowa zamiast
+        Nieszporów – zapraszamy.</p>
+        <p>12. Wszystkim, którzy w&nbsp;tym tygodniu obchodzą swoje imieniny,
+        urodziny, inne rocznice, składamy najlepsze życzenia
+        z&nbsp;kapłańskim błogosławieństwem. Wszystkim uczestniczącym
+        we&nbsp;Mszy&nbsp;św. życzymy błogosławionej niedzieli.</p>
         <p>
-            <span style="float: left;">Sandomierz, 13.&nbsp;grudnia 2020&nbsp;r.</span>
+            <span style="float: left;">Sandomierz, 20.&nbsp;grudnia 2020&nbsp;r.</span>
             <span style="float: right; text-align: right;">ks. proboszcz Stanisław Chmielewski</span>
         </p>
     </div>

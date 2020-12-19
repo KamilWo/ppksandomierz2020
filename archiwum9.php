@@ -13,7 +13,180 @@ include 'head.php';
             <!-- treść główna -->
             <div class="col">
                 <h2 class="first-content-header">Archiwum wiadomości 2020 rok</h2>
-                <h2>Okres 1.&nbsp;stycznia 2020 - 13.&nbsp;grudnia 2020 r.</h2>
+                <h2>Okres 1.&nbsp;stycznia 2020 - 20.&nbsp;grudnia 2020 r.</h2>
+<div class="card">
+    <div class="card-header">
+        <h3>INTENCJE MSZALNE<br />
+            14 – 20&nbsp;grudnia 2020&nbsp;r.
+        </h3>
+    </div>
+    <div class="col">
+<p class="intentions_date">14&nbsp;grudnia, Poniedziałek –
+św. Jana od Krzyża</p>
+<ul>
+    <li>6.30 + Zofię, Stanisława Frańczaków</li>
+    <li>6.30 + Stanisławę Jarecką</li>
+    <li>6.30 + Ryszarda Sadoka</li>
+    <li>18.00 + Klarę Stefańską</li>
+    <li>18.00 + Juliana Bednarskiego – greg.&nbsp;5</li>
+    <li>18.00 + Jana Szczębarę – greg.&nbsp;15</li>
+</ul>
+
+<p class="intentions_date">15&nbsp;grudnia, Wtorek</p>
+<ul>
+    <li>6.30 + Marię Misztal w&nbsp;r.&nbsp;śm.</li>
+    <li>6.30 + Stanisławę Jarecką</li>
+    <li>6.30 + Juliana Bednarskiego – greg.&nbsp;6</li>
+    <li>18.00 + Stanisława Kondrata w&nbsp;30.&nbsp;dzień
+    po&nbsp;śm.</li>
+    <li>18.00 + Jana Szczębarę – greg.&nbsp;16</li>
+    <li>18.00 + Helenę Karasiak</li>
+</ul>
+
+<p class="intentions_date">16&nbsp;grudnia, Środa</p>
+<ul>
+    <li>6.30 + Emila Kuzę</li>
+    <li>6.30 + Henryka, Wiesława, Zofię</li>
+    <li>6.30 + Juliana Bednarskiego – greg.&nbsp;7</li>
+    <li>18.00 + Jana Szczębarę – greg.&nbsp;17</li>
+    <li>18.00 + Jana Mazura</li>
+    <li>18.00 + Reginę Zarębę w&nbsp;2.&nbsp;r.&nbsp;śm.</li>
+</ul>
+
+<p class="intentions_date">17&nbsp;grudnia, Czwartek</p>
+<ul>
+    <li>6.30 o&nbsp;Boże błogosławieństwo, łaski potrzebne
+    do&nbsp;zbawienia i&nbsp;opiekę Matki Bożej dla Agnieszki, Anny,
+    Aleksandry</li>
+    <li>6.30 + Jana, Eugeniusza, Tomasza, Władysława</li>
+    <li>6.30 + Juliana Bednarskiego – greg.&nbsp;8</li>
+    <li>18.00 + Annę Marię Mazacz z&nbsp;d.&nbsp;Wódz; Jana, Helenę
+    Wódz; Józefa, Helenę Boduła</li>
+    <li>18.00 + Stanisława Ćmiela i&nbsp;zm. z&nbsp;rodz.</li>
+    <li>18.00 + Jana Szczębarę – greg.&nbsp;18</li>
+</ul>
+
+<p class="intentions_date">18&nbsp;grudnia, Piątek</p>
+<ul>
+    <li>6.30 + Helenę i&nbsp;zm. z&nbsp;rodz. oraz dusze
+    w&nbsp;czyśćcu cierpiące</li>
+    <li>6.30 + za&nbsp;dusze w&nbsp;czyśćcu cierpiące oraz
+    w&nbsp;int. siostry Doroty o&nbsp;łaskę przebaczenia</li>
+    <li>6.30 + Henrykę Kurzępę</li>
+    <li>18.00 Int. dziękczynno-błagalna za&nbsp;dar 93. lat życia
+    Genowefy z&nbsp;prośbą o&nbsp;dalsze Boże błogosławieństwo
+    w&nbsp;dźwiganiu krzyża i&nbsp;opiekę Matki Bożej</li>
+    <li>18.00 + Juliana Bednarskiego – greg.&nbsp;9</li>
+    <li>18.00 + Jana Szczębarę – greg.&nbsp;19</li>
+</ul>
+
+<p class="intentions_date">19&nbsp;grudnia, Sobota</p>
+<ul>
+    <li>6.30 + Wacława Łukaszka</li>
+    <li>6.30 + Zofię Strawczyńską</li>
+    <li>6.30 + Juliana Bednarskiego – greg.&nbsp;10</li>
+    <li>18.00 Int. dziękczynno – wynagradzająca</li>
+    <li>18.00 + Mariana Mroczkowskiego</li>
+    <li>18.00 + Jana Szczębarę – greg.&nbsp;20</li>
+</ul>
+
+<p class="intentions_date">20&nbsp;grudnia, Niedziela –
+    <span style="color: grey">
+        IV&nbsp;NIEDZIELA ADWENTU
+    </span>
+</p>
+<ul>
+    <lI>7.30 + Jana Rogowskiego; Jana, Bronisławę Zająców</lI>
+    <lI>7.30 + Jana Szczębarę – greg.&nbsp;21</lI>
+    <lI>9.30 + Wiesława w&nbsp;24.&nbsp;r.&nbsp;śm.,
+    zm.&nbsp;z&nbsp;rodz. Misiudów i&nbsp;Gajdów</lI>
+    <lI>11.15 + Mariana Wojtasa w&nbsp;3.&nbsp;r.&nbsp;śm.</lI>
+    <lI>12.30 w&nbsp;intencji parafian</lI>
+    <lI>12.30 + Juliana Bednarskiego – greg.&nbsp;11</lI>
+    <lI>18.00 + Dariusza Bełczowskiego w&nbsp;1.&nbsp;r.&nbsp;śm.</lI>
+    <lI>18.00 + Stanisława Wnuka w&nbsp;10.&nbsp;r.&nbsp;śm., Jana,
+    Marię Wnuków</lI>
+</ul>
+    </div>
+</div>
+<br/>
+
+<div class="card">
+    <div class="card-header">
+        <h3>13.&nbsp;grudnia 2020&nbsp;r.</h3>
+        <h3>III NIEDZIELA ADWENTU (Gaudete), Rok B</h3>
+    </div>
+    <div class="col">
+        <h3><em>Gaudete</em> – to&nbsp;łacińska nazwa trzeciej niedzieli Adwentu,
+        pochodząca od&nbsp;pierwszego łacińskiego słowa antyfony
+        rozpoczynającej tego dnia Liturgię Eucharystyczną: <strong>Radujcie
+        się!</strong> Tego dnia w&nbsp;liturgii używa się szat koloru
+        różowego. Jeszcze bardziej będziemy się radować, gdy odkryjemy prawdę
+        o&nbsp;tym, że&nbsp;Chrystus wciąż do&nbsp;nas przychodzi. Wtedy
+        przepełni nas radość płynąca ze&nbsp;świadomości, że&nbsp;stoi
+        On&nbsp;także u&nbsp;podwoi naszego serca i&nbsp;kołacze. Otwórzmy
+        na&nbsp;oścież drzwi Chrystusowi. Oby nie okazało się, że&nbsp;nie
+        nadajemy się do&nbsp;Nieba, ponieważ nie umiemy się cieszyć,
+        bo&nbsp;zapomnieliśmy, jak to&nbsp;się robi. Usłyszmy więc
+        to&nbsp;dzisiejsze wezwanie Kościoła: <strong>Bądź radosny!
+        Nie zamykaj się w&nbsp;samotności i&nbsp;smutku. Jezus jest
+        z&nbsp;Tobą!</strong></h3>
+
+        <p>1. <em>Bóg zapłać</em> mieszkańcom  bloku 49
+        z&nbsp;ul.&nbsp;Mickiewicza mieszkania od&nbsp;30 do&nbsp;40,
+        za&nbsp;ofiarę 120&nbsp;zł na&nbsp;potrzeby parafii. Wyrażamy
+        wdzięczność wobec tych parafian, którzy sprzątali nasz kościół
+        w&nbsp;minionym tygodniu. <strong>W&nbsp;najbliższą sobotę,
+        do&nbsp;sprzątania świątyni parafialnej prosimy</strong> parafian
+        mieszkających przy ul.&nbsp;Mickiewicza, blok 51, mieszkania
+        od&nbsp;1 do&nbsp;10.</p>
+        <p>2. Zachęcamy do&nbsp;czytania prasy katolickiej: „Niedziela”,
+        „Gość Niedzielny”. Są&nbsp;do&nbsp;nabycia na&nbsp;stoliku pod chórem
+        w&nbsp;kościele.</p>
+        <p>3. Można nabyć świece wigilijne „Caritas” i&nbsp;wigilijne opłatki
+        w&nbsp;kościele lub w&nbsp;zakrystii. Dziękujemy parafialnym liderom
+        za&nbsp;rozniesienie opłatków w&nbsp;poszczególnych częściach
+        parafii. <em>Bóg zapłać</em> za&nbsp;ten trud.</p>
+        <p>4. Przypominamy o&nbsp;konieczności skorzystania z&nbsp;sakramentu
+        Pokuty, abyśmy godnie jako chrześcijanie w&nbsp;głębokiej jedności
+        z&nbsp;Panem Bogiem przeżyli Uroczystość Narodzenia Pana Jezusa.
+        Każdego dnia do&nbsp;środy, tj.&nbsp;23 grudnia br.,
+        od&nbsp;godz.&nbsp;17.00 przed Mszą&nbsp;św. wieczorną,
+        w&nbsp;konfesjonale, w&nbsp;kościele będzie dyżurował przynajmniej
+        jeden kapłan.</p>
+        <p>5. We&nbsp;wtorek, tj.&nbsp;22&nbsp;grudnia br., odwiedzimy tych
+        chorych z&nbsp;sakramentalną posługą, którzy zostaną zgłoszeni
+        w&nbsp;zakrystii lub w&nbsp;parafialnej kancelarii, w&nbsp;dni
+        poprzedzające tę&nbsp;wizytę i&nbsp;po&nbsp;zaczerpnięciu informacji
+        o&nbsp;stanie ich zdrowia. Prosimy o&nbsp;zgłaszanie chorych.</p>
+        <p>6. W&nbsp;dniach od&nbsp;21 do&nbsp;23&nbsp;grudnia br.
+        o&nbsp;godz.&nbsp;17.00. rekolekcje dla dorosłych będą transmitowane
+        na&nbsp;kanale YouTube Diecezji Sandomierskiej, z&nbsp;parafii
+        we&nbsp;Wszechświętych. W&nbsp;tych samych dniach
+        o&nbsp;godz.&nbsp;10.00 rekolekcje adwentowe dla dzieci, a&nbsp;dla
+        młodzieży o&nbsp;godz.&nbsp;11.00. Transmisja z&nbsp;kościoła
+        parafialnego p.w.&nbsp;Matki Bożej Nieustającej Pomocy
+        w&nbsp;Tarnobrzegu Serbinowie.</p>
+        <p>7. Za&nbsp;pośrednictwem Konferencji Episkopatu Polski, Prezes
+        Naczelnej Rady Lekarskiej zwraca się z&nbsp;gorącym apelem
+        do&nbsp;wszystkich osób, które przeszły chorobę COVID-19
+        o&nbsp;oddawanie osocza. Jak czytamy w&nbsp;apelu: „badania naukowe
+        potwierdzają, że&nbsp;osocze ozdrowieńców, podane we&nbsp;wczesnej
+        fazie choroby, może zmniejszyć ryzyko zgonu. Dawcą może być każdy
+        ozdrowieniec. Wystarczy zgłosić się – nie wcześniej niż
+        po&nbsp;miesiącu od&nbsp;wyzdrowienia – do&nbsp;regionalnego centrum
+        Krwiodawstwa i&nbsp;Krwiolecznictwa”. Wszystkim, którzy pozytywnie
+        odpowiedzą na&nbsp;Apel serdeczni dziękujemy.</p>
+        <p>8. Wszystkim uczestniczącym we&nbsp;Mszy&nbsp;św. życzymy
+        błogosławionej niedzieli.</p>
+        <p>
+            <span style="float: left;">Sandomierz, 13.&nbsp;grudnia 2020&nbsp;r.</span>
+            <span style="float: right; text-align: right;">ks. proboszcz Stanisław Chmielewski</span>
+        </p>
+    </div>
+</div>
+<br />
+
 <div class="card">
     <div class="card-header">
         <h3>INTENCJE MSZALNE<br />
