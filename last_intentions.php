@@ -1,107 +1,111 @@
 <div class="card">
     <div class="card-header">
         <h3>INTENCJE MSZALNE<br />
-            21 – 27&nbsp;grudnia 2020&nbsp;r.
+            28&nbsp;grudnia 2020&nbsp;r. –
+            03&nbsp;stycznia 2021&nbsp;r.
         </h3>
     </div>
     <div class="col">
-<p class="intentions_date">21&nbsp;grudnia, Poniedziałek –
-św.&nbsp;Jana od&nbsp;Krzyża</p>
+<p class="intentions_date">28&nbsp;grudnia, Poniedziałek –
+św.&nbsp;Młodzianków, męczenników</p>
 <ul>
-    <li>6.30 Int. dziękczynno-błagalna o&nbsp;Boże błogosławieństwo,
-    potrzebne łaski i&nbsp;opiekę Matki Bożej w&nbsp;małżeństwie Asi
-    i&nbsp;Daniela</li>
-    <li>6.30 Int. o&nbsp;Boże błogosławieństwo, łaski potrzebne
-    do&nbsp;zbawienia i&nbsp;opiekę Matki Bożej dla dzieci
-    i&nbsp;chrześniaków</li>
-    <li>6.30 + Kazimierza, Helenę, zm.&nbsp;z&nbsp;rodz. oraz dusze
-    w&nbsp;czyśćcu cierpiące</li>
-    <li>18.00 + Juliana Bednarskiego – greg.&nbsp;12</li>
-    <li>18.00 + Jana Szczębarę – greg.&nbsp;22</li>
-    <li>18.00 + Mariana Mroczkowskiego</li>
+    <li>6.30 + Jacka Strugałę</li>
+    <li>6.30 + Jacka Strugałę</li>
+    <li>6.30 + Juliana Bednarskiego – greg.&nbsp;19</li>
+    <li>18.00 + Jana Szczębarę – greg.&nbsp;29</li>
+    <li>18.00 + Zofię, Mariana Krawczyków</li>
+    <li>18.00 int. o&nbsp;Boże błogosławieństwo, potrzebne łaski
+    i&nbsp;opiekę Matki Bożej dla Stanisławy i&nbsp;Tadeusza oraz ich
+    rodziny</li>
 </ul>
 
-<p class="intentions_date">22&nbsp;grudnia, Wtorek</p>
+<p class="intentions_date">29&nbsp;grudnia, Wtorek</p>
 <ul>
-    <li>6.30 Int. o&nbsp;Boże błogosławieństwo, potrzebne łaski
-    i&nbsp;opiekę Matki Bożej dla Szczepana z&nbsp;racji imienin
-    i&nbsp;urodzin</li>
-    <li>6.30 + Helenę Karasiak</li>
-    <li>6.30 W&nbsp;int. Panu Bogu wiadomej</li>
-    <li>18.00 + Tomasza Płatosa</li>
-    <li>18.00 + Juliana Bednarskiego – greg.&nbsp;13</li>
-    <li>18.00 + Jana Szczębarę – greg.&nbsp;23</li>
+    <li>6.30 + Juliana Bednarskiego – greg.&nbsp;20</li>
+    <li>18.00 + Rozalię, Stanisława Oszczudłowskich
+    w&nbsp;12&nbsp;r.&nbsp;śm.</li>
+    <li>18.00 + Jana Szczębarę – greg.&nbsp;30</li>
+    <li>18.00 + Zofię, Stanisława Frańczaków; Genowefę Różalską;
+    zm.&nbsp;z&nbsp;rodz. Rutkowskich i&nbsp;Różalskich</li>
 </ul>
 
-<p class="intentions_date">23&nbsp;grudnia, Środa</p>
+<p class="intentions_date">30&nbsp;grudnia, Środa</p>
 <ul>
-    <li>6.30 + Mariana Wojtasa</li>
-    <li>6.30 + Marka Wrzesińskiego</li>
-    <li>6.30 + Juliana Bednarskiego – greg.&nbsp;14</li>
-    <li>18.00 + Zofię, Jana Łukaszków</li>
-    <li>18.00 + Paulinę, Katarzynę, Tomasza Grobelskich</li>
-    <li>18.00 + Jana Szczębarę – greg.&nbsp;24</li>
+    <li>6.30 w&nbsp;int. Szczepana o&nbsp;Boże błogosławieństwo, dary
+    Ducha Świętego, potrzebne łaski i&nbsp;opiekę Matki Bożej</li>
+    <li>6.30 + Marię, Tadeusza, Zofię Pająków</li>
+    <li>6.30 + Feliksa Borkowskiego</li>
+    <li>18.00 + Joannę Dondę w&nbsp;dniu urodzin</li>
+    <li>18.00 + Edmunda w&nbsp;6&nbsp;r.&nbsp;śm.; Zofię, Jana
+    Rosieckich</li>
+    <li>18.00 + Juliana Bednarskiego – greg.&nbsp;21</li>
 </ul>
 
-<p class="intentions_date">24&nbsp;grudnia, Czwartek</p>
+<p class="intentions_date">31&nbsp;grudnia, Czwartek</p>
 <ul>
-    <li>6.30 + Bolesława, Kazimierza Grządkowskich i&nbsp;zm.
-    z&nbsp;rodz.</li>
-    <li>6.30 + Helenę, Kazimierza Dominików</li>
-    <li>6.30 + Jana Szczębarę – greg.&nbsp;25</li>
-    <li>6.30 + Helenę, Franciszka, Urszulę, Kazimierza,
-    zm.&nbsp;z&nbsp;ich rodz. oraz dusze w&nbsp;czyśćcu cierpiące</li>
-    <li>6.30 + Juliana Bednarskiego – greg.&nbsp;8</li>
-    <li>6.30 + Mariana Mroczkowskiego</li>
+    <li>6.30 + Feliksa Borkowskiego</li>
+    <li>6.30 + Jarosława Drabika</li>
+    <li>6.30 + o&nbsp;Boże błogosławieństwo, dary Ducha Świętego,
+    potrzebne łaski i&nbsp;opiekę Matki Bożej dla rodz. Ewy
+    i&nbsp;Ryszarda oraz Kamila z&nbsp;rodziną szczególnie łaskę
+    zdrowia i&nbsp;umocnienie wiary</li>
+    <li>17.00 + Juliana Bednarskiego – greg.&nbsp;22</li>
+    <li>17.00 + Stefanię Bińczak w&nbsp;22&nbsp;r.&nbsp;śm.</li>
+    <li>17.00 + Stanisławę, Władysława Bokwów</li>
 </ul>
 
-<p class="intentions_date">25&nbsp;grudnia, Piątek – Uroczystość
-Narodzenia Pańskiego</p>
+<p class="intentions_date">01&nbsp;stycznia, Piątek –
+Uroczystość Świętej Bożej Rodzicielki Maryi</p>
 <ul>
-    <li>24.00 PASTERKA W&nbsp;INTENCJI PARAFIAN</li>
-    <li>7.30 + Stefanię, Józefa, Krzysztofa Łukawskich; Stanisława
-    Leokadię Majcher</li>
-    <li>7.30 + Juliana Bednarskiego – greg.&nbsp;16</li>
-    <li>9.30 + Jana Szczębarę – greg.&nbsp;26</li>
-    <li>11.15 + Jana Makowskiego i&nbsp;zm. z&nbsp;rodz.; Klarę,
-    Jana Chrząstowskich</li>
-    <li>12.30 + Krystynę Polit w&nbsp;16.&nbsp;r.&nbsp;śm., Stefanię,
-    Józefa Janus; Zofię Lachtarę; Marię Stąpór</li>
-    <li>18.00 + Bronisława Webera w&nbsp;2. r.&nbsp;śm.
-    zm.&nbsp;z&nbsp;rodz. Weberów i&nbsp;Maślachów</li>
+    <li>7.30 w&nbsp;intencji parafian</li>
+    <li>7.30 + Juliana Bednarskiego – greg.&nbsp;23</li>
+    <li>9.30 + Helenę, Władysława Sudołów; Wiktorię, Władysława
+    Politów</li>
+    <li>11.15 o&nbsp;Boże błogosławieństwo, dary Ducha Świętego,
+    wszelkie łaski i&nbsp;opiekę Matki Bożej dla Koła Żywego Różańca
+    w&nbsp;Parafii</li>
+    <li>11.15 + Mieczysława, Helenę, Jana Wnuków; Katarzynę,
+    Stanisława Wyrzykowskich; Tadeusza Judę</li>
+    <li>12.30 o&nbsp;Boże błogosławieństwo, dary Ducha Świętego,
+    wszelkie łaski i&nbsp;opiekę Matki Bożej dla Ewy w&nbsp;dniu
+    urodzin oraz za&nbsp;+&nbsp;Mieczysława, Helenę, Władysława,
+    Mariannę</li>
+    <li>18.00 + Stanisławę, Jana, Stanisława, Witolda, Mariana,
+    Krystynę, Mariana</li>
 </ul>
 
-<p class="intentions_date">26&nbsp;grudnia, Sobota –
-św.&nbsp;Szczepana</p>
+<p class="intentions_date">02&nbsp;stycznia, Sobota –
+św.&nbsp;Bazylego Wielkiego i&nbsp;św.&nbsp;Grzegorza
+z&nbsp;Nazjanzu</p>
 <ul>
-    <li>7.30 + Marcina w&nbsp;1.&nbsp;r.&nbsp;śm., Józefa i&nbsp;zm.
-    z&nbsp;rodz. Ozdobów</li>
-    <li>7.30 + Juliana Bednarskiego – greg.&nbsp;17</li>
-    <li>9.30 Int. o&nbsp;Boże błogosławieństwo, dary Ducha Świętego
+    <li>6.30 + Juliana Bednarskiego – greg.&nbsp;24</li>
+    <li>6.30 + Tadeusza Mądrego</li>
+    <li>6.30 int. o&nbsp;Boże błogosławieństwo, dary Ducha Świętego
     i&nbsp;opiekę Matki Bożej wstawiennictwo św.&nbsp;Patrona dla
     Wojciecha Fularskiego</li>
-    <li>11.15 + Władysława w&nbsp;r.&nbsp;śm., Mariannę, Jana Lipców;
-    Annę Tomaszewską; Jana Wnuka</li>
-    <li>12.30 + Jana Szczębarę – greg.&nbsp;27</li>
-    <li>18.00 + Józefę, Stanisława Wolaków; Mariannę, Adama Bąków
-    i&nbsp;zm. z&nbsp;rodz. Wolaków i&nbsp;Bąków</li>
+    <li>18.00 int. wynagradzająca za&nbsp;grzechy i&nbsp;bluźnierstwa
+    od&nbsp;Legionu Maryi</li>
+    <li>18.00 + Witolda w&nbsp;r.&nbsp;śm.</li>
+    <li>18.00 + Bogusławę Maziarz</li>
 </ul>
 
-<p class="intentions_date">27&nbsp;grudnia,
+<p class="intentions_date">03&nbsp;stycznia,
     <span style="color: grey">
-        Niedziela, Święto Świętej Rodziny Jezusa, Maryi i&nbsp;Józefa
+        Druga Niedziela po Narodzeniu Pańskim
     </span>
 </p>
 <ul>
-    <li>7.30 + Stanisławę, Franciszka Kowalskich; Marię Woś; Wiesławę
-    Wałcerz; Celinę, Jana, Jarosława Gucałów</li>
-    <li>7.30 + Jana Szczębarę – greg.&nbsp;28</li>
-    <li>9.30 W&nbsp;intencji parafian</li>
-    <li>9.30 + Józefa Krasudę w&nbsp;5.&nbsp;r.&nbsp;śm.</li>
-    <li>11.15 + Witolda Heciaka w&nbsp;2.&nbsp;r.&nbsp;śm.</li>
-    <li>12.30 + Juliana Bednarskiego – greg.&nbsp;18</li>
-    <li>18.00 + Jana, Kazimierę, Mirosława, Stanisława Czarneckich;
-    Krzysztofa Łucję Czarneckich</li>
+    <li>7.30 + Stanisława, Leokadię, Romana, Marię Majcherów</li>
+    <li>7.30 + Juliana Bednarskiego – greg.&nbsp;25</li>
+    <li>9.30 w&nbsp;intencji parafian</li>
+    <li>11.15 w&nbsp;int. Koła Żywego Różańca z&nbsp;Milczan
+    o&nbsp;Boże błogosławieństwo, dary Ducha Świętego i&nbsp;opiekę
+    Matki Bożej</li>
+    <li>11.15 + Sylwestra Gajka w&nbsp;6&nbsp;r.&nbsp;śm.</li>
+    <li>12.30 + Eugeniusza, Teresę Paciochów; Zenona Mądrego
+    i&nbsp;zm.&nbsp;rodziców</li>
+    <li>18.00 + Bolesława Kamińskiego w&nbsp;46&nbsp;r.&nbsp;śm.;
+    Anielę, Józefa Szalów</li>
 </ul>
     </div>
 </div>
